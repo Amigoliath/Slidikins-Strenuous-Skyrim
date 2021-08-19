@@ -9,12 +9,29 @@ Compatible with: **The Phoenix Flavour 4.7.2**
 - Click **Copy** to set up a new profile based on **The Phoenix Flavour**.
 - Enter **Slidikins' Strenuous Skyrim** as the name.
 - Select your new profile in the list.
-- Click Close to exit the settings.
+- Click **Close** to exit the settings.
 - In the profile list below the top left menu in MO2, select your new profile to switch to it.
 > This new profile is separate from your TPF install. It uses its own directory for INIs and save files. This will allow you to switch back to TPF whenever you'd like.
 
 ## BethINI
-BethINI changes coming soon
+- Close Mod Organizer 2.
+- Go to `Your Modding Folder\Tools\BethINI`.
+- Double-click **BethINI.exe**.
+
+### BethINI - Basic
+If you aren't already there, click the second tab, **Basic**.
+- Enable **Always Active**.
+> The game won't lock up if you Alt+Tab away from it with this setting.
+
+### BethINI - Gameplay
+Continue to the fourth tab, **Gameplay**.
+- Enable **NPCs Use Ammo**.
+> Archers will no longer have unlimited ammunition in fights. This will also affect followers.
+
+## Save Changes
+- Return to the second tab, **Basic**, and click `Save and Exit`.
+- Restart Mod Organizer 2.
+- You might be notified about the missing skyrimcustom.ini in which case you can just click **OK**.
 
 # 2. Compatibility Notes
 In order to turn TPF into SSS:SE, you’ll need to **deactivate** the mods I do not use (marked at the top of each section), then place the new mods into a **new separator underneath the TPF one**. For example, for the Gameplay Overhauls section, create a separator called `Gameplay Overhauls - SSS`, change its color to something that sticks out, and place it under `Gameplay Overhauls` and its mods.
