@@ -288,13 +288,14 @@ I’ve added the following mods to this section:
 - **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
 ### [Survival (CC)](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
+This is mandatory for this modlist as I prefer it over other Survival mods. _[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)_ is a close second, but I offer no support towards making that work here.
 
 ### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
 - **Optional Files:** Apothecary - Food Duration Tweaks
 
 #### Additional Instructions
-- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit (instructions)
+- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ### [Apothecary Food - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53236?tab=files)
 #### Download Instructions
@@ -423,7 +424,7 @@ I’ve added the following mod to this section:
 
 ### [Dynamic Timescale](https://www.nexusmods.com/skyrimspecialedition/mods/18922?tab=files)
 #### Download Instructions
-Main Files: Dynamic Timescale SE
+- Main Files: Dynamic Timescale SE
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
@@ -482,9 +483,9 @@ I’ve added the following mods to this section:
 
 #### Additional Instructions
 - Delete the following file(s) and / or folder(s):
-  - Draw2.achlist
-  - Draw2.bsa
-  - Draw2.esp
+  - `Draw2.achlist`
+  - `Draw2.bsa`
+  - `Draw2.esp`
 
 ### [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006?tab=files)
 #### Download Instructions
@@ -492,7 +493,7 @@ I’ve added the following mods to this section:
 
 ### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177?tab=files)
 #### Download Instructions
-**Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+- **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
 ## 3.30 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
@@ -531,29 +532,29 @@ All controls changed from the Default:
   - Weather Section
     - Seasonal Perspective: Enabled
 
-## Conner’s Survival Mode
+### Conner’s Survival Mode
 - General Panel
   - Quality of Life Section
     - Shrine Gold Cost: 500
     - Enable Health Regen: Disabled
 
-## Dynamic Timescale
+### Dynamic Timescale
 - AutoSave Section
   - Reoccurring Time: 0 MIN
   - After picking a lock time: 0 SEC
   - After combat time: 0 SEC
 
-## Favorite Howls Menu
+### Favorite Howls Menu
 - Revert Form: Enabled
 - Night Eye: Enabled
 
-## Honed Metal
+### Honed Metal
 - General Section
   - Crafting Cost Modifier: 0.60
   - Tempering Cost Modifier: 0.04
   - Enchanting Cost Modifier: 0.28
 
-## Immersive HUD
+### Immersive HUD
 - Activation Panel
   - Compass Activation Section
     - iHUD hotkey: Backspace
@@ -573,18 +574,18 @@ All controls changed from the Default:
   - Health: 60%
   - Stamina: 60%
 
-## moreHUD
+### moreHUD
 - Presets Panel
   - Save setting with FISS Section
     - Load User Settings?: Select
 
-## Simple Smithing
+### Simple Smithing
 - Settings Panel
   - Craftable Toggles Section
     - Allow Artefact Replication: Disabled
     - Allow Upgrade Unique Gear Levels: Disabled
 
-## Sky UI
+### Sky UI
 - General Panel
   - Item List Section
     - Font Size: Small
@@ -597,12 +598,12 @@ All controls changed from the Default:
     - Group 3: -
     - Group 4: =
 
-## SmoothCam
+### SmoothCam
 - Presets Panel
   - Load Preset Section
     - Slot 3: Slidikins’ Strenuous Skyrim: Select
 
-## Timing is Everything
+### Timing is Everything
 - Extra Options Panel
   - Presets Section
     - Load Preset: Select
@@ -610,12 +611,12 @@ All controls changed from the Default:
   - Misc Quests Section
     - Ebony Warrior: 50
 
-## Trade & Barter
+### Trade & Barter
 - Barter Rates Panel
   - Settings Section
     - Modify Barter Settings: Enabled
 
-## True Directional Movement
+### True Directional Movement
 - Target Lock Panel
   - Projectile Settings Section
     - Arrow Aim Mode: Free Aim
@@ -635,7 +636,7 @@ All controls changed from the Default:
   - Visibility Settings Section
     - Show Boss Bar: Disabled
 
-## Wergild Depreciation
+### Wergild Depreciation
 - Set the Default Values Panel
   - Set the Default Values Section
     - Exile Required: Enabled
