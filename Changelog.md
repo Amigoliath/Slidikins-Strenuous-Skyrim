@@ -1,4 +1,4 @@
-Latest update: **08-18-2021**
+Latest update: **08-18-2021**  
 Compatible with: **The Phoenix Flavour 4.7.2**
 
 # Changelog
@@ -9,13 +9,13 @@ Compatible with: **The Phoenix Flavour 4.7.2**
 - **Visual FX:** Added Enhanced Blood Textures - Transparency Fix for ENB
 - **Gameplay Overhauls:** Removed Adamant - Shrines and Amulets from the TPF instructions in lieu of Pilgrim - A Religion Overhaul
 - **Gameplay Overhauls:** Skyrim Uncapper - Slidikins’ Strenuous Skyrim updated to readjust crafting leveling speed
-- ****Miscellaneous:**** Removed Misc Tweaks - Shrines Don’t Cure Diseases in lieu of Pilgrim - A Religion Overhaul
+- **Miscellaneous:** Removed Misc Tweaks - Shrines Don’t Cure Diseases in lieu of Pilgrim - A Religion Overhaul
 - **Skeletons & Animation:** Revised XP32 Maximum Skeleton Special Extended instructions to not interfere with TPF installations
 - **Skeletons & Animation:** Removed EVG Animation Variance as it was too problematic
-- **Conflict Resolution:** Carried over changes properly for Gold (0000000F)
-- **Conflict Resolution:** Removed edits to MAG_AltarAkatoshSpell (000FB988)
+- **Conflict Resolution:** Carried over changes properly for Gold `(0000000F)`
+- **Conflict Resolution:** Removed edits to MAG_AltarAkatoshSpell `(000FB988)`
 - **Conflict Resolution:** Removed Gold from Desecrated Corpses
-- **Conflict Resolution:** Adjusted patch to MAG_SunDamageConcAimedCloak (02008A5D)
+- **Conflict Resolution:** Adjusted patch to MAG_SunDamageConcAimedCloak `(02008A5D)`
 - **Conflict Resolution:** Patched 4 NPCs between Pilgrim and AI Overhaul
 - **MCM Configuration:** Increased Shrine Gold Cost in Conner’s Survival Mode again since Pilgrim allows free refreshing of the blessing
 - **MCM Configuration:** True Directional Movement configuration updated also to have a matching dot lock on
@@ -265,7 +265,7 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Conflict Resolution:** Renamed Miscellaneous Tweaks.esp to Conflict Resolution 2.esp
 - **Conflict Resolution:** Incorporated Scarcity changes where needed.
 - **Conflict Resolution:** Set the Dummy Item (xx0F3854) from Enchanting Adjustments to Non-Playable so that it doesn’t appear
-- **Conflict Resolution:** Merged Gold001(0000000F) changes from Weapons Armor Clothing & Clutter Fixes and Container and Arrow Weight Restrictions
+- **Conflict Resolution:** Merged Gold001 `(0000000F)` changes from Weapons Armor Clothing & Clutter Fixes and Container and Arrow Weight Restrictions
 
 ## 02-21-2021 (4.3)
 - Updated for [TPF 4.3](https://thephoenixflavour.com/tpf/appendix/changelog/#release-43)
