@@ -476,8 +476,8 @@ I’ve added the following mods to this section:
 #### FOMOD Instructions
 - **Behavior Trigger:** Non-Combat Only
 - **Perk Options:** No Perk
-- **Patch Options:** 360 Walk and Run Plus
-- **Patch Options:** Combat Gameplay Overhaul
+- <s>**Patch Options:** 360 Walk and Run Plus</s>
+- <s>**Patch Options:** Combat Gameplay Overhaul</s>
 
 #### Additional Instructions
 - Delete the following file(s) and / or folder(s):
