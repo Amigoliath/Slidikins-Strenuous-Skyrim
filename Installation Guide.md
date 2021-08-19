@@ -278,9 +278,14 @@ I’ve updated instructions for the following mod:
 ## 3.21 Gameplay Overhauls
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
 
+**Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_
 **Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset, naturally.
 
 I’ve added the following mods to this section:
+
+### Pilgrim - A Religion Overhaul
+#### Download Instructions
+- **Main Files:** Pilgrim - A Religion Overhaul
 
 ### [Skyrim Uncapper - Slidikins’ Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
@@ -417,6 +422,7 @@ I’ve added the following mods to this section:
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
+**Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.
 
 I’ve added the following mod to this section:
@@ -549,7 +555,9 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Slidikins' Strenuous Skyrim - Nemesis Output** mod folder.
 - Deactivate the old **Nemesis Output** mod in the left pane.
 
-## 4.4 Controls Configuration
+# 5. Configuration
+
+## 5.1 Controls
 
 All controls changed from the Default:
 
@@ -559,7 +567,8 @@ All controls changed from the Default:
 **Quick Magic:** `F3`  
 **Quick Stats:** `F1`
 
-## 4.5 MCM Configuration
+## 5.2 Mod Configuration
+Recommended MCM instructions.
 
 ### Cathedral Weathers
 - **Settings** Panel
