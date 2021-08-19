@@ -310,6 +310,24 @@ I’ve added the following mods to this section:
 
 ### [Survival (CC)](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 This is mandatory for this modlist as I prefer it over other Survival mods. _[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)_ is a close second, but I offer no support towards making that work here.
+#### Download Instructions
+- Close Mod Organizer 2.
+- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
+- Select **Play**.
+- At the title screen, select **Creation Club**. Log in if needed.
+- (Purchase **Survival Mode** under Gameplay if needed.)
+> To save time later, **Rare Curios** can be purchased and downloaded now as well.
+- Select **Survival Mode** under the Purchased tab.
+- Select **Download**.
+- Exit the Creation Club, reload, then exit the game.
+- Go to your Skyrim SE **root** folder, then double click **Data**.
+- Create a new folder called **Survival (CC)**.
+- Move the following files into the new folder:
+  - ccqdrsse001-survivalmode.bsa
+  - ccqdrsse001-survivalmode.esl
+- Move the **Survival (CC)** folder into `Mod Organizer 2\mods\`
+- Open Mod Organizer 2.
+- The new mod will show up at the bottom of you mod order. Hit F5 to refresh if it did not.
 
 ### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -360,6 +378,23 @@ I’ve added the following mods to this section:
 
 ### [Rare Curios (CC)](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
 This adds new alchemy ingredients (and a couple of effects), as well as some other miscellaneous items. Completely optional, so skip it (and the patches) if you don’t have it.
+#### Download Instructions
+- Close Mod Organizer 2.
+- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
+- Select **Play**.
+- At the title screen, select **Creation Club**. Log in if needed.
+- (Purchase **Rare Curios** under Gameplay if needed.)
+- Select **Rare Curios** under the Purchased tab.
+- Select **Download**.
+- Exit the Creation Club, reload, then exit the game.
+- Go to your Skyrim SE **root** folder, then double click **Data**.
+- Create a new folder called **Rare Curios (CC)**.
+- Move the following files into the new folder:
+  - ccbgssse037-curios.bsa
+  - ccbgssse037-curios.esl
+- Move the **Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
+- Open Mod Organizer 2.
+- The new mod will show up at the bottom of you mod order. Hit F5 to refresh if it did not.
 
 ### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
 #### Download Instructions
