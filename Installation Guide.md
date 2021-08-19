@@ -1,4 +1,3 @@
-# Slidikins' Strenuous Skyrim
 Latest update: **08-18-2021**  
 Compatible with: **The Phoenix Flavour 4.7.2**
 
