@@ -19,49 +19,62 @@ Compatible with: **The Phoenix Flavour 4.7.2**
 - Tougher Equipment Acquisition : Higher tier items are rarer to find and will likely need to be crafted or commissioned. In addition, gear quality degrades with use if not maintained through tempering. If you’re not trained in the crafting skills, you can commission what you need through Honed Metal, but even then some things may be out of reach.
 - Preparedness Rewarded : The lack of natural health regen will dwindle supplies if you’re hurt frequently, forcing you to retreat. Long fights are not your friend. Bringing the right tools for the job, along with accounting for Resistances and Weaknesses, will go a long way towards preventing stalls in your adventures.
 
-# 2. Compatibility Notes
-Through plenty of testing and tweaking, these mods work together perfectly if installed in the order given by TPF. If you simply install these mods and run LOOT, **you will not have a good time**. The Conflict Resolution plugin given by TPF handles all the conflicts that occur with the prescribed load order. The mods I’ve added afterwards create no additional conflicts if they are placed at the end of their respective sections, and my included loadorder.txt will make sure plugins are in the correct place as well.  
+## 1.1 Initial Setup
 
-Learn from [this video](https://youtu.be/LyDpP96LRmA) on how to handle mod conflicts for yourself. Doing so will greatly enhance your modding experience overall and allow you to tinker your game to suit your own needs.
+### SSS Profile
+- Open the **Profile** settings in MO2 (Tools » Profiles or CTRL+P).
+- The **The Phoenix Flavour** profile will be selected automatically (assuming you just finished installing it).
+- Click **Copy** to set up a new profile based on **The Phoenix Flavour**.
+- Enter **Slidikins' Strenuous Skyrim** as the name.
+- Select your new profile in the list.
+- Click Close to exit the settings.
+- In the profile list below the top left menu in MO2, select your new profile to switch to it.
+> This new profile is separate from your TPF install. It uses its own directory for INIs and save files. This will allow you to switch back to TPF whenever you'd like.
+
+# 2. Compatibility Notes
+In order to turn TPF into SSS:SE, you’ll need to **deactivate** the mods I do not use (marked at the top of each section), then place the new mods into a **new separator underneath the TPF one**. For example, for the Gameplay Overhauls section, create a separator called `Gameplay Overhauls - SSS`, change its color to something that sticks out, and place it under `Gameplay Overhauls` and its mods.
+
+The provided `loadorder.txt` and **Conflict Resolution Patch** in the Finalization section assumes that this method is followed for each modified section.
 
 ## 2.1 TPF-X Addons
 
-With the release of TPF 4.5, Phoenix is now offering several “add on” modules to the modlist. These are entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each section in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
+With the release of TPF 4.5, Phoenix now offers several “addon” modules. These are entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each section in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
+
+**Note:** Modules that are not included in the `loadorder.txt` will need to be placed manually after finishing the guide. 
 
 ### [Interface](https://thephoenixflavour.com/tpf-x/installation/interface/)
 **Notes:** This section contains a number of mods I explicitly chose to exclude from SSS:SE and therefore doesn’t fit the intended UI of this fork.  
-**Compatibility:** Should be compatible but goes against the spirit of this Addon.
+**Compatibility:** Compatible, but not recommended for this guide.
 
 ### [Gameplay Tweaks](https://thephoenixflavour.com/tpf-x/installation/gameplay-tweaks/)
 **Notes:** I like the combat as it is in base TPF so I skipped this one. These mods don’t go against the design of SSS:SE, but they don’t enhance it either.  
-**Compatibility:** Should be compatible
+**Compatibility:** Compatible, will lower the difficulty of the game.
 
 ### [New Gear](https://thephoenixflavour.com/tpf-x/installation/new-gear/)
 **Notes:** In the past I was adamant against adding new gear but Phoenix is pretty selective on what she adds. I trust her judgement so I’ve added it for now.  
-**Compatibility:** Compatible, included in loadorder.txt
+**Compatibility:** Compatible, recommended and included in `loadorder.txt`.
 
 ### [New Companions](https://thephoenixflavour.com/tpf-x/installation/new-companions/)
 **Notes:** I don’t like adding companions to my game. Inigo and Lucien won’t ruin the balance of SSS:SE, but they will spoil you when it comes to followers.  
-**Compatibility:** Should be compatible
+**Compatibility:** Compatible.
 
 ### [Player Homes](https://thephoenixflavour.com/tpf-x/installation/player-homes/)
 **Notes:** Similar to the Companions above, Elianora’s homes tend to outshine the vanilla selection. For that reason I don’t add them, but you’re welcome to.  
-**Compatibility:** Should be compatible
+**Compatibility:** Compatible.
 
 ### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
 **Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes. This used to be in TPF, so I’ve kept it in my order.  
-**Compatibility:** Compatible, included in loadorder.txt
+**Compatibility:** Compatible, recommended and included in `loadorder.txt`.
 
 ### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
 **Notes:** These mods are entirely up to you. I saw no reason to add any of them to my game but your preference may be different.  
-**Compatibility:** Should be compatible
+**Compatibility:** Possibly incompatible with Apothecary's additions.
 
 ### [AllGud](https://thephoenixflavour.com/tpf-x/installation/allgud/)
 **Notes:** If you want favorited items to be visible, this is what you need. Otherwise, Simple Dual Sheath is fine for adding left-handed sheaths to characters. This also used to be in TPF.  
-**Compatibility:** Compatible
+**Compatibility:** Compatible.
 
 # 3. Mod List
-In order to turn TPF into SSS:SE, you’ll need to disable the mods I do not use, then place the new mod folders into a **new separator underneath the TPF one**. For example, for the Gameplay Overhauls section, create a separator called `Gameplay Overhauls - SSS`, change its color to something that sticks out, and place it under `Gameplay Overhauls`.
 
 ## 3.1 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
@@ -78,6 +91,7 @@ I’ve updated instructions for the following mod:
 - In **Line 78**, change `Load Door Activate Prompt =` to `2`.
 - In **Line 80**, change `Exit Label =` to `Leave`.
 - Hit **CTRL+S** to save your changes and close the window.
+
 ## 3.3 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/) with the exception of:
 
@@ -453,10 +467,13 @@ I’ve updated instructions for the following mod:
 
 ### [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/#xp32-maximum-skeleton-special-extended-xpmssehttpswwwnexusmodscomskyrimspecialeditionmods1988tabfiles)
 #### Additional Instructions
-- Delete the following file(s) and / or folder(s):
+- Reinstall the mod under the name **XP32 Maximum Skeleton Special Extended - Skeletons Only**
+- Place **XP32 Maximum Skeleton Special Extended - Skeletons Only** right below the original in the **SKELETONS & ANIMATIONS** section.
+- Delete the following file(s) and / or folder(s) from the new mod:
   - `interface\`
   - `scripts\`
   - `XPMSE.esp`
+- Deactivate the old **XP32 Maximum Skeleton Special Extended** mod.
 > This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched. In a later update I’ll add the plugin to loadorder.txt for those who use it.
 
 I’ve added the following mods to this section:
@@ -498,148 +515,178 @@ I’ve added the following mods to this section:
 ## 3.30 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
-# 4. Finishing Up
+# 4. Finalization
 
 ## 4.1 Conflict Resolution Patch
-### Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) here.
-This second patch is necessary for resolving the very very few conflicts between SSS:SE and TPF. It also includes edits to Magic Effects similar to [No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205). This is done instead of simply including No Edge Glow so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes the following GameSettings changes:
-
-- **setgs fJumpFallHeightMin 250** (default 600)
-- **setgs fJumpFallHeightMinNPC 250** (default 450)
-- **setgs fMagicSkillCostScale 1** (default 0.5)
-- **setgs fMagicCasterSkillCostMult 1** (default 0.5)
+- Create a **FINAL PATCHES - SSS** separator in Mod Organizer 2
+- Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
+- Install it as usual, place it last below the **FINAL PATCHES - SSS** separator, and activate it.
+> This second patch is necessary for resolving the few conflicts between SSS:SE and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous and NPC Magicka pools less unlimited.
 
 ## 4.2 Load Order TXT
-### Download [my updated loadorder.txt](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) here
-For instructions on what to do with this, see [TPF’s section](https://thephoenixflavour.com/tpf/finalisation/wrapping-up/#load-order-txt) on it.
+- Download the [Universal Lord Order TXT](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
+- Open the archive and extract the **loadorder.txt** to `Mod Organizer 2\profiles\Slidikins' Strenuous Skyrim`.
+- Restart Mod Organizer 2 and the changes will be applied.
 
-## 4.3 Controls Configuration
+After applying the loadorder.txt and restarting MO2, there should be no plugins below the The Phoenix Flavour - Facegen.esp in the load order (right pane).
+
+If there are other plugins below the Facegen plugin, you either made a mistake during the mod installation, or a mod was updated and the loadorder.txt is not accounting for it yet. Go back to the mod(s) in question (they will be highlighted in the mod order when you click on the plugin in the load order) and re-install them according to the instructions in the guide.
+
+If you are unable to resolve all issues, please join us on Discord and post your Modwat.ch link or a picture of the bottom of your load order in the `#tpf-addons-support` channel.
+
+## 4.3 Nemesis
+
+### New Separator
+- Create a **PATCHER OUTPUT - SSS** separator in Mod Organizer 2.
+- It should be at the bottom of your mod order, below PATCHER OUTPUT.
+
+### Nemesis Output Folder
+- In Mod Organizer 2, click the tools icon above your mod order and select **Create empty mod**.
+- Rename the new mod folder to **Slidikins' Strenuous Skyrim - Nemesis Output**.
+- Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT - SSS** separator and activate it.
+
+### Edit Nemesis Settings
+- Open the Executables window in Mod Organizer 2 (Tools > Executables or CTRL + E).
+- Click **Nemesis** in the left panel.
+- Check the **Create files in mod instead of overwrite** checkbox and select **Slidikins' Strenuous Skyrim - Nemesis Output** from the drop down menu.
+- Click OK to close the Tools window.
+
+### Generate Nemesis
+
+- Run **Nemesis** through Mod Organizer 2.
+- There will be two warnings about missing (not yet generated) cache, click **OK** to both.
+- Click the **Update Engine** button and wait for the process to be completed.
+- When it’s done, check the **Jump Behavior Overhaul** box.
+- Also check the **Movement Behavior Overhaul** box.
+- Finally, check the **True Directional Movement** box.
+- Click the big Launch Nemesis Behavior Engine button.
+- Nemesis will eventually return `Behavior generation complete` and you can close the tool.
+- Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Slidikins' Strenuous Skyrim - Nemesis Output** mod folder.
+- Deactivate the old **Nemesis Output** mod in the left pane.
+
+## 4.4 Controls Configuration
 
 All controls changed from the Default:
 
-**Auto Move:** Right Alt  
-**Journal:** F4  
-**Quick Inventory:** F2  
-**Quick Magic:** F3  
-**Quick Stats:** F1
+**Auto Move:** `Right Alt`  
+**Journal:** `F4`  
+**Quick Inventory:** `F2`  
+**Quick Magic:** `F3`  
+**Quick Stats:** `F1`
 
-## 4.3 MCM Configuration
+## 4.5 MCM Configuration
 
 ### Cathedral Weathers
-- Settings Panel
-  - General Section
-    - Configuration Spell: Disabled
-  - Weather Section
-    - Seasonal Perspective: Enabled
+- **Settings** Panel
+  - **General** Section
+    - Configuration Spell: `Disabled`
+  - **Weather** Section
+    - Seasonal Perspective: `Enabled`
 
 ### Conner’s Survival Mode
-- General Panel
-  - Quality of Life Section
-    - Shrine Gold Cost: 500
-    - Enable Health Regen: Disabled
+- **General** Panel
+  - **Quality of Life** Section
+    - Shrine Gold Cost: `500`
+    - Enable Health Regen: `Disabled`
 
 ### Dynamic Timescale
-- AutoSave Section
-  - Reoccurring Time: 0 MIN
-  - After picking a lock time: 0 SEC
-  - After combat time: 0 SEC
-
-### Favorite Howls Menu
-- Revert Form: Enabled
-- Night Eye: Enabled
+- **AutoSave** Section
+  - Reoccurring Time: `0 MIN`
+  - After picking a lock time: `0 SEC`
+  - After combat time: `0 SEC`
 
 ### Honed Metal
-- General Section
-  - Crafting Cost Modifier: 0.60
-  - Tempering Cost Modifier: 0.04
-  - Enchanting Cost Modifier: 0.28
+- **General** Section
+  - Crafting Cost Modifier: `0.60`
+  - Tempering Cost Modifier: `0.04`
+  - Enchanting Cost Modifier: `0.28`
 
 ### Immersive HUD
-- Activation Panel
-  - Compass Activation Section
-    - iHUD hotkey: Backspace
-    - Key press toggles: Enabled
-  - SkyUI Active Effects Section
-    - Link ALL SkyUI Widgets: Enabled
-- Options Panel
-  - Stealth indicator enabled: Disabled
-  - Enemy health indicator enabled: Disabled
-  - Hide shout meter with compass: Enabled
-  - Force crosshair to hide: Enabled
-  - Enable fast fade of magicka: Enabled
-  - Enable fast fade of stamina: Enabled
-- Transparencies Panel
-  - Compass: 60%
-  - Magicka: 60%
-  - Health: 60%
-  - Stamina: 60%
+- **Activation** Panel
+  - **Compass Activation** Section
+    - iHUD hotkey: `Backspace`
+    - Key press toggles: `Enabled`
+  - **SkyUI Active Effects** Section
+    - Link ALL SkyUI Widgets: `Enabled`
+- **Options** Panel
+  - Stealth indicator enabled: `Disabled`
+  - Enemy health indicator enabled: `Disabled`
+  - Hide shout meter with compass: `Enabled`
+  - Force crosshair to hide: `Enabled`
+  - Enable fast fade of magicka: `Enabled`
+  - Enable fast fade of stamina: `Enabled`
+- **Transparencies** Panel
+  - Compass: `60%`
+  - Magicka: `60%`
+  - Health: `60%`
+  - Stamina: `60%`
 
 ### moreHUD
-- Presets Panel
-  - Save setting with FISS Section
-    - Load User Settings?: Select
+- **Presets** Panel
+  - **Save setting with FISS** Section
+    - Load User Settings?: `Select`
 
 ### Simple Smithing
-- Settings Panel
-  - Craftable Toggles Section
-    - Allow Artefact Replication: Disabled
-    - Allow Upgrade Unique Gear Levels: Disabled
+- **Settings** Panel
+  - **Craftable Toggles** Section
+    - Allow Artefact Replication: `Disabled`
+    - Allow Upgrade Unique Gear Levels: `Disabled`
 
 ### Sky UI
-- General Panel
-  - Item List Section
-    - Font Size: Small
-  - Active Effects HUD Section
-    - Enabled: Disabled
-- Controls Panel
-  - Favorite Groups Section
-    - Group 1: 9
-    - Group 2: 0
-    - Group 3: -
-    - Group 4: =
+- **General** Panel
+  - **Item List** Section
+    - Font Size: `Small`
+  - **Active Effects** HUD Section
+    - Enabled: `Disabled`
+- **Controls** Panel
+  - **Favorite Groups** Section
+    - Group 1: `9`
+    - Group 2: `0`
+    - Group 3: `-`
+    - Group 4: `=`
 
 ### SmoothCam
-- Presets Panel
-  - Load Preset Section
-    - Slot 3: Slidikins’ Strenuous Skyrim: Select
+- **Presets** Panel
+  - **Load Preset** Section
+    - Slot 3: Slidikins’ Strenuous Skyrim: `Select`
 
 ### Timing is Everything
-- Extra Options Panel
-  - Presets Section
-    - Load Preset: Select
-- Other Quests Panel
-  - Misc Quests Section
-    - Ebony Warrior: 50
+- **Extra Options** Panel
+  - **Presets** Section
+    - Load Preset: `Select`
+- **Other Quests** Panel
+  - **Misc Quests** Section
+    - Ebony Warrior: `50`
 
 ### Trade & Barter
-- Barter Rates Panel
-  - Settings Section
-    - Modify Barter Settings: Enabled
+- **Barter Rates** Panel
+  - **Settings** Section
+    - Modify Barter Settings: `Enabled`
 
 ### True Directional Movement
-- Target Lock Panel
-  - Projectile Settings Section
-    - Arrow Aim Mode: Free Aim
-    - Missile Aim Mode: Free Aim
-  - Controls Section
-    - Toggle Target Lock Key: M3
-    - Switch Targets with Mouse Movement: Disabled
-- Target Lock Widget Panel
-  - Visibility Settings Section
-    - Show Target Bar: Disabled
-    - Show Soft Target Bar: Disabled
-  - Widget Settings Panel
-    - Reticle Style: Simple Dot
-  - Scale and Opacity Settings Section
-    - Reticle Scale: 0.5
-- Boss Bar Widget Panel
-  - Visibility Settings Section
-    - Show Boss Bar: Disabled
+- **Target Lock** Panel
+  - **Projectile Settings** Section
+    - Arrow Aim Mode: `Free Aim`
+    - Missile Aim Mode: `Free Aim`
+  - **Controls** Section
+    - Toggle Target Lock Key: `M3`
+    - Switch Targets with Mouse Movement: `Disabled`
+- **Target Lock Widget** Panel
+  - **Visibility Settings** Section
+    - Show Target Bar: `Disabled`
+    - Show Soft Target Bar: `Disabled`
+  - **Widget Settings** Panel
+    - Reticle Style: `Simple Dot`
+  - **Scale and Opacity Settings** Section
+    - Reticle Scale: `0.5`
+- **Boss Bar Widget** Panel
+  - **Visibility Settings** Section
+    - Show Boss Bar: `Disabled`
 
 ### Wergild Depreciation
-- Set the Default Values Panel
-  - Set the Default Values Section
-    - Exile Required: Enabled
+- **Set the Default Values** Panel
+  - **Set the Default Values** Section
+    - Exile Required: `Enabled`
 
 # 5. Gameplay Tips
 As you can probably infer from the name of this addon, your adventure in Skyrim will have its difficult moments. Here are some tips that I’ve found useful for making the journey in one piece.
