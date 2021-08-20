@@ -303,7 +303,7 @@ I’ve updated instructions for the following mod:
 ## 3.21 Gameplay Overhauls
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
 
-**Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_
+**Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset, naturally.
 
 I’ve added the following mods to this section:
