@@ -12,6 +12,8 @@ This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Sli
 - **Gameplay Overhauls:** Removed Adamant - Shrines and Amulets from the TPF instructions in lieu of Pilgrim - A Religion Overhaul
 - **Gameplay Overhauls:** Added Pilgrim - A Religion Overhaul
 - **Gameplay Overhauls:** Updated Skyrim Uncapper - Slidikins’ Strenuous Skyrim to readjust crafting leveling speed
+- **Gameplay Overhauls:** Updated Survival (CC) with instructions for downloading from the Creation Club
+- **Loot & Crafting:** Updated Rare Curios (CC) with instructions for downloading from the Creation Club
 - **Miscellaneous:** Removed Misc Tweaks - Shrines Don’t Cure Diseases in lieu of Pilgrim - A Religion Overhaul
 - **Skeletons & Animation:** Revised XP32 Maximum Skeleton Special Extended instructions to not interfere with original TPF installations
 - **Skeletons & Animation:** Removed EVG Animation Variance as it was too problematic
