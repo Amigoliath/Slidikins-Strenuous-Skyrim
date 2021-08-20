@@ -67,6 +67,8 @@ As of right now, Slidikins' Strenuous Skyrim is not listed in the Wabbajack Gall
   - ccqdrsse001-survivalmode.esl
 - Resume Phoenix's instructions at [Launching the Game](https://thephoenixflavour.com/wj/wj-sse/list-installation/#launching-the-game).
 
+> **Note:** If you do not own Rare Curios, you will need to deactivate **The Phoenix Flavour - Rare Curios Patch** and **Apothecary - Rare Curios Patch**. They are both found under the **LOOT & CRAFTING - SSS** separator in Mod Organizer 2.
+
 ## Final Configurations
 Recommended control adjustments and MCM Configuration Settings can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). When starting a new game, it's recommended that you wait until after the carriage enters the town gates to open the menu to set these changes.
 
