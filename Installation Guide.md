@@ -483,7 +483,7 @@ I’ve added the following mods to this section:
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
-**Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_
+**Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.
 
 I’ve added the following mod to this section:
@@ -629,7 +629,6 @@ All controls changed from the Default:
 **Quick Stats:** `F1`
 
 ## 5.2 Mod Configuration
-Recommended MCM instructions.
 
 ### Cathedral Weathers
 - **Settings** Panel
