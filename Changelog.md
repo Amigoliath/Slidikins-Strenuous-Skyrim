@@ -60,7 +60,7 @@ A lot of things in the document will look different for this update. For starter
 - **Load Order:** Included lines for RaceMenu and Expressive Facegen Morphs for people who did not remove them
 
 ## 08-13-2021 (4.7.0)
-Updated for [TPF 4.7.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-47)
+- Updated for [TPF 4.7.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-47)
 - **Interface:** Removed A Matter of Time - A Clock HUD Widget (from TPF instructions)
 - **Interface:** Removed A Matter of Time - Slidikins’ Preset
 - **Interface:** Removed moreHUD - TPF Preset (from TPF instructions)
