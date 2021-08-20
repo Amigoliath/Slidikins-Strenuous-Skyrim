@@ -298,7 +298,7 @@ I’ve updated instructions for the following mod:
 
 ### [Expressive Facegen Morphs](https://thephoenixflavour.com/tpf/mod-installation/appearance/#expressive-facegen-morphshttpswwwnexusmodscomskyrimspecialeditionmods35785tabfiles)
 #### Additional Instructions
-- Delete **Expressive Facegen Morphs.esl.** If you did not remove RaceMenu, you can skip deleting this.
+- Deactivate **Expressive Facegen Morphs.esl** in the load order. If you did not remove RaceMenu, you can leave it active.
 
 ## 3.21 Gameplay Overhauls
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
