@@ -4,21 +4,30 @@ Compatible with: **The Phoenix Flavour 4.7.2**
 # Changelog
 
 ## Upcoming Changes (4.7.2.1)
-- Moved entire guide to [GitHub](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim)
+This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim) first and foremost. When I first started documenting my modlist back in 2014 it was simply a list of mods I used for a friend of mine to reference. Now that it's most definitely become something larger, I felt the need to move to a format with more documentation. I've also uploaded the list to Wabbajack in 4.7.2.1. It isn't listed in the gallery, but the `.wabbajack` file will be made available to download for installing from disk.
+
+#### Mod Installation
 - **Interface:** SkyHUD - Slidikins’ Nordic UI Preset updated to have a dot crosshair
 - **Visual FX:** Added Enhanced Blood Textures - Transparency Fix for ENB
 - **Gameplay Overhauls:** Removed Adamant - Shrines and Amulets from the TPF instructions in lieu of Pilgrim - A Religion Overhaul
-- **Gameplay Overhauls:** Skyrim Uncapper - Slidikins’ Strenuous Skyrim updated to readjust crafting leveling speed
+- **Gameplay Overhauls:** Added Pilgrim - A Religion Overhaul
+- **Gameplay Overhauls:** Updated Skyrim Uncapper - Slidikins’ Strenuous Skyrim to readjust crafting leveling speed
 - **Miscellaneous:** Removed Misc Tweaks - Shrines Don’t Cure Diseases in lieu of Pilgrim - A Religion Overhaul
-- **Skeletons & Animation:** Revised XP32 Maximum Skeleton Special Extended instructions to not interfere with TPF installations
+- **Skeletons & Animation:** Revised XP32 Maximum Skeleton Special Extended instructions to not interfere with original TPF installations
 - **Skeletons & Animation:** Removed EVG Animation Variance as it was too problematic
-- **Conflict Resolution:** Carried over changes properly for Gold `(0000000F)`
-- **Conflict Resolution:** Removed edits to MAG_AltarAkatoshSpell `(000FB988)`
-- **Conflict Resolution:** Removed Gold from Desecrated Corpses
-- **Conflict Resolution:** Adjusted patch to MAG_SunDamageConcAimedCloak `(02008A5D)`
-- **Conflict Resolution:** Patched 4 NPCs between Pilgrim and AI Overhaul
+- **Conflict Resolution:** Carried over changes properly for Gold001 `0000000F`
+- **Conflict Resolution:** Removed edits to MAG_AltarAkatoshSpell `000FB988`
+- **Conflict Resolution:** Removed Gold from Desecrated Corpses, DesecratedImperial `000EBAD8` and DesecratedStormCloak `000EBE06`
+- **Conflict Resolution:** Carried over Pilgrim's record for MAG_SunDamageConcAimedCloak, `02008A5D`
+- **Conflict Resolution:** Patched 4 NPCs between Pilgrim and AI Overhaul, Freir `00013277`, Dinya `00013352`, DanicaPureSpring `00013BA5`, and Jora `00014120`
 - **MCM Configuration:** Increased Shrine Gold Cost in Conner’s Survival Mode again since Pilgrim allows free refreshing of the blessing
 - **MCM Configuration:** True Directional Movement configuration updated also to have a matching dot lock on
+
+#### Wabbajack
+- Updated Realistic Water Two to 3.1.2
+- Updated Realistic Skin Shaders - Falmer and Hagraven to 1.05
+- Updated Adamant - A Perk Overhaul to 5.1.7
+- Updated Mysticism - A Magic Overhaul to 1.2.1
 
 ## 08-18-2021 (4.7.2)
 - Updated for [TPF 4.7.2](https://thephoenixflavour.com/tpf/appendix/changelog/#release-472)
@@ -51,7 +60,7 @@ A lot of things in the document will look different for this update. For starter
 - **Load Order:** Included lines for RaceMenu and Expressive Facegen Morphs for people who did not remove them
 
 ## 08-13-2021 (4.7.0)
-Updated for [TPF 4.7.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-47)
+- Updated for [TPF 4.7.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-47)
 - **Interface:** Removed A Matter of Time - A Clock HUD Widget (from TPF instructions)
 - **Interface:** Removed A Matter of Time - Slidikins’ Preset
 - **Interface:** Removed moreHUD - TPF Preset (from TPF instructions)
