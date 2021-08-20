@@ -103,7 +103,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I’ve added the following mods to this section:
 ### [SSE Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41953?tab=files)
 #### Download Instructions
-- **Main Files:** Dynamic Timescale SE
+- **Main Files:** GameplayTweaks v5
 
 #### Additional Instructions
 - Double-click **SSE Gameplay Tweaks** in your mod order.
