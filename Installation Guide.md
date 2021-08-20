@@ -4,7 +4,7 @@ Compatible with: **The Phoenix Flavour 4.7.2**
 # 1. Initial Setup
 
 ## Prerequisites
-This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you followed the [manual installation instructions](https://thephoenixflavour.com/tpf/initial-setup/) from start to finish. For Wabbajack users, Slidikins Strenuous Skyrim can be installed by using this .wabbajack file.
+This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you followed the [manual installation instructions](https://thephoenixflavour.com/tpf/initial-setup/) from start to finish. For Wabbajack users, Slidikins Strenuous Skyrim can be installed by using [this .wabbajack file](https://drive.google.com/file/d/1ExxWyGxDw4L893Ym0lFW-1bX3pIpEcr3/view?usp=sharing).
 
 ## Mod Organizer 2
 ### SSS Profile
