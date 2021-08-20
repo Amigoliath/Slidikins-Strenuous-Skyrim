@@ -314,7 +314,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
-### Pilgrim - A Religion Overhaul
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 #### Download Instructions
 - **Main Files:** Pilgrim - A Religion Overhaul
 
