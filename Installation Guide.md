@@ -154,6 +154,10 @@ I’ve added the following mods to this section:
 - **Version:** SmoothCam AVX
 - **Select Plugin Type:** ESP
 
+#### Additional Instructions
+- ESL-ify **SmoothCam.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+
+
 ### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
@@ -208,9 +212,6 @@ Completely optional, skip if you’re playing ultra wide.
 #### FOMOD Instructions
 - **Game:** Skyrim Special Edition
 - **Interface:** SkyUI
-
-#### Additional Instructions
-- ESL-ify **SmoothCam.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
