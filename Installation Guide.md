@@ -24,8 +24,8 @@ This Installation Guide is written under the assumption that you have an unmodif
 
 ### BethINI - Basic
 If you aren't already there, click the second tab, **Basic**.
+- Enable **Windowed**.
 - Enable **Always Active**.
-> The game won't lock up if you Alt+Tab away from it with this setting.
 
 ### BethINI - Gameplay
 Continue to the fourth tab, **Gameplay**.
