@@ -1,9 +1,9 @@
-Latest update: **08-18-2021**  
+Latest update: **08-20-2021**  
 Compatible with: **The Phoenix Flavour 4.7.2**
 
 # Changelog
 
-## Upcoming Changes (4.7.2.1)
+## 08-20-2021 (4.7.2.1)
 This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim) first and foremost. When I first started documenting my modlist back in 2014 it was simply a list of mods I used for a friend of mine to reference. Now that it's most definitely become something larger, I felt the need to move to a format with more documentation. I've also uploaded the list to Wabbajack in 4.7.2.1. It isn't listed in the gallery, but the `.wabbajack` file will be made available to download for installing from disk.
 
 #### Mod Installation
