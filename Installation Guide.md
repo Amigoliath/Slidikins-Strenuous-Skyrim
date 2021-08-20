@@ -152,11 +152,12 @@ I’ve added the following mods to this section:
 
 #### FOMOD Instructions
 - **Version:** SmoothCam AVX
-- **Select Plugin Type:** ESP
+- **Select Plugin Type:** ESL
 
 #### Additional Instructions
-- ESL-ify **SmoothCam.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
-
+- Double-click **SmoothCam** in your mod order.
+- Switch to the Filetree tab and rename the plugin:
+    - SmoothCam.esl » SmoothCam.esp
 
 ### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
