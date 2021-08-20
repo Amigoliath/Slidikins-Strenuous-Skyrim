@@ -18,7 +18,7 @@ This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Sli
 - **Conflict Resolution:** Carried over changes properly for Gold001, `(0000000F)`
 - **Conflict Resolution:** Removed edits to MAG_AltarAkatoshSpell, `(000FB988)`
 - **Conflict Resolution:** Removed Gold from Desecrated Corpses, `(000EBAD8)` and `(000EBE06)`
-- **Conflict Resolution:** Adjusted patch to MAG_SunDamageConcAimedCloak, `(02008A5D)`
+- **Conflict Resolution:** Carried over Pilgrim's record for MAG_SunDamageConcAimedCloak, `(02008A5D)`
 - **Conflict Resolution:** Patched 4 NPCs between Pilgrim and AI Overhaul, `(00013277)` `(00013352)` `(00013BA5)` and `(00014120)`
 - **MCM Configuration:** Increased Shrine Gold Cost in Conner’s Survival Mode again since Pilgrim allows free refreshing of the blessing
 - **MCM Configuration:** True Directional Movement configuration updated also to have a matching dot lock on
