@@ -1,5 +1,5 @@
-Latest update: **08-20-2021**  
-Compatible with: **The Phoenix Flavour 4.7.2**
+Latest update: **08-22-2021**  
+Compatible with: **The Phoenix Flavour 4.7.3**
 
 # 1. Initial Setup
 
@@ -31,6 +31,11 @@ If you aren't already there, click the second tab, **Basic**.
 Continue to the fourth tab, **Gameplay**.
 - Enable **NPCs Use Ammo**.
 > Archers will no longer have unlimited ammunition in fights. This will also affect followers.
+
+### BethINI - Interface
+Continue to the fifth tab, **Interface**.
+- Disable **Show Quest Markers**.
+> If you want to know where a quest objective is exactly, use Clairvoyance.
 
 ## Save Changes
 - Return to the second tab, **Basic**, and click `Save and Exit`.
