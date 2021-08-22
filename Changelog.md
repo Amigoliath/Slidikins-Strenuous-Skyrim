@@ -1,9 +1,33 @@
-Latest update: **08-20-2021**  
-Compatible with: **The Phoenix Flavour 4.7.2**
+Latest update: **08-22-2021**  
+Compatible with: **The Phoenix Flavour 4.7.3**
 
 # Changelog
 
-## 08-20-2021 (4.7.2.1)
+## 2021-08-22 (4.7.3)
+Updated for [TPF 4.7.3](https://thephoenixflavour.com/tpf/appendix/changelog/#release-473)
+
+#### Initial Setup
+- Added **Windowed** setting to BethINI - Basic
+- Added **Show Quest Markers** change to BethINI - Interface
+
+#### Mod Installation
+- Conflict Resolution: Correctly patch packages on DanicaPureSpring `00013BA5`
+- Conflict Resolution: Removed edit to MAG_PerkDualFlurry `xxB5FC0B`
+
+#### Wabbajack
+- Updated ENB binaries (no version change)
+- SkyrimPrefs.ini updated for Slidikins' Strenuous Skyrim profiles.
+- Updated Fixed Mesh Lighting to 1.4.0
+- Updated Splashes of Skyrim to 1.3
+- Updated Pilgrim - A Religion Overhaul to 1.0.1
+- Updated Adamant - Amulets and Shrines to 5.0.3
+- Updated Tweaks for WACCF and ACE to 1.7
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.2
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.2
+- Updated Simple Smithing Overhual to 1.1.4
+- Updated Misc Tweaks - Shrines Don’t Cure Diseases to 1.9
+- 
+## 2021-08-20 (4.7.2.1)
 This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim) first and foremost. When I first started documenting my modlist back in 2014 it was simply a list of mods I used for a friend of mine to reference. Now that it's most definitely become something larger, I felt the need to move to a format with more documentation. I've also uploaded the list to Wabbajack in 4.7.2.1. It isn't listed in the gallery, but the `.wabbajack` file will be made available to download for installing from disk.
 
 #### Mod Installation
@@ -31,7 +55,7 @@ This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Sli
 - Updated Adamant - A Perk Overhaul to 5.1.7
 - Updated Mysticism - A Magic Overhaul to 1.2.1
 
-## 08-18-2021 (4.7.2)
+## 2021-08-18 (4.7.2)
 - Updated for [TPF 4.7.2](https://thephoenixflavour.com/tpf/appendix/changelog/#release-472)
 - **Fixes:** Fixed typo on Line 80 for powerofthree’s Tweaks’ additional instructions
 - **Interface:** True Directional Movement updated to 1.3.0
@@ -49,7 +73,7 @@ This update moves the entire guide to [GitHub](https://github.com/Amigoliath/Sli
 - **Conflict Resolution:** Added hm_actor.pex to lower the potential of Honed Metal crafters
 - **MCM Configuration:** Increased Shrine Gold Cost in Conner’s Survival Mode to match increased buff durations
 
-## 08-16-2021 (4.7.1)
+## 2021-08-16 (4.7.1)
 A lot of things in the document will look different for this update. For starters, I’ve mimicked TPF’s format with regards to linking straight to the download page and instructions. This removes author credits and explanations but it’ll be more consistent for TPF users. I’ve also removed my Main Menu edits, as it’s just easier to stay in step with the main guide on that. All of my personal files have been uploaded to the Nexus as well, so that page will become the hub for file updates. This will allow me to throw the list up on Wabbajack later on. There are also a few changes to what’s listed as optional and what isn’t, just to be simpler on my end.
 - Updated for [TPF 4.7.1](https://thephoenixflavour.com/tpf/appendix/changelog/#release-471)
 - **Interface:** Removed ReCleaned Menu removal as it’s no longer in TPF
@@ -61,7 +85,7 @@ A lot of things in the document will look different for this update. For starter
 - **Sounds & Music:** Updated section name to Sound FX to match an earlier TPF update
 - **Load Order:** Included lines for RaceMenu and Expressive Facegen Morphs for people who did not remove them
 
-## 08-13-2021 (4.7.0)
+## 2021-08-13 (4.7.0)
 - Updated for [TPF 4.7.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-47)
 - **Interface:** Removed A Matter of Time - A Clock HUD Widget (from TPF instructions)
 - **Interface:** Removed A Matter of Time - Slidikins’ Preset
@@ -98,7 +122,7 @@ A lot of things in the document will look different for this update. For starter
 - **MCM Configuration:** Removed Alchemy Adjustments instructions
 - **MCM Configuration:** Revised moreHUD’s instructions to load the preset
 
-## 08-03-2021
+## 2021-08-03
 It’s been a week since the last update and I’ve gotten a nice amount of playtime in to feel things out. Minor additions in this update involve a few missing patches and changes for consistency. Major changes include adding Rare Curios back in as well as the hot True Directional Movement. For this update you’ll have to repair Honed Metal via its MCM, and you’ll also need to re-run Nemesis for TDM. A side effect I’ve noticed from TDM is that auto-run can’t be disabled by hitting back. You’ll have to hit the button again to turn it off.
 - **Interface:** SmoothCam updated to 1.4.1
 - **Interface:** Added True Directional Movement - Modernized Third Person Gameplay
@@ -116,7 +140,7 @@ It’s been a week since the last update and I’ve gotten a nice amount of play
 - **Configuration:** Changed Honed Metal’s Crafting Cost Modifier to 0.6
 - **Configuration:** Instructions added for True Directional Movement - Modernized Third Person Gameplay
 
-## 07-25-2021
+## 2021-07-25
 Another update independent of TPF’s changes. Most of these are minor tweaks that I deemed necessary while playing through on my current character, so let’s just address the biggest change: Apothecary. Simon Magus and DeltaRider have released this much-anticipated mod, and it works beautifully in TPF. However, I personally did not like the implementation of the Food and Drink Addon (in comparison to Alchemy Potions and Food Adjustments) and chose to keep food unchanged. That said, Apothecary does a fantastic job of overwriting everything it needs and nothing more, so we’re able to keep both in the load order with minimal conflict.
 - **Fixes:** Added additional instructions for powerofthree’s Tweaks
 - **Weather:** Moved Splashes of Skyrim to Visual FX and updated to 1.2.1
@@ -138,7 +162,7 @@ Another update independent of TPF’s changes. Most of these are minor tweaks th
 - **Configuration:** Honed Metal’s Tempering Cost Modifier changed to 0.04
 - **Configuration:** Removed instructions for Wonders of Weather
 
-## 07-06-2021 (4.6.2)
+## 2021-07-06 (4.6.2)
 Ugh. So, right after switching back to Honed Metal SSE the host hid the file and encouraged everyone to use Honed Metal Updated. So it’s back. On the upside, I’ve been unable to replicate the bug that I was experiencing the day before (for reasons unknown) so maybe things will be alright this time around. Temper prices are currently not working properly, but I’m working with the author to find the problem and fix it. Until then, I recommend avoiding the temper service completely.
 
 I’ve also added Nordic UI for a change of pace. It is completely optional, but if you choose to use it keep in mind that the guide is written for my particular installation instructions, which are noted in the Interface section.
@@ -157,14 +181,14 @@ I’ve also added Nordic UI for a change of pace. It is completely optional, but
 - **Configuration:** Removed SkyUI’s Disable Item Colors change
 - **Gameplay Tips:** Added section that no one asked for
 
-## 07-02-2021
+## 2021-07-02
 It was brought to my attention that Honed Metal Updated was quite expensive and that took me down a rabbit hole which resulted in me getting rid of that update altogether. If you’re using Honed Metal Updated, uninstall it via its MCM, then save and disable the plugins. Load the save and save again. Finally, switch back to Honed Metal v1.10 and apply the MCM changes so that tempering costs are realistic.
 - **Gameplay Overhauls:** Honed Metal Updated switched back to Honed Metal
 - **Miscellaneous:** C.O.I.N. - Coins of Interesting Natures updated to 1.1.5.1
 - **Configuration:** Added instructions for Honed Metal’s MCM
 - **Configuration:** Added “Hide shout meter with compass” instruction to Immersive HUD’s MCM
 
-## 07-01-2021
+## 2021-07-01
 Following TPF’s changes to 4.6 I had to drop a few economy-related mods from the list. This update is an attempt to bring some of those changes back albeit in a slightly different fashion. Adamant - Plus Ten Smithing lowers the potential of tempering, limiting it to adding +10 to an item’s base damage or armor value. While the mod intends to have this show up as +1 through +10 beside the item name, it is not entirely accurate when paired with Item Durability. As such, I’m leaving the upgrade tier names as is, giving the player a vague idea of the health of the item.
 - **Gameplay Overhauls:** Added Adamant - Plus Ten Smithing
 - **Combat & Encounters:** Container and Arrow Weight Restrictions properly moved to Miscellaneous
@@ -175,12 +199,12 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Assorted Plugins:** Removed PlayerHeadTracking.Enabled from SSE Gameplay Tweaks INI changes. This caused a bug with power bashing if playing in 3rd Person
 - **Assorted Plugins:** Added INI change to Item Durability
 
-## 06-30-2021 (4.6.1)
+## 2021-06-30 (4.6.1)
 - Updated for [TPF 4.6.1](https://thephoenixflavour.com/tpf/appendix/changelog/#release-461)
 - **Gameplay Overhauls:** Renamed Honed Metal Voiced to Honed Metal Revoiced
 - **Configuration:** Added instructions for Simple Smithing’s MCM
 
-## 06-28-2021 (4.6.0)
+## 2021-06-28 (4.6.0)
 - Updated for [TPF 4.6.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-46)
 - **TPF-X Addons:** Visual Upgrade notes removed (now a part of TPF)
 - **TPF-X Addons:** New Music notes added (moved from TPF to TPF-X Addons)
@@ -205,26 +229,26 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Balancing:** Removed the section entirely (no longer in TPF)
 - **Conflict Resolution:** Leveled lists removed as Scarcity and Morrowloot Miscellania were also removed
 
-## 04-19-2021 (4.5.3)
+## 2021-04-19 (4.5.3)
 - Updated for [TPF 4.5.3](https://thephoenixflavour.com/tpf/appendix/changelog/#release-453)
 - **Visual FX:** Added Just Blood - Dirt and Blood Lite
 - **Visual FX:** Added Dirt and Blood HD Texture
 - **Load Order:** Manually added all Scarcity plugins so that they’ll appear in the right spot no matter which you choose
 - **Load Order:** Manually added FNIS.esp, which is unneeded if you went without RaceMenu
 
-## 04-09-2021
+## 2021-04-09
 - Added TPF-X Addon’s New Gear
 - **Balancing:** Changed Scarcity’s plugins from 4x Merchant/6x Loot to 6x Merchant/8x Loot
 - **Conflict Resolution:** Added No Edge Glow-esque edits to the plugin
 
-## 04-06-2021 (4.5.1)
+## 2021-04-06 (4.5.1)
 - Updated for [TPF 4.5.1](https://thephoenixflavour.com/tpf/appendix/changelog/#release-451)
 - Added TPF-X Addon’s Visual Upgrade
 - **Gameplay Overhauls:** Corrected name of (formerly) The Phoenix Flavour - Conner Survival Mode Patch
 - **Gameplay Overhauls:** The Phoenix Flavour - Conner’s Survival Mode Patch updated to 1.3
 - **Skeleton & Animations:** Removed Movement Behavior Overhaul due to its FPS limitation
 
-## 04-06-2021 (4.5.0)
+## 2021-04-06 (4.5.0)
 - Updated for [TPF 4.5.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-45)
 - Reminder to also account for TPF 4.4.3 changes if updating from 4.4.2
 - **Interface:** Removed RaceMenu
@@ -248,7 +272,7 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Skeleton & Animations:** Added First Person Combat Animations Overhaul
 - **Conflict Resolution:** Removed fPhysicsDamage1Mass GameSetting edit (part of TPF)
 
-## 03-07-2021 (4.4.2)
+## 2021-03-07 (4.4.2)
 - Updated for [TPF 4.4.2](https://thephoenixflavour.com/tpf/appendix/changelog/#release-442)
 - **Valuable Items:** Added the section (added to TPF)
 - **Improved Vanilla Quests:** Added Missives - Notes Retexture
@@ -256,12 +280,12 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Sound Effects:** Removed the section entirely (no longer in TPF)
 - Also removed some deprecated items from the loadorder.txt file
 
-## 03-04-2021 (4.4.1)
+## 2021-03-04 (4.4.1)
 - Updated for [TPF 4.4.0](https://thephoenixflavour.com/tpf/appendix/changelog/#release-44) & [TPF 4.4.1](https://thephoenixflavour.com/tpf/appendix/changelog/#release-441)
 - **Gameplay Overhauls:** The Phoenix Flavour - Conner Survival Mode Patch updated to 1.2
 - **Combat & Encounters:** Removed Realistic AI Detection changes as TPF updated to the same plugin
 
-## 02-25-2021 (4.3.2)
+## 2021-02-25 (4.3.2)
 - Updated for [TPF 4.3.2](https://thephoenixflavour.com/tpf/appendix/changelog/#release-432)
 - **Visual FX:** Removed Voltage - ZTG Chroma Pack removal again, as it’s part of main TPF
 - **Visual FX:** Removed Thunderbolt - HD Lightning as it’s part of main TPF
@@ -269,7 +293,7 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Conflict Resolution:** Added fPhysicsDamage1Mass GameSetting edit (removes damage from bumping into random objects)
 - **Conflict Resolution:** Renamed Conflict Resolution Patch 2.esp to Slidikins’ Strenuous Skyrim - Conflict Resolution Patch.esp
 
-## 02-22-2021
+## 2021-02-22
 - **Visual FX:** Removed Voltage - ZTG Chroma Pack again
 - **Visual FX:** Added Thunderbolt - HD Lightning
 - **Balancing:** Added Scarcity
@@ -278,7 +302,7 @@ Following TPF’s changes to 4.6 I had to drop a few economy-related mods from t
 - **Conflict Resolution:** Set the Dummy Item (xx0F3854) from Enchanting Adjustments to Non-Playable so that it doesn’t appear
 - **Conflict Resolution:** Merged Gold001 `(0000000F)` changes from Weapons Armor Clothing & Clutter Fixes and Container and Arrow Weight Restrictions
 
-## 02-21-2021 (4.3)
+## 2021-02-21 (4.3)
 - Updated for [TPF 4.3](https://thephoenixflavour.com/tpf/appendix/changelog/#release-43)
 - **Interface:** Added The Frozen North - iHUD Patch
 - **Visual FX:** Removed Voltage - ZTG Chroma Pack (now included in TPF)
