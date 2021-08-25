@@ -168,7 +168,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
 
-### [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
+### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
 - **Main Files:** NORDIC UI (Final Design)
@@ -202,6 +202,20 @@ Completely optional, skip if you’re playing ultra wide.
   - Wider MCM Menu for SkyUI (from **Interface**)
   - Favorite Things - Extended Favorites Menu for SkyUI (from **Interface**)
   - SkyHUD - Alternate White Dot Crosshair (from **Interface**)
+
+### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
+#### Download Instructions
+- **Main Files:** NORDIC UI - Miscellaneous Patches
+
+#### FOMOD Instructions
+- **moreHUD Inventory:** None
+- **Stat Screen Colored Icons:** None
+- **Even Better MessageBox Controls:** Install
+- <s>**Extended Hotkey System:** Install</s>
+- **MCM:** Wider MCM
+- **Remove QuickSave from System Menu:** Install
+- <s>**Loading Screen:** Install</s>
+- <s>**Tween Menu:** Install</s>
 
 ### [SkyHUD - Slidikins’ Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) or [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
