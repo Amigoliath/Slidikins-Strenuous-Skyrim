@@ -1,7 +1,31 @@
-Latest update: **08-22-2021**  
-Compatible with: **The Phoenix Flavour 4.7.3**
+Latest update: **2021-08-29**  
+Compatible with: **The Phoenix Flavour 4.7.4**
 
 # Changelog
+
+## 2021-08-29 (4.7.4)
+Updated for [TPF 4.7.4](https://thephoenixflavour.com/tpf/appendix/changelog/#release-474)
+
+#### Mod Installation
+- **Interface:** Moved True Directional Movement to Controls & Camera
+- **Interface:** Moved SmoothCam to Controls & Camera
+- **Interface:** Moved Slidikins' SmoothCam Preset to Controls & Camera
+- **Interface:** Moved iHUD - SmoothCam Automated Compatibilitiy Patch to Controls & Camera
+- **Interface:** Added Nordic UI - Miscellaneous Patches
+- **Controls & Camera:** Added this new step and moved some mods here from other sections.
+
+#### Wabbajack
+- Regenerated INI files for all profiles
+- Updated ENBSeries binaries to 0.462
+- Updated Fixed Mesh Lighting to 1.4.1
+- Updated Simple Smithing Overhaul to 1.1.4
+- Updated Lightweight Smithing Tweaks for SSO to 1.1
+- Updated True Directional Movement to 1.4
+- Updated Pilgrim - A Religion Overhaul to 1.0.4
+- Updated MCM Helper to 1.3.0
+- Updated Spell Perk Item Distributor to 4.5.1
+- Packaged BethINI to be in line with TPF
+- Packaged DynDOLOD to be in line with TPF
 
 ## 2021-08-22 (4.7.3)
 Updated for [TPF 4.7.3](https://thephoenixflavour.com/tpf/appendix/changelog/#release-473)
