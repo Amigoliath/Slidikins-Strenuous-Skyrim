@@ -1,5 +1,5 @@
-Latest update: **08-22-2021**  
-Compatible with: **The Phoenix Flavour 4.7.3**
+Latest update: **2021-08-29**  
+Compatible with: **The Phoenix Flavour 4.7.4**
 
 # 1. Initial Setup
 
@@ -143,31 +143,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
 
 I’ve added the following mods to this section:
-### [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files)
-#### Download Instructions
-- **Main Files:** True Directional Movement
-
-### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files)
-#### Download Instructions
-- **Main Files:** SmoothCam
-
-#### FOMOD Instructions
-- **Version:** SmoothCam AVX
-- **Select Plugin Type:** ESL
-
-#### Additional Instructions
-- Double-click **SmoothCam** in your mod order.
-- Switch to the **Filetree** tab and rename the plugin:
-  - SmoothCam.esl » SmoothCam.esp
-
-### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** Slidikins’ SmoothCam Preset
-
-### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
-#### Download Instructions
-- **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
-
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
@@ -196,8 +171,8 @@ Completely optional, skip if you’re playing ultra wide.
 
 #### Additional Instructions
 - Deactivate the following mods:
-  - Better Dialogue Controls (from **Tweaks**) 
-  - Better MessageBox Controls (from **Tweaks**)
+  - Better Dialogue Controls (from **Controls & Camera**) 
+  - Better MessageBox Controls (from **Controls & Camera**)
   - Remove QuickSave Button from SkyUI System Menu (from **Interface**)
   - Wider MCM Menu for SkyUI (from **Interface**)
   - Favorite Things - Extended Favorites Menu for SkyUI (from **Interface**)
@@ -530,7 +505,36 @@ I’ve added the following mods to this section:
 ## 3.28 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
 
-## 3.29 Skeleton & Animations
+## 3.29 Controls & Camera
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
+
+I’ve added the following mods to this section:
+### [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files)
+#### Download Instructions
+- **Main Files:** True Directional Movement
+
+### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files)
+#### Download Instructions
+- **Main Files:** SmoothCam
+
+#### FOMOD Instructions
+- **Version:** SmoothCam AVX
+- **Select Plugin Type:** ESL
+
+#### Additional Instructions
+- Double-click **SmoothCam** in your mod order.
+- Switch to the **Filetree** tab and rename the plugin:
+  - SmoothCam.esl » SmoothCam.esp
+
+### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+#### Download Instructions
+- **Miscellaneous Files:** Slidikins’ SmoothCam Preset
+
+### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
+#### Download Instructions
+- **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
+
+## 3.30 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
 
 **XP32 Maximum Skeleton Special Extended - Fixed Scripts** - The scripts aren’t being used in _XPMSSE_ so this is unnecessary.
@@ -584,7 +588,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
-## 3.30 Utilities
+## 3.31 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
 # 4. Finalization
