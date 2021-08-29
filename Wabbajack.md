@@ -59,8 +59,8 @@ As of right now, Slidikins' Strenuous Skyrim is not listed in the Wabbajack Gall
 > If you opted to skip Creations altogether, skip this section.
 - Navigate back to your **Creation Club** folder
 - In a separate window, navigate to where you installed the list, e.g. `C:\Modlist Name\`.
-- From there, navigate to `\mods\[No Delete] Creation Club`
-- Copy the following files from **Creation Club** into **[No Delete] Creation Club**
+- From there, navigate to `\mods\[NoDelete] Creation Club`
+- Copy the following files from **Creation Club** into **[NoDelete] Creation Club**
   - ccbgssse037-curios.bsa _(if owned)_
   - ccbgssse037-curios.esl _(if owned)_
   - ccqdrsse001-survivalmode.bsa
