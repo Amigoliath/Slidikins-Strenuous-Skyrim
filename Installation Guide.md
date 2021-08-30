@@ -665,7 +665,7 @@ All controls changed from the Default:
 ### Conner’s Survival Mode
 - **General** Panel
   - **Quality of Life** Section
-    - Shrine Gold Cost: `500`
+    - Shrine Gold Cost: `Freeeee`
     - Enable Health Regen: `Disabled`
 
 ### Dynamic Timescale
