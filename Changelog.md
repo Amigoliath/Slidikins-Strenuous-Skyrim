@@ -1,7 +1,27 @@
-Latest update: **2021-08-29**  
-Compatible with: **The Phoenix Flavour 4.7.4**
+Latest update: **2021-09-03**  
+Compatible with: **The Phoenix Flavour 4.7.5**
 
 # Changelog
+
+## 2021-09-03 (4.7.5)
+Updated for [TPF 4.7.5](https://thephoenixflavour.com/tpf/appendix/changelog/#release-475)
+
+#### Mod Installation
+- **MCM Configuration:** Set Shrine Gold Cost to `Freeeee` in Conner's Survival Mode
+- **Conflict Resolution:** Moved `65001DB5` back to where Realistic Water 2 placed it
+
+#### Wabbajack
+- Updated ENBSeries binaries (no version change)
+- Updated NET Script Framework to 16
+- Updated Landscape Fixes for Grass Mods to 4.9
+- Updated Better Windhelm Ground Meshes to 1.3.2
+- Updated WiZkiD - Hall of the Dead Stained Glass Windows to 1.5
+- Updated Feminine Khajiit Textures to 3.0
+- Updated Adamant - A Perk Overhaul to 5.1.8
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.3
+- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.7
+- Updated True Directional Movement to 1.4.2
+- Updated Auto Input Switch to 1.1.2
 
 ## 2021-08-29 (4.7.4)
 Updated for [TPF 4.7.4](https://thephoenixflavour.com/tpf/appendix/changelog/#release-474)
