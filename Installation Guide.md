@@ -1,5 +1,5 @@
-Latest update: **2021-08-29**  
-Compatible with: **The Phoenix Flavour 4.7.4**
+Latest update: **2021-09-03**  
+Compatible with: **The Phoenix Flavour 4.7.5**
 
 # 1. Initial Setup
 
@@ -34,6 +34,7 @@ Continue to the fourth tab, **Gameplay**.
 
 ### BethINI - Interface
 Continue to the fifth tab, **Interface**.
+- Enable **Dialogue Subtitles**.
 - Disable **Show Quest Markers**.
 > If you want to know where a quest objective is exactly, use Clairvoyance.
 
@@ -665,7 +666,7 @@ All controls changed from the Default:
 ### Conner’s Survival Mode
 - **General** Panel
   - **Quality of Life** Section
-    - Shrine Gold Cost: `500`
+    - Shrine Gold Cost: `Freeeee`
     - Enable Health Regen: `Disabled`
 
 ### Dynamic Timescale
