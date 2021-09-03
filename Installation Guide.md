@@ -34,6 +34,7 @@ Continue to the fourth tab, **Gameplay**.
 
 ### BethINI - Interface
 Continue to the fifth tab, **Interface**.
+- Enable **Dialogue Subtitles**.
 - Disable **Show Quest Markers**.
 > If you want to know where a quest objective is exactly, use Clairvoyance.
 
