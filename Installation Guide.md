@@ -476,6 +476,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition)
 
+### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
+#### Download Instructions
+- **Main Files:** StayDown (ESPFE-Light)
+
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
@@ -484,9 +488,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mod to this section:
 
+### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
+#### Download Instructions
+- **Main Files:** Dynamic Mercenary Fees
+
 ### [Dynamic Timescale](https://www.nexusmods.com/skyrimspecialedition/mods/18922?tab=files)
 #### Download Instructions
-- Main Files: Dynamic Timescale SE
+- **Main Files:** Dynamic Timescale SE
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
@@ -744,6 +752,9 @@ All controls changed from the Default:
     - Modify Barter Settings: `Enabled`
 
 ### True Directional Movement
+- **General** Panel
+  - **General Settings** Section
+    - Directional Movement (Drawn): `Disabled`
 - **Target Lock** Panel
   - **Projectile Settings** Section
     - Arrow Aim Mode: `Free Aim`
