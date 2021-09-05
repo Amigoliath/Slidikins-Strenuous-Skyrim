@@ -606,7 +606,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - Create a **FINAL PATCHES - SSS** separator in Mod Organizer 2
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Install it as usual, place it last below a **FINAL PATCHES - SSS** separator (which you should create), and activate it.
-> This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous and NPC Magicka pools less unlimited.
+> This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous.
 
 ## 4.2 Load Order TXT
 - Close Mod Organizer 2.
