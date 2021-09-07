@@ -336,17 +336,6 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 - Move the **[No Delete] Survival (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
-### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
-#### Download Instructions
-- **Optional Files:** Apothecary - Food Duration Tweaks
-
-#### Additional Instructions
-- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
-
-### [Apothecary Food - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53236?tab=files)
-#### Download Instructions
-- **Main Files:** Apothecary Food - Survival Mode Patch
-
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
 - **Main Files:** Conner’s Survival Mode
@@ -361,6 +350,18 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
 
 I’ve added the following mods to this section:
+
+
+### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+#### Download Instructions
+- **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
+
+### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+#### Download Instructions
+- **Optional Files:** Apothecary - Food Duration Tweaks
+
+#### Additional Instructions
+- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
 #### Download Instructions
