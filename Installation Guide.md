@@ -484,10 +484,15 @@ I’ve added the following mods to this section:
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
+**Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.
 
 I’ve added the following mod to this section:
+
+### [Coherent Inns Prices](https://www.nexusmods.com/skyrimspecialedition/mods/55207?tab=files)
+#### Download Instructions
+- **Main Files:** Coherent Inns Prices
 
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
