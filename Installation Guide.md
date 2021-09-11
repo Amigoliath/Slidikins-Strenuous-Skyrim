@@ -1,5 +1,5 @@
-Latest update: **2021-09-03**  
-Compatible with: **The Phoenix Flavour 4.7.5**
+Latest update: **2021-09-11**  
+Compatible with: **The Phoenix Flavour 4.7.6**
 
 # 1. Initial Setup
 
@@ -336,17 +336,6 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 - Move the **[No Delete] Survival (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
-### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
-#### Download Instructions
-- **Optional Files:** Apothecary - Food Duration Tweaks
-
-#### Additional Instructions
-- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
-
-### [Apothecary Food - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53236?tab=files)
-#### Download Instructions
-- **Main Files:** Apothecary Food - Survival Mode Patch
-
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
 - **Main Files:** Conner’s Survival Mode
@@ -361,6 +350,18 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
 
 I’ve added the following mods to this section:
+
+
+### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+#### Download Instructions
+- **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
+
+### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+#### Download Instructions
+- **Optional Files:** Apothecary - Food Duration Tweaks
+
+#### Additional Instructions
+- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
 #### Download Instructions
@@ -476,17 +477,30 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition)
 
+### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
+#### Download Instructions
+- **Main Files:** StayDown (ESPFE-Light)
+
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
+**Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.
 
 I’ve added the following mod to this section:
 
+### [Coherent Inns Prices](https://www.nexusmods.com/skyrimspecialedition/mods/55207?tab=files)
+#### Download Instructions
+- **Main Files:** Coherent Inns Prices
+
+### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
+#### Download Instructions
+- **Main Files:** Dynamic Mercenary Fees
+
 ### [Dynamic Timescale](https://www.nexusmods.com/skyrimspecialedition/mods/18922?tab=files)
 #### Download Instructions
-- Main Files: Dynamic Timescale SE
+- **Main Files:** Dynamic Timescale SE
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
@@ -598,7 +612,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - Create a **FINAL PATCHES - SSS** separator in Mod Organizer 2
 - Download the [Conflict Resolution Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Install it as usual, place it last below a **FINAL PATCHES - SSS** separator (which you should create), and activate it.
-> This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous and NPC Magicka pools less unlimited.
+> This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous.
 
 ## 4.2 Load Order TXT
 - Close Mod Organizer 2.
@@ -744,6 +758,9 @@ All controls changed from the Default:
     - Modify Barter Settings: `Enabled`
 
 ### True Directional Movement
+- **General** Panel
+  - **General Settings** Section
+    - Directional Movement (Drawn): `Disabled`
 - **Target Lock** Panel
   - **Projectile Settings** Section
     - Arrow Aim Mode: `Free Aim`
