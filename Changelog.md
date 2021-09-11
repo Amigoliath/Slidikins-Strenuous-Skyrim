@@ -1,7 +1,49 @@
 Latest update: **2021-09-03**  
-Compatible with: **The Phoenix Flavour 4.7.5**
+Compatible with: **The Phoenix Flavour 4.7.6**
 
 # Changelog
+
+## 2021-09-11 (4.7.6)
+Updated for [TPF 4.7.6](https://thephoenixflavour.com/tpf/appendix/changelog/#release-476)
+
+#### Mod Installation
+- **Gameplay Overhauls:** Moved Apothecary - Food Duration Tweaks to Loot & Crafting
+- **Gameplay Overhauls:** Removed Apothecary Food - Survival Mode Patch
+- **Loot & Crafting:** Added Apothecary - Food & Drink Addon - Survival Mode Patch
+- **Combat & Encounters:** Added STAYDOWN
+- **Miscellaneous:** Removed Misc Tweaks - More Expensive Inns
+- **Miscellaneous:** Added Coherent Inns Prices
+- **Miscellaneous:** Added Dynamic Mercenary Fees
+- **MCM Configuration:** Disabled `Directional Movement (Drawn)` in True Directional Movement
+- **Conflict Resolution:** Removed change to GMST fMagicSkillCostScale `000C27BE`
+- **Conflict Resolution:** Removed change to GMST fMagicCasterSkillCostMult `000F1E59`
+- **Conflict Resolution:** Removed changes to Pilgrim NPCs as they're no longer needed
+- **Conflict Resolution:** Added new soups to CRSurvivalHotSoupList `xx09D7FF`
+- **Conflict Resolution:** Updated TPF edits to Horse Race `000131FD`
+
+#### Wabbajack
+- Updated ENBSeries binaries (no version change)
+- Updated NET Script Framework to 17
+- Updated Scrambled Bugs to 13
+- Updated Assorted Mesh Fixes to 0.26
+- Updated Deadly Spell Impacts - Transparency Fix for ENB to 3.0
+- Updated Better Dynamic Ash to 2.1.1
+- Updated Enhanced Vanilla Trees to 2.2.1
+- Updated Spooknik’s Tundra Trees to 1.2
+- Updated Adamant - A Perk Overhaul to 5.1.8
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.3
+- Updated Open World Loot - AVL Thalmor Addon to 1.1
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.3
+- Updated Open World Loot - AVL Nordic Addon to 1.1
+- Updated Simple Smithing Overhaul to 1.1.6a
+- Updated Lightwight Smithing Tweaks to 1.2
+- Updated Apothecary - An Alchemy Overhaul to 1.1.5
+- Updated Apothecary - Food and Drink Addon to 1.0.3
+- Updated Apothecary - Rare Curios Patch to 1.0.2
+- Updated The Choice Is Yours to 2.1
+- Updated Resistances and Weaknesses to 0.9
+- Updated Immersive Sounds Compendium to 3.0
+- Updated Audio Overhaul Skyrim - Immersive Sounds Compendium Integration to 1.0.2
 
 ## 2021-09-03 (4.7.5)
 Updated for [TPF 4.7.5](https://thephoenixflavour.com/tpf/appendix/changelog/#release-475)
