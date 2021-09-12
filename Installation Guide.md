@@ -494,6 +494,12 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Coherent Inns Prices
 
+#### Additional Instructions
+- Double-click **Coherent Inns Prices** in your mod order.
+- Switch to the **Filetree** tab and rename the plugin:
+  - CoherentInnsPrices.esl » CoherentInnsPrices.esp
+
+
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
 - **Main Files:** Dynamic Mercenary Fees
