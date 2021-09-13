@@ -229,6 +229,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I’ve added the following mods to this section:
 
 ### [Enhanced Blood Textures - Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
+Unfortunately this download was archived on the Nexus. It is still available via Wabbajack, however manual users can't obtain yet. Skip this for now.
 #### Download Instructions
 - **Miscellaneous Files:** enb square test alpha test test file v31
 
@@ -252,7 +253,7 @@ I’ve added the following mods to this section:
 
 ### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 #### Download Instructions
-- **Main Files:** Splashes Of Skyrim - 1.2
+- **Main Files:** Splashes Of Skyrim - 1.3
 
 ## 3.9 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
