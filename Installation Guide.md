@@ -1,4 +1,4 @@
-Latest update: **2021-09-11**  
+Latest update: **2021-09-16**  
 Compatible with: **The Phoenix Flavour 4.7.6**
 
 # 1. Initial Setup
@@ -500,7 +500,6 @@ I’ve added the following mod to this section:
 - Switch to the **Filetree** tab and rename the plugin:
   - CoherentInnsPrices.esl » CoherentInnsPrices.esp
 
-
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
 - **Main Files:** Dynamic Mercenary Fees
@@ -508,6 +507,22 @@ I’ve added the following mod to this section:
 ### [Dynamic Timescale](https://www.nexusmods.com/skyrimspecialedition/mods/18922?tab=files)
 #### Download Instructions
 - **Main Files:** Dynamic Timescale SE
+
+### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450?tab=files)
+#### Download Instructions
+- **Main Files:** Sensible Bribes
+
+### [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582?tab=files)
+#### Download Instructions
+- **Main Files:** More Lights for ENB - Blood Splatter Fix
+
+#### FOMOD Instructions
+- **Installation Options:** Bthardamz
+- **Installation Options:** Chaurus Eggs and Sacs
+- **Installation Options:** Deathbells and Nirnroots
+- **Installation Options:** Glowing Mushrooms
+- **Installation Options:** Soul Gems
+- **Installation Options:** Patch for Rustic Soul Gems
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
