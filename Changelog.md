@@ -14,6 +14,7 @@ Compatible with: **The Phoenix Flavour 4.7.6**
 - Updated ENBSeries binaries to 0.463
 - Updated Disable USSEP Book to 1.1
 - Updated NPC AI Process Position Fix to 4.05d
+- Updated Unique Uniques Re-Ported to 2.3.2
 - Updated Dragon War - A Dragon Overhaul to 1.2
 - Updated The Choice is Yours to 2.2
 - Updated Spell Perk Item Distributor to 5.0.3
