@@ -130,12 +130,12 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Container and Arrow Weight Restrictions
 
+#### Additional Instructions
+- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+
 ### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
 #### Download Instructions
 - **Main Files:** Locks Are Just Locked
-
-#### Additional Instructions
-- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
