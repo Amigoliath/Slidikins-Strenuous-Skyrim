@@ -130,6 +130,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Container and Arrow Weight Restrictions
 
+### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
+#### Download Instructions
+- **Main Files:** Locks Are Just Locked
+
 #### Additional Instructions
 - ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
@@ -480,7 +484,7 @@ I’ve added the following mods to this section:
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
-- **Main Files:** StayDown (ESPFE-Light)
+- **Main Files:** STAYDOWN (ESPFE - STAYDOWN LIGHT)
 
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
@@ -627,6 +631,12 @@ I’ve added the following mods to this section:
 
 ## 3.31 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
+
+I’ve added the following mods to this section:
+
+### [Keyword Item Distrubtor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
+#### Download Instructions
+- **Main Files:** Keyword Item Distributor
 
 # 4. Finalization
 
