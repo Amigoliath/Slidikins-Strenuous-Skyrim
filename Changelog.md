@@ -7,6 +7,7 @@ Compatible with: **The Phoenix Flavour 4.8**
 Updated for [TPF 4.8](https://thephoenixflavour.com/tpf/appendix/changelog/#release-48)
 
 #### Mod Installation
+- **Tweaks:** Added Locks Are Just Locked
 - **Combat & Encounters:** Fixed STAYDOWN's download instructions
 - **Miscellaneous:** Removed More Lights for ENB - Blood Splatter Fix
 - **Utilities:** Added Keyword Item Distributor
