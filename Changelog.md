@@ -1,7 +1,26 @@
-Latest update: **2021-09-16**  
-Compatible with: **The Phoenix Flavour 4.7.6**
+Latest update: **2021-09-18**  
+Compatible with: **The Phoenix Flavour 4.8**
 
 # Changelog
+
+## 2021-09-18 (4.8.0)
+Updated for [TPF 4.8](https://thephoenixflavour.com/tpf/appendix/changelog/#release-48)
+
+#### Mod Installation
+- **Combat & Encounters:** Fixed STAYDOWN's download instructions
+- **Miscellaneous:** Removed More Lights for ENB - Blood Splatter Fix
+- **Utilities:** Added Keyword Item Distributor
+
+#### Wabbajack
+- Updated College of Winterhold Quest Start Fixes to 0.2
+- Updated DynDOLOD Resources to Alpha-12
+- Updated Fixed Mesh Lighting to 1.4.2
+- Updated Masculine Khajiit Textures to 1.5
+- Updated Timing Is Everything to 2.2FFF
+- Updated Resistances and Weaknesses to 0.9.2
+- Updated STAYDOWN to 2.0
+- Updated DynDOLOD to Alpha 43
+- Now using the Stock Game folder system
 
 ## 2021-09-16 (4.7.6.1)
 

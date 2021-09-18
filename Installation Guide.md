@@ -1,5 +1,5 @@
-Latest update: **2021-09-16**  
-Compatible with: **The Phoenix Flavour 4.7.6**
+Latest update: **2021-09-18**  
+Compatible with: **The Phoenix Flavour 4.8**
 
 # 1. Initial Setup
 
@@ -132,6 +132,10 @@ I’ve added the following mods to this section:
 
 #### Additional Instructions
 - ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+
+### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
+#### Download Instructions
+- **Main Files:** Locks Are Just Locked
 
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
@@ -480,7 +484,7 @@ I’ve added the following mods to this section:
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
-- **Main Files:** StayDown (ESPFE-Light)
+- **Main Files:** STAYDOWN (ESPFE - STAYDOWN LIGHT)
 
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
@@ -511,18 +515,6 @@ I’ve added the following mod to this section:
 ### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450?tab=files)
 #### Download Instructions
 - **Main Files:** Sensible Bribes
-
-### [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582?tab=files)
-#### Download Instructions
-- **Main Files:** More Lights for ENB - Blood Splatter Fix
-
-#### FOMOD Instructions
-- **Installation Options:** Bthardamz
-- **Installation Options:** Chaurus Eggs and Sacs
-- **Installation Options:** Deathbells and Nirnroots
-- **Installation Options:** Glowing Mushrooms
-- **Installation Options:** Soul Gems
-- **Installation Options:** Patch for Rustic Soul Gems
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
@@ -627,6 +619,12 @@ I’ve added the following mods to this section:
 
 ## 3.31 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
+
+I’ve added the following mods to this section:
+
+### [Keyword Item Distrubtor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
+#### Download Instructions
+- **Main Files:** Keyword Item Distributor
 
 # 4. Finalization
 
