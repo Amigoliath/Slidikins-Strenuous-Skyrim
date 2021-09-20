@@ -230,17 +230,27 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.8 Visual FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
 
-I’ve added the following mods to this section:
+I've changed the instructions for the following mod:
 
-### [Enhanced Blood Textures - Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
-Unfortunately this download was archived on the Nexus. It is still available via Wabbajack, however manual users can't obtain yet. Skip this for now.
+### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** enb square test alpha test test file v31
+- **Miscellaneous Files:** 4.0 beta 2
+
+#### FOMOD Instructions
+- **SPID Compatibility:** SPID Compatible
+- <s>**Compatibility Patch:** Immersive Creatures</s>
+- **Effects Distance:** Medium
+- **Blood Splatter Size:** Default Splatter Size
+- **Wounds:** Reduced Wound Size (Optional)
+- **Screen Blood:** EBT - Default
+- **Resolution and Color:** Reduced Res / Default Color
+- **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
 #### Additional Instructions
-- Delete the following file(s) and / or folder(s):
-  - `dD-Larger Splatter Size.esp`
-  - `dD-Reduced Splatter Size.esp`
+- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+- ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+I’ve added the following mods to this section:
 
 ### [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501?tab=files)
 #### Download Instructions
@@ -294,6 +304,26 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
 
+### [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+#### Download Instructions
+- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+
+#### FOMOD Instructions
+- <s>**Options:** Steel Plate Armor</s>
+- <s>**Options:** Elven Light Armor</s>
+- <s>**Options:** Elven Armor</s>
+- **Options:** Glass Armor
+- <s>**Options:** Dragon Scale Armor</s>
+- <s>**Options:** Orcish Armor</s>
+- <s>**Options:** Ebony Armor</s>
+- <s>**Options:** Ebony Mail</s>
+- <s>**Options:** Dragon Plate Armor</s>
+- <s>**Options:** Ancient Nord Armor</s>
+- <s>**Options:** Stormcloak Officer Armor</s>
+- <s>**Options:** Wolf Armor</s>
+- <s>**Options:** Imperial Heavy Armor</s>
+> This is to fix an issue with _aMidianBorn Matching Armory - Glass Armor and Weapons_ that only occurs with the female version of the armor. While I enjoy PFA altogether, its addition at the moment is only to fix an issue that currently exists in TPF.
+
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
 
@@ -334,11 +364,11 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 - Click **Download**.
 - Exit the Creation Club, reload, then exit the game.
 - Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[No Delete] Survival (CC)**.
+- Create a new folder called **[NoDelete] Survival (CC)**.
 - Move the following files into the new folder:
   - `ccqdrsse001-survivalmode.bsa`
   - `ccqdrsse001-survivalmode.esl`
-- Move the **[No Delete] Survival (CC)** folder into `Mod Organizer 2\mods\`
+- Move the **[NoDelete] Survival (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
@@ -349,13 +379,16 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 #### Download Instructions
 - **Main Files:** The Phoenix Flavour - Conner's Survival Mode Patch
 
+### [Slidikins' Strenuous Skyrim - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+#### Download Instructions
+- **Optional Files:** Slidikins' Strenuous Skyrim - Survival Mode Patch
+
 ## 3.22 Loot & Crafting
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
 
 I’ve added the following mods to this section:
-
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -400,11 +433,11 @@ This adds new alchemy ingredients (and a couple of effects), as well as some oth
 - Click **Download**.
 - Exit the Creation Club, reload, then exit the game.
 - Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[No Delete] Rare Curios (CC)**.
+- Create a new folder called **[NoDelete] Rare Curios (CC)**.
 - Move the following files into the new folder:
   - `ccbgssse037-curios.bsa`
   - `ccbgssse037-curios.esl`
-- Move the **[No Delete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
+- Move the **[NoDelete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
