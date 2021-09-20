@@ -1,7 +1,22 @@
-Latest update: **2021-09-18**  
+Latest update: **2021-09-??**  
 Compatible with: **The Phoenix Flavour 4.8**
 
 # Changelog
+
+## 2021-09-?? (4.8.0.1)
+#### Mod Installation
+- **Visual FX:** Revised instructions for Removed Enhanced Blood Textures
+- **Visual FX:** Removed Enhanced Blood Textures - Transparency Fix for ENB
+- **Apparel & Weapons:** Added Practical Female Armors
+- **Gameplay Overhauls:** Added Slidikins' Strenuous Skyrim - Survival Mode Patch
+- **Conflict Resolution:** Removed edits to doomSteedAbility `000E5F5E` to remove Survival CC dependency
+- **Conflict Resolution:** Removed edits to CRSurvivalHotSoupList `xx09D7FF` to remove Survival CC dependency
+
+#### Wabbajack
+- Updated The Dwemer to 1.5
+- Updated Apothecary - Food and Drink Addon - Survival Mode Patch to 1.0.2
+- Updated Keyword Item Distrubtor to 1.1.0
+- Updated Royal Armory - Reforged to 1.2
 
 ## 2021-09-18 (4.8.0)
 Updated for [TPF 4.8](https://thephoenixflavour.com/tpf/appendix/changelog/#release-48)
