@@ -12,7 +12,7 @@ Compatible with: **The Phoenix Flavour 4.8**
 - **Skeleton & Animations:** Added Ice Skating Fixed For Real
 - **Conflict Resolution:** Removed edits to doomSteedAbility `000E5F5E` to remove Survival CC dependency
 - **Conflict Resolution:** Removed edits to CRSurvivalHotSoupList `xx09D7FF` to remove Survival CC dependency
-- **Conflict Resolution:** Changed RoomCost `0009CC98` to 40 so that the Sleeping Giant Inn displayes correctly with Coherent Inn Prices.
+- **Conflict Resolution:** Changed RoomCost `0009CC98` to 40 so that the Sleeping Giant Inn displays correctly with Coherent Inn Prices.
 - **Conflict Resolution:** Reverted changes widespread 15% nerf to Honed Metal NPC skill levels. Instead, dropped Eorlund and Sergius' skill to 90.
 
 #### Finalisation
