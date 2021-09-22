@@ -1,9 +1,9 @@
-Latest update: **2021-09-??**  
+Latest update: **2021-09-22**  
 Compatible with: **The Phoenix Flavour 4.8**
 
 # Changelog
 
-## 2021-09-?? (4.8.0.1)
+## 2021-09-22 (4.8.0.1)
 #### Mod Installation
 - **Visual FX:** Revised instructions for Removed Enhanced Blood Textures
 - **Visual FX:** Removed Enhanced Blood Textures - Transparency Fix for ENB
@@ -12,6 +12,8 @@ Compatible with: **The Phoenix Flavour 4.8**
 - **Skeleton & Animations:** Added Ice Skating Fixed For Real
 - **Conflict Resolution:** Removed edits to doomSteedAbility `000E5F5E` to remove Survival CC dependency
 - **Conflict Resolution:** Removed edits to CRSurvivalHotSoupList `xx09D7FF` to remove Survival CC dependency
+- **Conflict Resolution:** Changed RoomCost `0009CC98` to 40 so that the Sleeping Giant Inn displayes correctly with Coherent Inn Prices.
+- **Conflict Resolution:** Reverted changes widespread 15% nerf to Honed Metal NPC skill levels. Instead, dropped Eorlund and Sergius' skill to 90.
 
 #### Finalisation
 - **Nemesis:** Regenerated output with _Ice Skating Fixed for Real_ included.
