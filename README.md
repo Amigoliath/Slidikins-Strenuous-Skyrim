@@ -1,6 +1,6 @@
 # Slidikins' Strenuous Skyrim
 
-![Slidikins' Strenuous Skyrim](https://i.imgur.com/StiyNbw.png)
+![Slidikins' Strenuous Skyrim](https://i.imgur.com/S3Ef5We.png)
 
 # Introduction
 **Slidikins’ Strenuous Skyrim (SSS)** is an addon for **[The Phoenix Flavour (TPF)](https://thephoenixflavour.com/tpf/introduction/)**, a wonderfully curated vanilla-plus modding guide for [The Elder Scrolls V Skyrim: Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/). In order to use this document you’ll first need to install TPF, either [manually](https://thephoenixflavour.com/tpf/initial-setup/), or via [Wabbajack Installer](https://thephoenixflavour.com/tpf/wabbajack/). Regardless which you choose, I’m going to assume you’ve read TPF and understand the mods and tools included. Phoenix does a wonderful job explaining all of that in the main guide so it won't necessarily be repeated here.
