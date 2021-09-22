@@ -15,6 +15,8 @@ Compatible with: **The Phoenix Flavour 4.8**
 #### Wabbajack
 - Updated The Dwemer to 1.5
 - Updated Apothecary - Food and Drink Addon - Survival Mode Patch to 1.0.2
+- Updated Resistances and Weaknesses to 0.9.5
+- Updated Unequip Quiver to 1.5
 - Updated Keyword Item Distrubtor to 1.1.0
 - Updated Royal Armory - Reforged to 1.2
 
