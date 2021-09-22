@@ -1,4 +1,4 @@
-Latest update: **2021-09-18**  
+Latest update: **2021-09-??**  
 Compatible with: **The Phoenix Flavour 4.8**
 
 # 1. Initial Setup
@@ -649,6 +649,10 @@ I’ve added the following mods to this section:
 ### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177?tab=files)
 #### Download Instructions
 - **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+
+### [Ice Skating Fixed For Real](https://www.nexusmods.com/skyrimspecialedition/mods/55417?tab=files)
+#### Download Instructions
+- **Main Files:** EVE - Ice skating fixed for real - No more attack skating movement
 
 ## 3.31 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
