@@ -1,7 +1,34 @@
-Latest update: **2021-09-18**  
+Latest update: **2021-09-22**  
 Compatible with: **The Phoenix Flavour 4.8**
 
 # Changelog
+
+## 2021-09-22 (4.8.0.1)
+#### Mod Installation
+- **Visual FX:** Revised instructions for Removed Enhanced Blood Textures
+- **Visual FX:** Removed Enhanced Blood Textures - Transparency Fix for ENB
+- **Apparel & Weapons:** Added Practical Female Armors
+- **Gameplay Overhauls:** Added Slidikins' Strenuous Skyrim - Survival Mode Patch
+- **Skeleton & Animations:** Added Ice Skating Fixed For Real
+- **Conflict Resolution:** Removed edits to doomSteedAbility `000E5F5E` to remove Survival CC dependency
+- **Conflict Resolution:** Removed edits to CRSurvivalHotSoupList `xx09D7FF` to remove Survival CC dependency
+- **Conflict Resolution:** Changed RoomCost `0009CC98` to 40 so that the Sleeping Giant Inn displayes correctly with Coherent Inn Prices.
+- **Conflict Resolution:** Reverted changes widespread 15% nerf to Honed Metal NPC skill levels. Instead, dropped Eorlund and Sergius' skill to 90.
+
+#### Finalisation
+- **Nemesis:** Regenerated output with _Ice Skating Fixed for Real_ included.
+
+#### Wabbajack
+- Updated The Dwemer to 1.5
+- Updated Apothecary - Food and Drink Addon - Survival Mode Patch to 1.0.2
+- Updated Resistances and Weaknesses to 0.9.5
+- Updated Unequip Quiver to 1.5
+- Updated Keyword Item Distrubtor to 1.1.0
+- Updated Royal Armory - Reforged to 1.2
+- Removed `The Phoenix Flavour`, `The Phoenix Flavour (Performance)`, and `Vanilla` profiles
+- Added `Slidikins' Strenuous Skyrim (CC-less)` and `Slidikins' Strenuous Skryim (CC-less; Performance)` profiles
+- Changed MO2 Splash logo
+- Changed Slidikins' Strenuous Skyrim icon
 
 ## 2021-09-18 (4.8.0)
 Updated for [TPF 4.8](https://thephoenixflavour.com/tpf/appendix/changelog/#release-48)

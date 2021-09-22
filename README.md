@@ -1,9 +1,9 @@
 # Slidikins' Strenuous Skyrim
 
-![Slidikins' Strenuous Skyrim](https://i.imgur.com/StiyNbw.png)
+![Slidikins' Strenuous Skyrim](https://i.imgur.com/S3Ef5We.png)
 
 # Introduction
-**Slidikins’ Strenuous Skyrim (SSS)** is an addon for **[The Phoenix Flavour (TPF)](https://thephoenixflavour.com/tpf/introduction/)**, a wonderfully curated vanilla-plus modding guide for [The Elder Scrolls V Skyrim: Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/). In order to use this document you’ll first need to install TPF, either [manually](https://thephoenixflavour.com/tpf/initial-setup/), or via [Wabbajack Installer](https://thephoenixflavour.com/tpf/wabbajack/). Regardless which you choose, I’m going to assume you’ve read TPF and understand the mods and tools included. Phoenix does a wonderful job explaining all of that in the main guide so it won't necessarily be repeated here.
+**Slidikins’ Strenuous Skyrim (SSS)** is an addon for **[The Phoenix Flavour (TPF)](https://thephoenixflavour.com/tpf/introduction/)**, a wonderfully curated vanilla-plus modding guide for [The Elder Scrolls V Skyrim: Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/). In order to use the Installation Guide you’ll first need to [install TPF](https://thephoenixflavour.com/tpf/wabbajack/). Even though TPF's manual guide is no longer supported, I wrote this assuming you’ve read TPF and understand the tools it has included.
 
 **What to expect from The Phoenix Flavour:**  
 *Copied from the guide*
@@ -17,7 +17,7 @@
 - **Strict Level Cap:** Maximum level is 50 with a total of 55 perk points granted. Use them wisely. On a side note, skills also can not be made Legendary.
 - **Reduced HUD:** With all of my interface presets, your HUD will be minimized, limiting on-screen information. You’ll no longer see enemy information or active effects while in combat, for example.
 - **Equipment Upkeep:** Weapon and armor quality degrades with use and needs to be maintained through tempering. If you’re not trained in the crafting skills, you can commission what you need through _Honed Metal_, but even then some options are unavailable through the NPCs.
-- **Preparedness Rewarded:** The lack of natural health regen will dwindle supplies if you’re hurt frequently. Long fights are not your friend. Bringing the right tools for the job, along with accounting for _Resistances and Weaknesses_, will go a long way towards preventing stalls in your adventures.
+- **Preparedness Rewarded:** The diminished health regen will dwindle supplies if you’re hurt frequently. Long fights are not your friend. Bringing the right tools for the job, along with accounting for _Resistances and Weaknesses_, will go a long way towards preventing stalls in your adventures.
 
 
 ### To get started, head to the >> [Installation Guide](Installation%20Guide.md) <<

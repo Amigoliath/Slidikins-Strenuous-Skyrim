@@ -1,10 +1,10 @@
-Latest update: **2021-09-18**  
+Latest update: **2021-09-22**  
 Compatible with: **The Phoenix Flavour 4.8**
 
 # 1. Initial Setup
 
 ## Prerequisites
-This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you followed the [manual installation instructions](https://thephoenixflavour.com/tpf/initial-setup/) from start to finish. For Wabbajack users, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
+This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you are familiar with the tools introduced and provided by TPF. For Wabbajack users, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
 
 ## Mod Organizer 2
 ### SSS Profile
@@ -230,17 +230,27 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.8 Visual FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
 
-I’ve added the following mods to this section:
+I've changed the instructions for the following mod:
 
-### [Enhanced Blood Textures - Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
-Unfortunately this download was archived on the Nexus. It is still available via Wabbajack, however manual users can't obtain yet. Skip this for now.
+### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** enb square test alpha test test file v31
+- **Miscellaneous Files:** 4.0 beta 2
+
+#### FOMOD Instructions
+- **SPID Compatibility:** SPID Compatible
+- <s>**Compatibility Patch:** Immersive Creatures</s>
+- **Effects Distance:** Medium
+- **Blood Splatter Size:** Default Splatter Size
+- **Wounds:** Reduced Wound Size (Optional)
+- **Screen Blood:** EBT - Default
+- **Resolution and Color:** Reduced Res / Default Color
+- **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
 #### Additional Instructions
-- Delete the following file(s) and / or folder(s):
-  - `dD-Larger Splatter Size.esp`
-  - `dD-Reduced Splatter Size.esp`
+- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+- ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
+
+I’ve added the following mods to this section:
 
 ### [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501?tab=files)
 #### Download Instructions
@@ -294,6 +304,26 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
 
+### [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
+#### Download Instructions
+- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
+
+#### FOMOD Instructions
+- <s>**Options:** Steel Plate Armor</s>
+- <s>**Options:** Elven Light Armor</s>
+- <s>**Options:** Elven Armor</s>
+- **Options:** Glass Armor
+- <s>**Options:** Dragon Scale Armor</s>
+- <s>**Options:** Orcish Armor</s>
+- <s>**Options:** Ebony Armor</s>
+- <s>**Options:** Ebony Mail</s>
+- <s>**Options:** Dragon Plate Armor</s>
+- <s>**Options:** Ancient Nord Armor</s>
+- <s>**Options:** Stormcloak Officer Armor</s>
+- <s>**Options:** Wolf Armor</s>
+- <s>**Options:** Imperial Heavy Armor</s>
+> This is to fix an issue with _aMidianBorn Matching Armory - Glass Armor and Weapons_ that only occurs with the female version of the armor. While I enjoy PFA altogether, its addition at the moment is only to fix an issue that currently exists in TPF.
+
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
 
@@ -334,11 +364,11 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 - Click **Download**.
 - Exit the Creation Club, reload, then exit the game.
 - Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[No Delete] Survival (CC)**.
+- Create a new folder called **[NoDelete] Survival (CC)**.
 - Move the following files into the new folder:
   - `ccqdrsse001-survivalmode.bsa`
   - `ccqdrsse001-survivalmode.esl`
-- Move the **[No Delete] Survival (CC)** folder into `Mod Organizer 2\mods\`
+- Move the **[NoDelete] Survival (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
@@ -349,13 +379,16 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 #### Download Instructions
 - **Main Files:** The Phoenix Flavour - Conner's Survival Mode Patch
 
+### [Slidikins' Strenuous Skyrim - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+#### Download Instructions
+- **Optional Files:** Slidikins' Strenuous Skyrim - Survival Mode Patch
+
 ## 3.22 Loot & Crafting
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
 
 I’ve added the following mods to this section:
-
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -400,11 +433,11 @@ This adds new alchemy ingredients (and a couple of effects), as well as some oth
 - Click **Download**.
 - Exit the Creation Club, reload, then exit the game.
 - Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[No Delete] Rare Curios (CC)**.
+- Create a new folder called **[NoDelete] Rare Curios (CC)**.
 - Move the following files into the new folder:
   - `ccbgssse037-curios.bsa`
   - `ccbgssse037-curios.esl`
-- Move the **[No Delete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
+- Move the **[NoDelete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
 - Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
@@ -617,6 +650,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
 
+### [Ice Skating Fixed For Real](https://www.nexusmods.com/skyrimspecialedition/mods/55417?tab=files)
+#### Download Instructions
+- **Main Files:** EVE - Ice skating fixed for real - No more attack skating movement
+
 ## 3.31 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
@@ -668,7 +705,8 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - Run **Nemesis** through Mod Organizer 2.
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
 - Click the **Update Engine** button and wait for the process to be completed.
-- When it’s done, check the **Jump Behavior Overhaul** box.
+- When it’s done, check the **Ice Skating Fixed for Real** box.
+- Also check the **Jump Behavior Overhaul** box.
 - Also check the **Movement Behavior Overhaul** box.
 - Finally, check the **True Directional Movement** box.
 - Click the big Launch Nemesis Behavior Engine button.
