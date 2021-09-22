@@ -23,6 +23,10 @@ Compatible with: **The Phoenix Flavour 4.8**
 - Updated Unequip Quiver to 1.5
 - Updated Keyword Item Distrubtor to 1.1.0
 - Updated Royal Armory - Reforged to 1.2
+- Removed `The Phoenix Flavour`, `The Phoenix Flavour (Performance)`, and `Vanilla` profiles
+- Added `Slidikins' Strenuous Skyrim (CC-less)` and `Slidikins' Strenuous Skryim (CC-less; Performance)` profiles
+- Changed MO2 Splash logo
+- Changed Slidikins' Strenuous Skyrim icon
 
 ## 2021-09-18 (4.8.0)
 Updated for [TPF 4.8](https://thephoenixflavour.com/tpf/appendix/changelog/#release-48)
