@@ -9,8 +9,12 @@ Compatible with: **The Phoenix Flavour 4.8**
 - **Visual FX:** Removed Enhanced Blood Textures - Transparency Fix for ENB
 - **Apparel & Weapons:** Added Practical Female Armors
 - **Gameplay Overhauls:** Added Slidikins' Strenuous Skyrim - Survival Mode Patch
+- **Skeleton & Animations:** Added Ice Skating Fixed For Real
 - **Conflict Resolution:** Removed edits to doomSteedAbility `000E5F5E` to remove Survival CC dependency
 - **Conflict Resolution:** Removed edits to CRSurvivalHotSoupList `xx09D7FF` to remove Survival CC dependency
+
+#### Finalisation
+- **Nemesis:** Regenerated output with _Ice Skating Fixed for Real_ included.
 
 #### Wabbajack
 - Updated The Dwemer to 1.5
