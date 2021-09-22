@@ -705,7 +705,8 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - Run **Nemesis** through Mod Organizer 2.
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
 - Click the **Update Engine** button and wait for the process to be completed.
-- When it’s done, check the **Jump Behavior Overhaul** box.
+- When it’s done, check the **Ice Skating Fixed for Real** box.
+- Also check the **Jump Behavior Overhaul** box.
 - Also check the **Movement Behavior Overhaul** box.
 - Finally, check the **True Directional Movement** box.
 - Click the big Launch Nemesis Behavior Engine button.
