@@ -322,6 +322,10 @@ I’ve added the following mod to this section:
 - <s>**Options:** Stormcloak Officer Armor</s>
 - <s>**Options:** Wolf Armor</s>
 - <s>**Options:** Imperial Heavy Armor</s>
+- <s>**Dawnguard Options:** Vampire Armor</s>
+- <s>**Dragonborn Options:** Chitin Heavy Armor</s>
+- <s>**Dragonborn Options:** Nordic Carved Armor</s>
+- **Compatility Patches:** _Select None_
 > This is to fix an issue with _aMidianBorn Matching Armory - Glass Armor and Weapons_ that only occurs with the female version of the armor. While I enjoy PFA altogether, its addition at the moment is only to fix an issue that currently exists in TPF.
 
 ## 3.19 Creatures
