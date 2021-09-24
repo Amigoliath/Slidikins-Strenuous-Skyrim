@@ -304,30 +304,6 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
 
-### [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
-#### Download Instructions
-- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
-
-#### FOMOD Instructions
-- <s>**Options:** Steel Plate Armor</s>
-- <s>**Options:** Elven Light Armor</s>
-- <s>**Options:** Elven Armor</s>
-- **Options:** Glass Armor
-- <s>**Options:** Dragon Scale Armor</s>
-- <s>**Options:** Orcish Armor</s>
-- <s>**Options:** Ebony Armor</s>
-- <s>**Options:** Ebony Mail</s>
-- <s>**Options:** Dragon Plate Armor</s>
-- <s>**Options:** Ancient Nord Armor</s>
-- <s>**Options:** Stormcloak Officer Armor</s>
-- <s>**Options:** Wolf Armor</s>
-- <s>**Options:** Imperial Heavy Armor</s>
-- <s>**Dawnguard Options:** Vampire Armor</s>
-- <s>**Dragonborn Options:** Chitin Heavy Armor</s>
-- <s>**Dragonborn Options:** Nordic Carved Armor</s>
-- **Compatility Patches:** _Select None_
-> This is to fix an issue with _aMidianBorn Matching Armory - Glass Armor and Weapons_ that only occurs with the female version of the armor. While I enjoy PFA altogether, its addition at the moment is only to fix an issue that currently exists in TPF.
-
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
 
