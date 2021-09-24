@@ -1,5 +1,5 @@
-Latest update: **2021-09-22**  
-Compatible with: **The Phoenix Flavour 4.8**
+Latest update: **2021-09-23**  
+Compatible with: **The Phoenix Flavour 4.8.0.1**
 
 # 1. Initial Setup
 
@@ -239,7 +239,7 @@ I've changed the instructions for the following mod:
 #### FOMOD Instructions
 - **SPID Compatibility:** SPID Compatible
 - <s>**Compatibility Patch:** Immersive Creatures</s>
-- **Effects Distance:** Medium
+- **Effects Distance:** Long
 - **Blood Splatter Size:** Default Splatter Size
 - **Wounds:** Reduced Wound Size (Optional)
 - **Screen Blood:** EBT - Default
@@ -247,7 +247,6 @@ I've changed the instructions for the following mod:
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
 #### Additional Instructions
-- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 - ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 I’ve added the following mods to this section:
@@ -303,30 +302,6 @@ I’ve added the following mod to this section:
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
-
-### [Practical Female Armors](https://www.nexusmods.com/skyrimspecialedition/mods/2628?tab=files)
-#### Download Instructions
-- **Main Files:** Practical Female Armors SE - All-In-One Installer - NMM BAIN
-
-#### FOMOD Instructions
-- <s>**Options:** Steel Plate Armor</s>
-- <s>**Options:** Elven Light Armor</s>
-- <s>**Options:** Elven Armor</s>
-- **Options:** Glass Armor
-- <s>**Options:** Dragon Scale Armor</s>
-- <s>**Options:** Orcish Armor</s>
-- <s>**Options:** Ebony Armor</s>
-- <s>**Options:** Ebony Mail</s>
-- <s>**Options:** Dragon Plate Armor</s>
-- <s>**Options:** Ancient Nord Armor</s>
-- <s>**Options:** Stormcloak Officer Armor</s>
-- <s>**Options:** Wolf Armor</s>
-- <s>**Options:** Imperial Heavy Armor</s>
-- <s>**Dawnguard Options:** Vampire Armor</s>
-- <s>**Dragonborn Options:** Chitin Heavy Armor</s>
-- <s>**Dragonborn Options:** Nordic Carved Armor</s>
-- **Compatility Patches:** _Select None_
-> This is to fix an issue with _aMidianBorn Matching Armory - Glass Armor and Weapons_ that only occurs with the female version of the armor. While I enjoy PFA altogether, its addition at the moment is only to fix an issue that currently exists in TPF.
 
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).

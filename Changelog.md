@@ -1,7 +1,24 @@
-Latest update: **2021-09-22**  
-Compatible with: **The Phoenix Flavour 4.8**
+Latest update: **2021-09-23**  
+Compatible with: **The Phoenix Flavour 4.8.0.1**
 
 # Changelog
+
+## 2021-09-23
+Updated for [TPF 4.8.0.1](https://github.com/Codygits/TPF-Updates/blob/main/Updates.md)
+
+#### Mod Installation
+- **Visual FX:** Adjusted Enhanced Blood Textures instructions to account for SPID version of the mod
+- **Apparel & Weapons:** Removed Practical Female Armors as it was handled in base TPF
+- **Conflict Resolution:** Reverted change to RoomCost `0009CC98` as Coherent Inn Prices fixed the issue
+- **Conflict Resolution (Survival):** Effectively removed MAG_RecipeFoodBoarCooked `xx06C67C` as it's already added by the Unofficial Patch.
+- **Conflict Resolution (Survival):** Changed the description of Charioteer `xx000813` to account for variable magnitude with Survival. This is much cleaner than the previous version's method.
+
+#### Wabbajack
+- Hid all executables except for Slidikins' Strenuous Skyrim from the drop down (they are all still set up and packaged)
+- Updated Coherent Inn Prices to 1.1
+- Updated DynDOLOD Resources to Alpha-13
+- Updated True Directional Movement to 1.4.3
+- Updated DynDOLOD to Alpha-44
 
 ## 2021-09-22 (4.8.0.1)
 #### Mod Installation
