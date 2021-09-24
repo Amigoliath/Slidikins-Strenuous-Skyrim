@@ -1,5 +1,5 @@
-Latest update: **2021-09-22**  
-Compatible with: **The Phoenix Flavour 4.8**
+Latest update: **2021-09-23**  
+Compatible with: **The Phoenix Flavour 4.8.0.1**
 
 # 1. Initial Setup
 
@@ -239,7 +239,7 @@ I've changed the instructions for the following mod:
 #### FOMOD Instructions
 - **SPID Compatibility:** SPID Compatible
 - <s>**Compatibility Patch:** Immersive Creatures</s>
-- **Effects Distance:** Medium
+- **Effects Distance:** Long
 - **Blood Splatter Size:** Default Splatter Size
 - **Wounds:** Reduced Wound Size (Optional)
 - **Screen Blood:** EBT - Default
@@ -247,7 +247,6 @@ I've changed the instructions for the following mod:
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
 #### Additional Instructions
-- ESL-ify **dD-Medium Script Range.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 - ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 I’ve added the following mods to this section:
