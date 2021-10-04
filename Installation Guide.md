@@ -24,8 +24,8 @@ This Installation Guide is written under the assumption that you have an unmodif
 
 ### BethINI - Basic
 If you aren't already there, click the second tab, **Basic**.
-- Enable **Windowed**.
 - Enable **Always Active**.
+> This will keep the game unpaused if you alt-tab away, giving a borderless windowed effect. Leave it disabled if you dislike this behavior.
 
 ### BethINI - Gameplay
 Continue to the fourth tab, **Gameplay**.
