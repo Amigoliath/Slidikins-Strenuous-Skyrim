@@ -1,5 +1,5 @@
-Latest update: **2021-09-23**  
-Compatible with: **The Phoenix Flavour 4.8.0.1**
+Latest update: **2021-10-04**  
+Compatible with: **The Phoenix Flavour 4.8.0.2**
 
 # 1. Initial Setup
 
@@ -237,11 +237,10 @@ I've changed the instructions for the following mod:
 - **Miscellaneous Files:** 4.0 beta 2
 
 #### FOMOD Instructions
-- **SPID Compatibility:** SPID Compatible
+- **SPID Compatibility and Script Distance:** SPID Compatible
 - <s>**Compatibility Patch:** Immersive Creatures</s>
-- **Effects Distance:** Long
-- **Blood Splatter Size:** Default Splatter Size
-- **Wounds:** Reduced Wound Size (Optional)
+- **Blood Size:** Default Splatter Size
+- **Wounds (Optional):** Reduced Wound Size (Optional)
 - **Screen Blood:** EBT - Default
 - **Resolution and Color:** Reduced Res / Default Color
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
@@ -267,6 +266,10 @@ I’ve added the following mods to this section:
 ### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 #### Download Instructions
 - **Main Files:** Splashes Of Skyrim - 1.3
+
+### [ENB Lights for Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files)
+#### Download Instructions
+- **Main Files:** ENB Lights For Effect Shaders
 
 ## 3.9 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
