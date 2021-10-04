@@ -1,7 +1,27 @@
-Latest update: **2021-09-23**  
-Compatible with: **The Phoenix Flavour 4.8.0.1**
+Latest update: **2021-10-04**  
+Compatible with: **The Phoenix Flavour 4.8.0.2**
 
 # Changelog
+
+## 2021-10-04
+Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2)
+
+#### Mod Installation
+- **Visual FX:** Updated instructions for Enhanced Blood Textures
+- **Visual FX:** Added ENB Lights for Effect Shaders
+
+#### Wabbajack
+- Updated Assorted Mesh Fixes to 0.27
+- Updated Relighting Skyrim to 1.2.1
+- Updated Lanterns of Skyrim II to 3.1
+- Updated Enhanced Blood Textures to 4.0 beta 3
+- Updated Feminine Khajiit Textures to 3.1
+- Updated Carriage and Ferry Overhaul - Fixes and Winterhold to 3.0
+- Updated Pilgrim - A Religion Overhaul to 1.0.6
+- Updated Resistances and Weaknesses to 0.9.6
+- Updated Spell Perk Item Distributor to 5.0.4
+- Updated Keyword Item Distributor to 1.2.0
+
 
 ## 2021-09-23
 Updated for [TPF 4.8.0.1](https://github.com/Codygits/TPF-Updates/blob/main/Updates.md)
