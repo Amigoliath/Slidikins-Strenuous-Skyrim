@@ -624,6 +624,26 @@ I’ve added the following mods to this section:
   - `Draw2.bsa`
   - `Draw2.esp`
 
+### [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534?tab=files)
+#### Download Instructions
+- **Main Files:** EVG Animation Variance
+
+#### FOMOD Instructions
+- Page 1: Install Type
+  - **Options:** Modular
+- Page 2: Modular
+  - **Torch:** Full
+  - **Repurposed Idles:** Full
+  - <s>**Personality:** Elder</s>
+  - <s>**Personality:** Elder - Sitting</s>
+  - **Personality:** Children
+  - **Personality:** Young Female
+  - **Personality:** Imperial Guards
+  - **Personality:** Egoistic
+  - **Miscellaneous:** Wounded
+  - **Miscellaneous:** Smooth Floating
+  - <s>**Miscellaneous:** Laying Down</s>
+
 ### [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006?tab=files)
 #### Download Instructions
 - **Main Files:** EVG Conditional Idles
