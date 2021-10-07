@@ -148,6 +148,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
 
 I’ve added the following mods to this section:
+### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
+#### Download Instructions
+- **Main Files:** SkyUI - Ghost Item Bug Fix
+
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
