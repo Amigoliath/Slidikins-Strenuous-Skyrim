@@ -1,16 +1,19 @@
-Latest update: **2021-10-04**  
+Latest update: **2021-10-07**  
 Compatible with: **The Phoenix Flavour 4.8.0.2**
 
 # Changelog
 
-## 2021-10-04
+## 2021-10-07
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2)
 
 #### Mod Installation
 - **Visual FX:** Updated instructions for Enhanced Blood Textures
 - **Visual FX:** Added ENB Lights for Effect Shaders
+- **Trees & Plants:** Added Enhanced Vanilla Trees - Shrine to Peryite Nest Fix (not in the Installation Guide as I expect TPF to include it soon)
 
 #### Wabbajack
+- Updated SKSE to 2.0.20
+- Updated Scrambled Bugs to 14
 - Updated Assorted Mesh Fixes to 0.27
 - Updated Relighting Skyrim to 1.2.1
 - Updated Lanterns of Skyrim II to 3.1
@@ -21,6 +24,7 @@ Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4
 - Updated Resistances and Weaknesses to 0.9.6
 - Updated Spell Perk Item Distributor to 5.0.4
 - Updated Keyword Item Distributor to 1.2.0
+- Updated DynDOLOD to 3.00 Alpha 47
 
 
 ## 2021-09-23
