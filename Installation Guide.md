@@ -133,10 +133,6 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
-### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
-#### Download Instructions
-- **Main Files:** Locks Are Just Locked
-
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
@@ -221,6 +217,16 @@ Completely optional, skip if you’re playing ultra wide.
 #### FOMOD Instructions
 - **Game:** Skyrim Special Edition
 - **Interface:** SkyUI
+
+### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
+#### Download Instructions
+- **Main Files:** Simple Activate SKSE
+
+#### Additional Instructions
+- Double-click **Simple Activate SKSE** in your mod order.
+- Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
+- In **Line 46**, change `Hide Locked Tag =` to `true`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
