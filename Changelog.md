@@ -7,7 +7,9 @@ Compatible with: **The Phoenix Flavour 4.8.0.2**
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2)
 
 #### Mod Installation
+- **Tweaks:** Removed Locks Are Just Locked
 - **Interface:** Added SkyUI - Ghost Item Bug Fix
+- **Interface:** Added Simple Activate SKSE
 - **Visual FX:** Updated instructions for Enhanced Blood Textures
 - **Visual FX:** Added ENB Lights for Effect Shaders
 - **Trees & Plants:** Added Enhanced Vanilla Trees - Shrine to Peryite Nest Fix (not in the Installation Guide as I expect TPF to include it soon)
