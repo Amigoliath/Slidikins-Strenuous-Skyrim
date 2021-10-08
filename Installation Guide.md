@@ -225,6 +225,7 @@ Completely optional, skip if you’re playing ultra wide.
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
+- In **Line 28**, change `Show Indicator Using Name =` to `false`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
