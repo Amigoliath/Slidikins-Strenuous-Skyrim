@@ -249,7 +249,7 @@ I've changed the instructions for the following mod:
 
 ### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** 4.0 beta 2
+- **Miscellaneous Files:** 4.0 beta 3
 
 #### FOMOD Instructions
 - **SPID Compatibility and Script Distance:** SPID Compatible
