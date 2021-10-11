@@ -1,7 +1,41 @@
-Latest update: **2021-09-23**  
-Compatible with: **The Phoenix Flavour 4.8.0.1**
+Latest update: **2021-10-11**  
+Compatible with: **The Phoenix Flavour 4.8.0.3**
 
 # Changelog
+
+## 2021-10-11
+Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2) and [TPF 4.8.0.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.3)
+
+#### BethINI:
+- **Basic:** Removed a change from as it's been addressed in base TPF.
+
+#### Mod Installation
+- **Interface:** Added SkyUI - Ghost Item Bug Fix
+- **Interface:** Added Simple Activate SKSE
+- **Visual FX:** Updated instructions for Enhanced Blood Textures
+- **Visual FX:** Added ENB Lights for Effect Shaders
+- **Conflict Resolution:** Updated records to make sure any Realistic Water Two changes were carried over
+
+#### Wabbajack
+- Updated SKSE to 2.0.20
+- Updated Scrambled Bugs to 14
+- Updated Assorted Mesh Fixes to 0.27
+- Updated Relighting Skyrim to 1.2.1
+- Updated Lanterns of Skyrim II to 3.1
+- Updated Realistic Water Two to 4.0.1
+- Updated Enhanced Blood Textures to 4.0 beta 3
+- Updated Feminine Khajiit Textures to 3.1
+- Updated Carriage and Ferry Overhaul - Fixes and Winterhold to 3.0
+- Updated Adamant - A Perk Overhaul to 5.2.0
+- Updated Pilgrim - A Religion Overhaul to 1.0.6
+- Updated Resistances and Weaknesses to 0.9.6
+- Updated Spell Perk Item Distributor to 5.0.4
+- Updated Keyword Item Distributor to 1.2.0
+- Updated DynDOLOD to 3.00 Alpha 47
+
+#### Finalisation
+- Regenerated TexGen Output
+- Regenerated DynDOLOD Output
 
 ## 2021-09-23
 Updated for [TPF 4.8.0.1](https://github.com/Codygits/TPF-Updates/blob/main/Updates.md)

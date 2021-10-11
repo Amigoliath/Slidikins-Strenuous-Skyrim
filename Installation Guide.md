@@ -1,5 +1,5 @@
-Latest update: **2021-09-23**  
-Compatible with: **The Phoenix Flavour 4.8.0.1**
+Latest update: **2021-10-11**  
+Compatible with: **The Phoenix Flavour 4.8.0.3**
 
 # 1. Initial Setup
 
@@ -24,8 +24,8 @@ This Installation Guide is written under the assumption that you have an unmodif
 
 ### BethINI - Basic
 If you aren't already there, click the second tab, **Basic**.
-- Enable **Windowed**.
 - Enable **Always Active**.
+> This will keep the game unpaused if you alt-tab away, giving a borderless windowed effect. Leave it disabled if you dislike this behavior.
 
 ### BethINI - Gameplay
 Continue to the fourth tab, **Gameplay**.
@@ -130,12 +130,12 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Container and Arrow Weight Restrictions
 
-#### Additional Instructions
-- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
-
 ### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
 #### Download Instructions
 - **Main Files:** Locks Are Just Locked
+
+#### Additional Instructions
+- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
@@ -148,6 +148,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
 
 I’ve added the following mods to this section:
+### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
+#### Download Instructions
+- **Main Files:** SkyUI - Ghost Item Bug Fix
+
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
@@ -218,6 +222,17 @@ Completely optional, skip if you’re playing ultra wide.
 - **Game:** Skyrim Special Edition
 - **Interface:** SkyUI
 
+### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
+#### Download Instructions
+- **Main Files:** Simple Activate SKSE
+
+#### Additional Instructions
+- Double-click **Simple Activate SKSE** in your mod order.
+- Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
+- In **Line 28**, change `Show Indicator Using Name =` to `false`.
+- In **Line 46**, change `Hide Locked Tag =` to `true`.
+- Hit **CTRL+S** to save your changes and close the window.
+
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
 
@@ -237,11 +252,10 @@ I've changed the instructions for the following mod:
 - **Miscellaneous Files:** 4.0 beta 2
 
 #### FOMOD Instructions
-- **SPID Compatibility:** SPID Compatible
+- **SPID Compatibility and Script Distance:** SPID Compatible
 - <s>**Compatibility Patch:** Immersive Creatures</s>
-- **Effects Distance:** Long
-- **Blood Splatter Size:** Default Splatter Size
-- **Wounds:** Reduced Wound Size (Optional)
+- **Blood Size:** Default Splatter Size
+- **Wounds (Optional):** Reduced Wound Size (Optional)
 - **Screen Blood:** EBT - Default
 - **Resolution and Color:** Reduced Res / Default Color
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
@@ -267,6 +281,10 @@ I’ve added the following mods to this section:
 ### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 #### Download Instructions
 - **Main Files:** Splashes Of Skyrim - 1.3
+
+### [ENB Lights for Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files)
+#### Download Instructions
+- **Main Files:** ENB Lights For Effect Shaders
 
 ## 3.9 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
@@ -620,6 +638,26 @@ I’ve added the following mods to this section:
   - `Draw2.achlist`
   - `Draw2.bsa`
   - `Draw2.esp`
+
+### [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534?tab=files)
+#### Download Instructions
+- **Main Files:** EVG Animation Variance
+
+#### FOMOD Instructions
+- Page 1: Install Type
+  - **Options:** Modular
+- Page 2: Modular
+  - **Torch:** Full
+  - **Repurposed Idles:** Full
+  - <s>**Personality:** Elder</s>
+  - <s>**Personality:** Elder - Sitting</s>
+  - **Personality:** Children
+  - **Personality:** Young Female
+  - **Personality:** Imperial Guards
+  - **Personality:** Egoistic
+  - **Miscellaneous:** Wounded
+  - **Miscellaneous:** Smooth Floating
+  - <s>**Miscellaneous:** Laying Down</s>
 
 ### [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006?tab=files)
 #### Download Instructions
