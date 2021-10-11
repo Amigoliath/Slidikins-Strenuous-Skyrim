@@ -34,7 +34,7 @@ Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4
 - Updated DynDOLOD to 3.00 Alpha 47
 
 #### Finalisation
-- Regnerated TexGen Output
+- Regenerated TexGen Output
 - Regenerated DynDOLOD Output
 
 ## 2021-09-23
