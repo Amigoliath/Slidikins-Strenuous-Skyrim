@@ -1,7 +1,34 @@
-Latest update: **2021-10-11**  
-Compatible with: **The Phoenix Flavour 4.8.0.3**
+Latest update: **2021-10-??**  
+Compatible with: **The Phoenix Flavour 4.8.0.4**
 
 # Changelog
+
+## 2021-10-??
+Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md)
+
+#### Mod Installation
+- **Interface:** Updated download instructions for Simple Activate SKSE
+- **Loot & Crafting:** Removed Enchanting Adjustments
+- **Loot & Crafting:** Added Thaumaturgy - An Enchanting Overhaul
+- **Loot & Crafting:** Added Thaumaturgy - WACCF Patch
+- **Loot & Crafting:** Added Thaumaturgy - Armor and Crafting Extension Patch
+- **Combat & Encounters:** Updated download instructions for STAYDOWN
+- **MCM Configuration:** Removed edits to Immersive HUD settings that are now made default by The Phoenix Flavour - Conflict Resolution Patch
+- **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
+
+Wabbajack
+- Updated Simple Activate SKSE to 1.1
+- Updated DynDOLOD Resources to Alpha-15
+- Updated Modular Armory to 1.2
+- Updated Modular Armory - Unique Nettlebane to 1.1unb
+- Updated Modular Armory - Unique Zephyr to 1.1uzp
+- Updated Adamant - A Perk Overhaul to 5.2.1
+- Updated Aetherius - A Race Overhaul to 2.6.0
+- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.8.1
+- Updated Dragon War - A Dragon Overhaul to 1.3
+- Updated Resistances and Weaknesses to 0.9.6.1
+- Updated STAYDOWN to 3.0.0
+- Updated DynDOLOD to 3.00 Alpha-49
 
 ## 2021-10-11
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2) and [TPF 4.8.0.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.3)
