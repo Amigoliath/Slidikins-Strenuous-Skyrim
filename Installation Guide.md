@@ -1,5 +1,5 @@
-Latest update: **2021-10-11**  
-Compatible with: **The Phoenix Flavour 4.8.0.3**
+Latest update: **2021-10-18**  
+Compatible with: **The Phoenix Flavour 4.8.0.4**
 
 # 1. Initial Setup
 
@@ -224,7 +224,9 @@ Completely optional, skip if you’re playing ultra wide.
 
 ### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
 #### Download Instructions
-- **Main Files:** Simple Activate SKSE
+- **Old Files:** Simple Activate SKSE (v1.0)
+- **Main Files:** Simple Activate SKSE » `merge with the old file`
+
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
@@ -384,8 +386,18 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
+**Enchanting Adjustments Updated** - This is replaced by Thaumaturgy - An Enchanting Overhaul.
 
 I’ve added the following mods to this section:
+
+### [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138?tab=files)
+#### Download Instructions
+- **Main Files:** Thaumaturgy - An Enchanting Overhaul
+- **Miscellaneous Files:** Thaumaturgy - WACCF Patch
+
+### [Thaumaturgy - Armor and Clothing Extension Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57199?tab=files)
+#### Download Instructions
+- **Main Files:** Thaumaturgy - Armor and Clothing Extension Patch
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -514,7 +526,7 @@ I’ve added the following mods to this section:
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
-- **Main Files:** STAYDOWN (ESPFE - STAYDOWN LIGHT)
+- **Main Files:** STAYDOWN - LIGHT
 
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
@@ -774,16 +786,11 @@ All controls changed from the Default:
 - **Activation** Panel
   - **Compass Activation** Section
     - iHUD hotkey: `Backspace`
-    - Key press toggles: `Enabled`
-  - **SkyUI Active Effects** Section
-    - Link ALL SkyUI Widgets: `Enabled`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
   - Hide shout meter with compass: `Enabled`
   - Force crosshair to hide: `Enabled`
-  - Enable fast fade of magicka: `Enabled`
-  - Enable fast fade of stamina: `Enabled`
 - **Transparencies** Panel
   - Compass: `60%`
   - Magicka: `60%`
@@ -826,11 +833,6 @@ All controls changed from the Default:
 - **Other Quests** Panel
   - **Misc Quests** Section
     - Ebony Warrior: `50`
-
-### Trade & Barter
-- **Barter Rates** Panel
-  - **Settings** Section
-    - Modify Barter Settings: `Enabled`
 
 ### True Directional Movement
 - **General** Panel
