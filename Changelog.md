@@ -16,7 +16,7 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - **MCM Configuration:** Removed edits to Immersive HUD settings that are now made default by The Phoenix Flavour - Conflict Resolution Patch
 - **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
 
-Wabbajack
+#### Wabbajack
 - Updated Simple Activate SKSE to 1.1
 - Updated DynDOLOD Resources to Alpha-15
 - Updated Modular Armory to 1.2
