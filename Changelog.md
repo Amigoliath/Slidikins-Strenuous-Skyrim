@@ -17,6 +17,7 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
 
 #### Wabbajack
+- Updated Assorted Mesh Fixes to 0.31
 - Updated Simple Activate SKSE to 1.1
 - Updated DynDOLOD Resources to Alpha-15
 - Updated Modular Armory to 1.2
@@ -28,7 +29,7 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - Updated Dragon War - A Dragon Overhaul to 1.3
 - Updated Resistances and Weaknesses to 0.9.6.1
 - Updated STAYDOWN to 3.0.0
-- Updated DynDOLOD to 3.00 Alpha-49
+- Updated DynDOLOD to 3.00 Alpha-50
 
 ## 2021-10-11
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2) and [TPF 4.8.0.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.3)
