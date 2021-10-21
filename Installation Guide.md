@@ -425,7 +425,7 @@ I’ve added the following mods to this section:
 ### [Honed Metal Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51254?tab=files)
 #### Download Instructions
 - **Main Files:** Honed Metal SSE Updated
-- **Update Files:** Honed Metal 1.21 Hotfix >> `merge with the first file`
+- **Update Files:** Honed Metal 1.21 Hotfix » `merge with the first file`
 
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
@@ -832,7 +832,7 @@ All controls changed from the Default:
     - Load Preset: `Select`
 - **Other Quests** Panel
   - **Misc Quests** Section
-    - Ebony Warrior: `50`
+    - Ebony Warrior: `50` » `This is unneccesary for Wabbajack users as it's baked into the preset`
 
 ### True Directional Movement
 - **General** Panel
