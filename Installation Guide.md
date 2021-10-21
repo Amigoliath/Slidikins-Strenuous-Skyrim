@@ -832,7 +832,7 @@ All controls changed from the Default:
     - Load Preset: `Select`
 - **Other Quests** Panel
   - **Misc Quests** Section
-    - Ebony Warrior: `50` » `This is unneccesary for Wabbajack users as it's baked into the preset`
+    - Ebony Warrior: `50` » This is unneccesary for Wabbajack users as it's baked into the preset`\
 
 ### True Directional Movement
 - **General** Panel
