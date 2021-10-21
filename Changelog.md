@@ -1,9 +1,9 @@
-Latest update: **2021-10-??**  
+Latest update: **2021-10-21**  
 Compatible with: **The Phoenix Flavour 4.8.0.4**
 
 # Changelog
 
-## 2021-10-??
+## 2021-10-21
 Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md)
 
 #### Mod Installation
@@ -24,9 +24,10 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
 
 #### Wabbajack
-- Updated Assorted Mesh Fixes to 0.31
+- Updated Assorted Mesh Fixes to 0.31.1
 - Updated Simple Activate SKSE to 1.1
 - Updated DynDOLOD Resources to Alpha-15
+- Updated High Poly Project to 5.0
 - Updated Modular Armory to 1.2
 - Updated Modular Armory - Unique Nettlebane to 1.1unb
 - Updated Modular Armory - Unique Zephyr to 1.1uzp
