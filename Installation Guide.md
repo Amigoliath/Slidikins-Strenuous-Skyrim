@@ -791,6 +791,7 @@ All controls changed from the Default:
   - Enemy health indicator enabled: `Disabled`
   - Hide shout meter with compass: `Enabled`
   - Force crosshair to hide: `Enabled`
+  - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
   - Compass: `60%`
   - Magicka: `60%`
