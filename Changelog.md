@@ -13,6 +13,13 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - **Loot & Crafting:** Added Thaumaturgy - WACCF Patch
 - **Loot & Crafting:** Added Thaumaturgy - Armor and Crafting Extension Patch
 - **Combat & Encounters:** Updated download instructions for STAYDOWN
+- **Conflict Resolution:** Forwarded WACCF naming changes for 5 staffs to Elemental Staffs
+- **Conflict Resolution:** Forwarded Aetherius' changes to Lunar Blessing `0010C4E7` until TPF's CRP is updated
+- **Conflict Resolution:** Fixed conflict with Torygg's War Horn `000E77BB` that will be fixed in TPF soon as well
+- **Conflict Resolution:** Forwarded C.O.I.N. changes to TreasFalmerChest `00020659` and TreasFalmerChestBoss `0002065B` as it's missing from the OWL C.O.I.N. patch
+- **Survival Conflict Resolution:** Forwarded Survival Mode changes to Histskin `000E40D5`
+- **Survival Conflict Resolution:** Forwarded Survival Mode changes to Ancestor's Wrath `000E40D4`
+- **Survival Conflict Resolution:** Applied Survival Mode changes to Extra Pockets `00096590` and its 2nd rank in Adamant `xx10CDEA`, cutting the effect magnitudes in half if Survival is enabled.
 - **MCM Configuration:** Removed edits to Immersive HUD settings that are now made default by The Phoenix Flavour - Conflict Resolution Patch
 - **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
 
@@ -29,7 +36,7 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - Updated Dragon War - A Dragon Overhaul to 1.3
 - Updated Resistances and Weaknesses to 0.9.6.1
 - Updated STAYDOWN to 3.0.0
-- Updated DynDOLOD to 3.00 Alpha-50
+- Updated DynDOLOD to 3.00 Alpha-52
 
 ## 2021-10-11
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2) and [TPF 4.8.0.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.3)
