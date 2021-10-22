@@ -30,11 +30,12 @@ The Wabbajack app can be downloaded directly from the website:
 - Upon launching it, the latest version of Wabbajack will be downloaded into the same directory.
 
 ### Choosing a list
-Once Wabbajack has launched, you can click the **Install from Disk** button to install from a .Wabbajack file. This will allow you to install lists that aren't available through Wabbajack's Gallery, such as Slidikins' Strenuous Skyrim.
-- Download the [Slidikins' Strenuous Skyrim .Wabbajack file](https://drive.google.com/file/d/1hutnm0rSFqXB65OTHd0Us35_ZmI-yrSt/view?usp=sharing) here.
-- Set the downloaded .wabbajack file as the **Target Modlist**.
+Once Wabbajack has launched, you can click the **Browse Modlists** button to view all currently available lists. If you are following these instructions, you likely already know which mod list you want to install.
+- Find **Slidikins' Strenuous Skyrim** in the Gallery and click the download button.
 
 ## List Configuration
+Once the meta file for your chosen list has been downloaded, a new browser window with the list’s readme will automatically open. You can simply continue here on this page (if your list supports it to begin with).
+
 Before you can begin installing the list, you need to define some file paths:
 
 ### Installation Location
