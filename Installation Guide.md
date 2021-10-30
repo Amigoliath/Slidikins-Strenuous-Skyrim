@@ -1,5 +1,5 @@
-Latest update: **2021-10-18**  
-Compatible with: **The Phoenix Flavour 4.8.0.4**
+Latest update: **2021-10-30**  
+Compatible with: **The Phoenix Flavour 4.9.0**
 
 # 1. Initial Setup
 
@@ -146,6 +146,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
+**Alternate Conversation Camera Plus** - I like this mod but I'm not completely sure it's without issue. For now, disabled.
 
 I’ve added the following mods to this section:
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
@@ -386,14 +387,8 @@ This is mandatory for this modlist as I prefer it over other Survival mods. _[Su
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
-**Enchanting Adjustments Updated** - This is replaced by Thaumaturgy - An Enchanting Overhaul.
 
 I’ve added the following mods to this section:
-
-### [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138?tab=files)
-#### Download Instructions
-- **Main Files:** Thaumaturgy - An Enchanting Overhaul
-- **Miscellaneous Files:** Thaumaturgy - WACCF Patch
 
 ### [Thaumaturgy - Armor and Clothing Extension Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57199?tab=files)
 #### Download Instructions
