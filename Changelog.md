@@ -30,6 +30,7 @@ Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/
 - Updated DynDOLOD Resources to Alpha-15
 - Updated High Poly Project to 5.0
 - Updated Enhanced Vanilla Trees to 2.2.1
+- Updated Skyland - Solitude to 1.6
 - Updated Modular Armory to 1.2
 - Updated Modular Armory - Unique Nettlebane to 1.1unb
 - Updated Modular Armory - Unique Zephyr to 1.1uzp
