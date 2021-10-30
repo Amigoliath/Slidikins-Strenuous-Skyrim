@@ -754,8 +754,6 @@ All controls changed from the Default:
 
 ### Cathedral Weathers
 - **Settings** Panel
-  - **General** Section
-    - Configuration Spell: `Disabled`
   - **Weather** Section
     - Seasonal Perspective: `Enabled`
 
@@ -828,7 +826,7 @@ All controls changed from the Default:
     - Load Preset: `Select`
 - **Other Quests** Panel
   - **Misc Quests** Section
-    - Ebony Warrior: `50` » This is unneccesary for Wabbajack users as it's baked into the preset`\
+    - Ebony Warrior: `50`
 
 ### True Directional Movement
 - **General** Panel
