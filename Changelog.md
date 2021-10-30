@@ -8,6 +8,7 @@ Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/
 
 #### Mod Installation
 - **Interface:** Updated download instructions for Simple Activate SKSE
+- **Interface:** Added instruction to disable Alternate Conversation Camera Plus
 - **Loot & Crafting:** Added Thaumaturgy - Armor and Crafting Extension Patch
 - **Combat & Encounters:** Updated download instructions for STAYDOWN
 - **Conflict Resolution:** Forwarded WACCF naming changes for 5 staffs to Elemental Staffs
