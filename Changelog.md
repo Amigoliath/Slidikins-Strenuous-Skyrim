@@ -13,6 +13,7 @@ Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/
 - **Combat & Encounters:** Updated download instructions for STAYDOWN
 - **Conflict Resolution:** Forwarded WACCF naming changes for 5 staffs to Elemental Staffs
 - **Conflict Resolution:** Removed any Effect Shader edits that conflicted with Thaumaturgy
+- **Conflict Resolution:** Resolved conflicts between Tweaks for WACCF and ACE.esp and Thaumaturgy - ACE Patch.esp in records `xx18FDD1`, `xx18FDD2`, `xx18FDD3` and `xx18FDD9`.
 - **Conflict Resolution:** Forwarded Aetherius' changes to Lunar Blessing `0010C4E7` until TPF's CRP is updated
 - **Conflict Resolution:** Fixed conflict with Torygg's War Horn `000E77BB` that will be fixed in TPF soon as well
 - **Conflict Resolution:** Forwarded C.O.I.N. changes to TreasFalmerChest `00020659` and TreasFalmerChestBoss `0002065B` as it's missing from the OWL C.O.I.N. patch
