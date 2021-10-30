@@ -1,19 +1,17 @@
-Latest update: **2021-10-21**  
-Compatible with: **The Phoenix Flavour 4.8.0.4**
+Latest update: **2021-10-30**  
+Compatible with: **The Phoenix Flavour 4.9.0**
 
 # Changelog
 
-## 2021-10-21
-Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md)
+## 2021-10-30
+Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md) 
 
 #### Mod Installation
 - **Interface:** Updated download instructions for Simple Activate SKSE
-- **Loot & Crafting:** Removed Enchanting Adjustments
-- **Loot & Crafting:** Added Thaumaturgy - An Enchanting Overhaul
-- **Loot & Crafting:** Added Thaumaturgy - WACCF Patch
 - **Loot & Crafting:** Added Thaumaturgy - Armor and Crafting Extension Patch
 - **Combat & Encounters:** Updated download instructions for STAYDOWN
 - **Conflict Resolution:** Forwarded WACCF naming changes for 5 staffs to Elemental Staffs
+- **Conflict Resolution:** Removed any Effect Shader edits that conflicted with Thaumaturgy
 - **Conflict Resolution:** Forwarded Aetherius' changes to Lunar Blessing `0010C4E7` until TPF's CRP is updated
 - **Conflict Resolution:** Fixed conflict with Torygg's War Horn `000E77BB` that will be fixed in TPF soon as well
 - **Conflict Resolution:** Forwarded C.O.I.N. changes to TreasFalmerChest `00020659` and TreasFalmerChestBoss `0002065B` as it's missing from the OWL C.O.I.N. patch
@@ -24,16 +22,19 @@ Updated for [TPF 4.8.0.4](https://github.com/Codygits/TPF-Updates/blob/main/Chan
 - **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
 
 #### Wabbajack
-- Updated Assorted Mesh Fixes to 0.31.1
+- Updated .NET Script Framework to 18
+- Updated Assorted Mesh Fixes to 0.32.1
 - Updated Simple Activate SKSE to 1.1
 - Updated DynDOLOD Resources to Alpha-15
 - Updated High Poly Project to 5.0
+- Updated Enhanced Vanilla Trees to 2.2.1
 - Updated Modular Armory to 1.2
 - Updated Modular Armory - Unique Nettlebane to 1.1unb
 - Updated Modular Armory - Unique Zephyr to 1.1uzp
 - Updated Adamant - A Perk Overhaul to 5.2.1
 - Updated Aetherius - A Race Overhaul to 2.6.0
-- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.8.1
+- Updated Open World Loot to 1.3.1
+- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.10
 - Updated Dragon War - A Dragon Overhaul to 1.3
 - Updated Resistances and Weaknesses to 0.9.6.1
 - Updated STAYDOWN to 3.0.0
