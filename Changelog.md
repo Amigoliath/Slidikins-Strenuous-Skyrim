@@ -1,7 +1,47 @@
-Latest update: **2021-10-11**  
-Compatible with: **The Phoenix Flavour 4.8.0.3**
+Latest update: **2021-10-30**  
+Compatible with: **The Phoenix Flavour 4.9.0**
 
 # Changelog
+
+## 2021-10-30
+Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md) 
+
+#### Mod Installation
+- **Interface:** Updated download instructions for Simple Activate SKSE
+- **Interface:** Added instruction to disable Alternate Conversation Camera Plus
+- **Loot & Crafting:** Added Thaumaturgy - Armor and Crafting Extension Patch
+- **Combat & Encounters:** Updated download instructions for STAYDOWN
+- **Conflict Resolution:** Forwarded WACCF naming changes for 5 staffs to Elemental Staffs
+- **Conflict Resolution:** Removed any Effect Shader edits that conflicted with Thaumaturgy
+- **Conflict Resolution:** Resolved conflicts between Tweaks for WACCF and ACE.esp and Thaumaturgy - ACE Patch.esp in records `xx18FDD1`, `xx18FDD2`, `xx18FDD3` and `xx18FDD9`.
+- **Conflict Resolution:** Forwarded Aetherius' changes to Lunar Blessing `0010C4E7` until TPF's CRP is updated
+- **Conflict Resolution:** Fixed conflict with Torygg's War Horn `000E77BB` that will be fixed in TPF soon as well
+- **Conflict Resolution:** Forwarded C.O.I.N. changes to TreasFalmerChest `00020659` and TreasFalmerChestBoss `0002065B` as it's missing from the OWL C.O.I.N. patch
+- **Survival Conflict Resolution:** Forwarded Survival Mode changes to Histskin `000E40D5`
+- **Survival Conflict Resolution:** Forwarded Survival Mode changes to Ancestor's Wrath `000E40D4`
+- **Survival Conflict Resolution:** Applied Survival Mode changes to Extra Pockets `00096590` and its 2nd rank in Adamant `xx10CDEA`, cutting the effect magnitudes in half if Survival is enabled.
+- **MCM Configuration:** Removed edits to Immersive HUD settings that are now made default by The Phoenix Flavour - Conflict Resolution Patch
+- **MCM Configuration:** Removed Trade & Barter edit as it was made default by The Phoenix Flavour - Conflict Resolution Patch
+
+#### Wabbajack
+- Updated .NET Script Framework to 18
+- Updated Assorted Mesh Fixes to 0.32.1
+- Updated Simple Activate SKSE to 1.1
+- Updated DynDOLOD Resources to Alpha-15
+- Updated High Poly Project to 5.0
+- Updated Enhanced Vanilla Trees to 2.2.1
+- Updated Skyland - Solitude to 1.6
+- Updated Modular Armory to 1.2
+- Updated Modular Armory - Unique Nettlebane to 1.1unb
+- Updated Modular Armory - Unique Zephyr to 1.1uzp
+- Updated Adamant - A Perk Overhaul to 5.2.1
+- Updated Aetherius - A Race Overhaul to 2.6.0
+- Updated Open World Loot to 1.3.1
+- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.10
+- Updated Dragon War - A Dragon Overhaul to 1.3
+- Updated Resistances and Weaknesses to 0.9.6.1
+- Updated STAYDOWN to 3.0.0
+- Updated DynDOLOD to 3.00 Alpha-52
 
 ## 2021-10-11
 Updated for [TPF 4.8.0.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.2) and [TPF 4.8.0.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.8.0.3)

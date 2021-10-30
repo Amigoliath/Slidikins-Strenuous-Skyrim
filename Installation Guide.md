@@ -1,5 +1,5 @@
-Latest update: **2021-10-11**  
-Compatible with: **The Phoenix Flavour 4.8.0.3**
+Latest update: **2021-10-30**  
+Compatible with: **The Phoenix Flavour 4.9.0**
 
 # 1. Initial Setup
 
@@ -146,6 +146,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
+**Alternate Conversation Camera Plus** - I like this mod but I'm not completely sure it's without issue. For now, disabled.
 
 I’ve added the following mods to this section:
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
@@ -224,7 +225,9 @@ Completely optional, skip if you’re playing ultra wide.
 
 ### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
 #### Download Instructions
-- **Main Files:** Simple Activate SKSE
+- **Old Files:** Simple Activate SKSE (v1.0)
+- **Main Files:** Simple Activate SKSE » `merge with the old file`
+
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
@@ -387,6 +390,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
+### [Thaumaturgy - Armor and Clothing Extension Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57199?tab=files)
+#### Download Instructions
+- **Main Files:** Thaumaturgy - Armor and Clothing Extension Patch
+
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
 - **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
@@ -413,7 +420,7 @@ I’ve added the following mods to this section:
 ### [Honed Metal Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51254?tab=files)
 #### Download Instructions
 - **Main Files:** Honed Metal SSE Updated
-- **Update Files:** Honed Metal 1.21 Hotfix >> `merge with the first file`
+- **Update Files:** Honed Metal 1.21 Hotfix » `merge with the first file`
 
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
@@ -514,7 +521,7 @@ I’ve added the following mods to this section:
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
-- **Main Files:** STAYDOWN (ESPFE - STAYDOWN LIGHT)
+- **Main Files:** STAYDOWN - LIGHT
 
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
@@ -747,8 +754,6 @@ All controls changed from the Default:
 
 ### Cathedral Weathers
 - **Settings** Panel
-  - **General** Section
-    - Configuration Spell: `Disabled`
   - **Weather** Section
     - Seasonal Perspective: `Enabled`
 
@@ -774,16 +779,12 @@ All controls changed from the Default:
 - **Activation** Panel
   - **Compass Activation** Section
     - iHUD hotkey: `Backspace`
-    - Key press toggles: `Enabled`
-  - **SkyUI Active Effects** Section
-    - Link ALL SkyUI Widgets: `Enabled`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
   - Hide shout meter with compass: `Enabled`
   - Force crosshair to hide: `Enabled`
-  - Enable fast fade of magicka: `Enabled`
-  - Enable fast fade of stamina: `Enabled`
+  - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
   - Compass: `60%`
   - Magicka: `60%`
@@ -826,11 +827,6 @@ All controls changed from the Default:
 - **Other Quests** Panel
   - **Misc Quests** Section
     - Ebony Warrior: `50`
-
-### Trade & Barter
-- **Barter Rates** Panel
-  - **Settings** Section
-    - Modify Barter Settings: `Enabled`
 
 ### True Directional Movement
 - **General** Panel
