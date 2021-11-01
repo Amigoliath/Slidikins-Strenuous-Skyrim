@@ -1,5 +1,5 @@
-Latest update: **2021-10-30**  
-Compatible with: **The Phoenix Flavour 4.9.0**
+Latest update: **2021-10-31**  
+Compatible with: **The Phoenix Flavour 4.9.1**
 
 # 1. Initial Setup
 
@@ -390,10 +390,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
-### [Thaumaturgy - Armor and Clothing Extension Patch](https://www.nexusmods.com/skyrimspecialedition/mods/57199?tab=files)
-#### Download Instructions
-- **Main Files:** Thaumaturgy - Armor and Clothing Extension Patch
-
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
 - **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
@@ -751,6 +747,8 @@ All controls changed from the Default:
 **Quick Stats:** `F1`
 
 ## 5.2 Mod Configuration
+
+> **Wabbajack Users:** Some of these instructions may not be necessary due to the inclusion of Runtime Files in the modlist. Apologies in advance for the small bits of time wasted when this is the case. If something is already set to what's specified below, move onto the next instruction.
 
 ### Cathedral Weathers
 - **Settings** Panel
