@@ -2,7 +2,7 @@
 
 ## What is Wabbajack?
 
-**Wabbajack** is an auto-installer for mod lists. If you have questions about what that means, its legality, its stability, or other frequently asked topics, pleae refer to Phoenix's article, [About Wabbajack](https://thephoenixflavour.com/wj/about-wabbajack/). If you're still here, I'll assume you want to play as soon as possible, so let's get started!
+**Wabbajack** is an auto-installer for mod lists. If you have questions about what that means, its legality, its stability, or other frequently asked topics, please refer to Phoenix's article, [About Wabbajack](https://thephoenixflavour.com/wj/about-wabbajack/). If you're still here, I'll assume you want to play as soon as possible, so let's get started!
 
 ## Game Setup
 
@@ -60,7 +60,7 @@ If Wabbajack fails, please try restarting it first. You will not lose any progre
 If the issue persists, find the Discord support channel for your chosen list (either on the [Wabbajack](https://discord.com/invite/wabbajack) or [TPF](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
 
 ## Creation Club
-If you opted to skip Creations altogether, skip this section and use the `Slidikins' Strenuous Skyrim (CC-less` profile in Mod Organizer 2.
+If you opted to skip Creations altogether, skip this section and use the `Slidikins' Strenuous Skyrim (CC-less)` profile in Mod Organizer 2.
 - Navigate back to wherever you keep your [Creation Club backups](https://thephoenixflavour.com/wj/wj-sse/game-setup/#creation-club) 
 - In a separate window, navigate to where you installed the list, e.g. `C:\Modlist Name\`.
 - From there, navigate to `\mods\[NoDelete] Creation Club`

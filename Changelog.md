@@ -1,7 +1,28 @@
-Latest update: **2021-10-30**  
-Compatible with: **The Phoenix Flavour 4.9.0**
+Latest update: **2021-10-31**  
+Compatible with: **The Phoenix Flavour 4.9.1**
 
 # Changelog
+
+## 2021-10-31
+Updated for [TPF 4.9.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.9.1) 
+
+#### Mod Installation
+- **Loot & Crafting:** Removed Thaumaturgy - Armor and Clothing Extension Patch as it's now in base TPF
+- **Conflict Resolution:** Updated MAG_SunDamageConcAimedCloak `02008A5D` to match changes in Pilgrim - A Religion Overhaul v1.0.7
+- **MCM Configuration:** Added note that some steps may not be necessary due to the inclusion of Runtime Files for Wabbajack users
+
+#### Wabbajack
+- Updated Skyrim Landscape and Water Fixes to 6.4
+- Updated Adamant - A Perk Overhaul to 5.2.3
+- Updated Mundus - A Standing Stone Overhaul to 1.7
+- Updated Pilgrim - A Religion Overhaul to 1.0.7
+- Updated Open World Loot - Encounter Zone and Loot Overhaul to 1.3.1
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.4.1
+- Updated Open World Loot - AVL Morrowind Glass Addon to 1.4
+- Updated Open World Loot - AVL Nordic Addon to 1.2
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.1.1
+- Updated Thaumaturgy - An Enchanting Overhaul - WACCF Patch to 1.1.0
+- Updated Resistances and Weaknesses to 0.9.7.2
 
 ## 2021-10-30
 Updated for TPF 4.8.0.4 and [TPF 4.9.0](https://github.com/Codygits/TPF-Updates/blob/main/Changelog.md) 
