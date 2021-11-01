@@ -2,7 +2,7 @@
 
 ## What is Wabbajack?
 
-**Wabbajack** is an auto-installer for mod lists. If you have questions about what that means, its legality, its stability, or other frequently asked topics, pleae refer to Phoenix's article, [About Wabbajack](https://thephoenixflavour.com/wj/about-wabbajack/). If you're still here, I'll assume you want to play as soon as possible, so let's get started!
+**Wabbajack** is an auto-installer for mod lists. If you have questions about what that means, its legality, its stability, or other frequently asked topics, please refer to Phoenix's article, [About Wabbajack](https://thephoenixflavour.com/wj/about-wabbajack/). If you're still here, I'll assume you want to play as soon as possible, so let's get started!
 
 ## Game Setup
 
