@@ -767,6 +767,14 @@ All controls changed from the Default:
   - After picking a lock time: `0 SEC`
   - After combat time: `0 SEC`
 
+### EVG Conditional Idles
+- Player Panel
+  - Movement Enabled Section
+    - Shield Cover: `Disabled`
+- NPC Panel
+  - Movement Enabled Section
+    - NPC Shield Cover: `Disabled`
+
 ### Honed Metal
 - **General** Section
   - Crafting Cost Modifier: `0.60`
@@ -774,9 +782,6 @@ All controls changed from the Default:
   - Enchanting Cost Modifier: `0.28`
 
 ### Immersive HUD
-- **Activation** Panel
-  - **Compass Activation** Section
-    - iHUD hotkey: `Backspace`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
@@ -784,7 +789,7 @@ All controls changed from the Default:
   - Force crosshair to hide: `Enabled`
   - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
-  - Compass: `60%`
+  - Compass: `65%`
   - Magicka: `60%`
   - Health: `60%`
   - Stamina: `60%`
