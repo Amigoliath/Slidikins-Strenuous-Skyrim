@@ -1,4 +1,4 @@
-Latest update: **2021-10-31**  
+Latest update: **2021-11-02**  
 Compatible with: **The Phoenix Flavour 4.9.1**
 
 # 1. Initial Setup
@@ -89,6 +89,20 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 
 ## 3.1 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
+
+I’ve added the following mods to this section:
+### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
+#### Download Instructions
+- **Main Files:** Grass Control v8
+
+#### Additional Instructions
+- Double-click **No Grass In Objects** in your mod order.
+- Switch to the Text Files tab and select the **GrassControl.config.txt**.
+- In **Line 99**, change `UseGrassCache =` to `true`.
+- In **Line 149**, change `OverwriteGrassDistance =` to `12000`.
+- In **Line 163**, change `OverwriteGrassFadeRange =` to `8000`.
+- In **Line 198**, change `OnlyLoadFromCache =` to `True`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.2 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/)
@@ -233,6 +247,7 @@ Completely optional, skip if you’re playing ultra wide.
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
 - In **Line 28**, change `Show Indicator Using Name =` to `false`.
+- In **Line 37**, change `Show Indicator Using Name =` to `false`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
@@ -411,7 +426,7 @@ I’ve added the following mods to this section:
 - In **Line 32**, change `WeaponHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
 - In **Line 42**, change `ArmorHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
 - In **Line 250**, change `ApplyToNPC =` to `True`
-> The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers aren’t 100% accurate on a cusp but it’ll be close enough for our purposes.
+> The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers won't be 100% accurate for negative values due to how Skyrim calculates the condition.
 
 ### [Honed Metal Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51254?tab=files)
 #### Download Instructions
@@ -536,6 +551,10 @@ I’ve added the following mod to this section:
 - Double-click **Coherent Inns Prices** in your mod order.
 - Switch to the **Filetree** tab and rename the plugin:
   - CoherentInnsPrices.esl » CoherentInnsPrices.esp
+
+### [Inns Can Be Closed](https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=files)
+#### Download Instructions
+- **Main Files:** Inns Can Be Closed
 
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
@@ -767,14 +786,6 @@ All controls changed from the Default:
   - After picking a lock time: `0 SEC`
   - After combat time: `0 SEC`
 
-### EVG Conditional Idles
-- Player Panel
-  - Movement Enabled Section
-    - Shield Cover: `Disabled`
-- NPC Panel
-  - Movement Enabled Section
-    - NPC Shield Cover: `Disabled`
-
 ### Honed Metal
 - **General** Section
   - Crafting Cost Modifier: `0.60`
@@ -782,6 +793,9 @@ All controls changed from the Default:
   - Enchanting Cost Modifier: `0.28`
 
 ### Immersive HUD
+- **Activation** Panel
+  - **Compass Activation** Section
+    - iHUD hotkey: `Backspace`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
@@ -789,7 +803,7 @@ All controls changed from the Default:
   - Force crosshair to hide: `Enabled`
   - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
-  - Compass: `65%`
+  - Compass: `60%`
   - Magicka: `60%`
   - Health: `60%`
   - Stamina: `60%`
