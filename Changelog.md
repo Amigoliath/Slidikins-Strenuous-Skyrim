@@ -4,6 +4,7 @@ Compatible with: **The Phoenix Flavour 4.9.1.1**
 # Changelog
 
 ## 2021-11-09
+Updated for TPF 4.9.1.1
 
 ### Mod Installation
 - **Interface:** Added edit to Simple Activate SKSE's instructions
