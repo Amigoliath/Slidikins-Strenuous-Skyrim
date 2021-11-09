@@ -112,9 +112,9 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
-- In **Line 74**, change `Grabbing is Stealing =` to `true`.
-- In **Line 78**, change `Load Door Activate Prompt =` to `2`.
-- In **Line 80**, change `Exit Label =` to `Leave`.
+- In **Line 86**, change `Grabbing is Stealing =` to `true`.
+- In **Line 90**, change `Load Door Activate Prompt =` to `2`.
+- In **Line 92**, change `Exit Label =` to `Leave`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.3 Tweaks
@@ -405,9 +405,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
-### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+### [Conner's Survival Mode - Apothecary Food Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
+- **Optional Files:** Optional 00 - Apothecary Food Patch
 
 ### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
