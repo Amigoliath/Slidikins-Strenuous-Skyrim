@@ -90,20 +90,6 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 ## 3.1 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
 
-I’ve added the following mods to this section:
-### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
-#### Download Instructions
-- **Main Files:** Grass Control v8
-
-#### Additional Instructions
-- Double-click **No Grass In Objects** in your mod order.
-- Switch to the Text Files tab and select the **GrassControl.config.txt**.
-- In **Line 99**, change `UseGrassCache =` to `true`.
-- In **Line 149**, change `OverwriteGrassDistance =` to `12000`.
-- In **Line 163**, change `OverwriteGrassFadeRange =` to `8000`.
-- In **Line 198**, change `OnlyLoadFromCache =` to `True`.
-- Hit **CTRL+S** to save your changes and close the window.
-
 ## 3.2 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/)
 
