@@ -1,5 +1,5 @@
-Latest update: **2021-10-31**  
-Compatible with: **The Phoenix Flavour 4.9.1**
+Latest update: **2021-11-09**  
+Compatible with: **The Phoenix Flavour 4.9.1.1**
 
 # 1. Initial Setup
 
@@ -98,9 +98,9 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
-- In **Line 74**, change `Grabbing is Stealing =` to `true`.
-- In **Line 78**, change `Load Door Activate Prompt =` to `2`.
-- In **Line 80**, change `Exit Label =` to `Leave`.
+- In **Line 86**, change `Grabbing is Stealing =` to `true`.
+- In **Line 90**, change `Load Door Activate Prompt =` to `2`.
+- In **Line 92**, change `Exit Label =` to `Leave`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.3 Tweaks
@@ -233,6 +233,7 @@ Completely optional, skip if you’re playing ultra wide.
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
 - In **Line 28**, change `Show Indicator Using Name =` to `false`.
+- In **Line 37**, change `Show Indicator Using Name =` to `false`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
@@ -390,9 +391,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
-### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
+### [Conner's Survival Mode - Apothecary Food Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
+- **Optional Files:** Optional 00 - Apothecary Food Patch
 
 ### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -411,7 +412,7 @@ I’ve added the following mods to this section:
 - In **Line 32**, change `WeaponHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
 - In **Line 42**, change `ArmorHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
 - In **Line 250**, change `ApplyToNPC =` to `True`
-> The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers aren’t 100% accurate on a cusp but it’ll be close enough for our purposes.
+> The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers won't be 100% accurate for negative values due to how Skyrim calculates the condition.
 
 ### [Honed Metal Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51254?tab=files)
 #### Download Instructions
@@ -536,6 +537,10 @@ I’ve added the following mod to this section:
 - Double-click **Coherent Inns Prices** in your mod order.
 - Switch to the **Filetree** tab and rename the plugin:
   - CoherentInnsPrices.esl » CoherentInnsPrices.esp
+
+### [Inns Can Be Closed](https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=files)
+#### Download Instructions
+- **Main Files:** Inns Can Be Closed
 
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions

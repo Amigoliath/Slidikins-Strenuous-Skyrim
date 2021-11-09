@@ -1,7 +1,43 @@
-Latest update: **2021-10-31**  
-Compatible with: **The Phoenix Flavour 4.9.1**
+Latest update: **2021-11-09**  
+Compatible with: **The Phoenix Flavour 4.9.1.1**
 
 # Changelog
+
+## 2021-11-09
+Updated for TPF 4.9.1.1
+
+### Mod Installation
+- **Interface:** Added edit to Simple Activate SKSE's instructions
+- **Loot & Crafting:** Removed Apothecary - Food and Drink Addon - Survival Mode Patch
+- **Loot & Crafting:** Added Conner's Survival Mode - Apothecary Food Patch
+- **Miscellaneous:** Added Inns Can Be Closed
+- **Survival Conflict Resolution:** Forwarded changes to LItemFoodInnCommon `00098E5F` from ApothecaryFood - Conner's Survival Patch.esp
+- **Conflict Resolution:** Forwarded Elemental Staffs' changes to avoid load order issues with particular unique staffs.
+- **MCM Configuration:** Added instructions for EVG Conditional Idles
+- **MCM Configuration:** Removed hotkey reassignment from Immersive HUD
+
+#### Wabbajack
+- Updated powerofthree's Tweaks to 1.3.3
+- Updated Skyrim Landscape and Water Fixes to 6.4.1
+- Updated Fixed Mesh Lighting to 1.5
+- Updated Lanterns of Skyrim II to 4.0
+- Updated HD Stone Quarry and Clay Deposit to 1.1.0
+- Removed HD Stone Quarry and Clay Deposit - Mesh Fixes
+- Updated Realistic Water Two with hotfix (no version change)
+- Updated The Business Ledger to 2.0.0
+- Updated Adamant - A Perk Overhaul to 5.3.1
+- Updated Aetherius - A Race Overhaul to 2.6.1
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.4
+- Updated Pilgrim - A Religion Overhaul to 1.0.8
+- Updated Conner's Survival Mode to 3.40
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.1.3
+- Updated Thaumaturgy - An Enchanting Overhaul - WACCF Patch to 1.1.3
+- Updated Apothecary - An Alchemy Overhaul to 1.2.1
+- Updated Apothecary - Food & Drink Addon to 1.1.0
+- Updated Apothecary - Rare Curios Patch to 1.2.1
+- Updated Forceful Tongue - Durnehviir Resurrected Patch to 1.0.1
+- Updated Forceful Tongue - Audio Overhaul for Skyrim Patch to 1.0.1
+- Updated The Phoenix Flavour - Conflict Resolution Patch to 4.9.1.1
 
 ## 2021-10-31
 Updated for [TPF 4.9.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.9.1) 
