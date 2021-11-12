@@ -1,5 +1,5 @@
-Latest update: **2021-11-09**  
-Compatible with: **The Phoenix Flavour 4.9.1.1**
+Latest update: **2021-11-12**  
+Compatible with: **The Phoenix Flavour 4.9.2**
 
 # 1. Initial Setup
 
@@ -147,6 +147,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
 **Alternate Conversation Camera Plus** - I like this mod but I'm not completely sure it's without issue. For now, disabled.
+**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI
 
 I’ve added the following mods to this section:
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
@@ -154,7 +155,6 @@ I’ve added the following mods to this section:
 - **Main Files:** SkyUI - Ghost Item Bug Fix
 
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
-Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
 - **Main Files:** NORDIC UI (Final Design)
 
@@ -180,7 +180,7 @@ Completely optional, skip if you’re playing ultra wide.
 - **Loading Screen:** No Empty Background
 
 #### Additional Instructions
-- Deactivate the following mods:
+- Deactivate the following TPF mods:
   - Better Dialogue Controls (from **Controls & Camera**) 
   - Better MessageBox Controls (from **Controls & Camera**)
   - Remove QuickSave Button from SkyUI System Menu (from **Interface**)
@@ -202,14 +202,9 @@ Completely optional, skip if you’re playing ultra wide.
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [SkyHUD - Slidikins’ Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) or [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** SkyHUD - Slidikins' Preset (if you chose not to use _Nordic UI_)
-- **Miscellaneous Files:** SkyHUD - Slidikins' Nordic UI Preset (if you chose _Nordic UI_ above)
-
-### [moreHUD - Slidikins’ Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** moreHUD - Slidikins' Preset
+- **Miscellaneous Files:** SkyHUD - Slidikins' Nordic UI Preset
 
 ### [The Frozen North - iHUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33068)
 #### Download Instructions
@@ -227,7 +222,6 @@ Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
 - **Old Files:** Simple Activate SKSE (v1.0)
 - **Main Files:** Simple Activate SKSE » `merge with the old file`
-
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
@@ -794,65 +788,16 @@ All controls changed from the Default:
   - Health: `60%`
   - Stamina: `60%`
 
-### moreHUD
-- **Presets** Panel
-  - **Save setting with FISS** Section
-    - Load User Settings?: `Select`
-
 ### Simple Smithing
 - **Settings** Panel
   - **Craftable Toggles** Section
     - Allow Artefact Replication: `Disabled`
     - Allow Upgrade Unique Gear Levels: `Disabled`
 
-### Sky UI
-- **General** Panel
-  - **Item List** Section
-    - Font Size: `Small`
-  - **Active Effects** HUD Section
-    - Enabled: `Disabled`
-- **Controls** Panel
-  - **Favorite Groups** Section
-    - Group 1: `9`
-    - Group 2: `0`
-    - Group 3: `-`
-    - Group 4: `=`
-
 ### SmoothCam
 - **Presets** Panel
   - **Load Preset** Section
     - Slot 3: Slidikins’ Strenuous Skyrim: `Select`
-
-### Timing is Everything
-- **Extra Options** Panel
-  - **Presets** Section
-    - Load Preset: `Select`
-- **Other Quests** Panel
-  - **Misc Quests** Section
-    - Ebony Warrior: `50`
-
-### True Directional Movement
-- **General** Panel
-  - **General Settings** Section
-    - Directional Movement (Drawn): `Disabled`
-- **Target Lock** Panel
-  - **Projectile Settings** Section
-    - Arrow Aim Mode: `Free Aim`
-    - Missile Aim Mode: `Free Aim`
-  - **Controls** Section
-    - Toggle Target Lock Key: `M3`
-    - Switch Targets with Mouse Movement: `Disabled`
-- **Target Lock Widget** Panel
-  - **Visibility Settings** Section
-    - Show Target Bar: `Disabled`
-    - Show Soft Target Bar: `Disabled`
-  - **Widget Settings** Panel
-    - Reticle Style: `Simple Dot`
-  - **Scale and Opacity Settings** Section
-    - Reticle Scale: `0.5`
-- **Boss Bar Widget** Panel
-  - **Visibility Settings** Section
-    - Show Boss Bar: `Disabled`
 
 ### Wergild Depreciation
 - **Set the Default Values** Panel
