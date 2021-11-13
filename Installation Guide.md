@@ -574,6 +574,11 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** True Directional Movement
 
+### [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306?tab=files)
+#### Download Instructions
+- **Main Files:** IFPV v10
+- **Optional Files:** IFPV Detector Plugin
+
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files)
 #### Download Instructions
 - **Main Files:** SmoothCam
@@ -588,6 +593,7 @@ I’ve added the following mods to this section:
   - SmoothCam.esl » SmoothCam.esp
 
 ### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+This is only necessary if you do not download the Configuration & Runtime Files later in the guide.
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
 
@@ -690,7 +696,12 @@ I’ve added the following mods to this section:
 - Install it as usual, place it last below a **FINAL PATCHES - SSS** separator (which you should create), and activate it.
 > This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous.
 
-## 4.2 Load Order TXT
+## 4.2 Configuration & Runtime Files
+- Download the [Configuration & Runtime Files](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
+- Install it as usual and place it below the **------------------------------** separator (which you should create if it doesn't exist), and activate it.
+> This isn't a necessary step but in doing in you can skip the **MCM Configuration** section completely. Furthermore, any files that are normally created when you run the game are included, so the only thing that will appear in Overwrite should be crashlogs. (But those hopefully shouldn't be appearing either.)
+
+## 4.3 Load Order TXT
 - Close Mod Organizer 2.
 - Download the [Universal Lord Order TXT](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Open the archive and extract the **loadorder.txt** to `Mod Organizer 2\profiles\Slidikins' Strenuous Skyrim`.
@@ -749,57 +760,8 @@ All controls changed from the Default:
 
 > **Wabbajack Users:** Some of these instructions may not be necessary due to the inclusion of Runtime Files in the modlist. Apologies in advance for the small bits of time wasted when this is the case. If something is already set to what's specified below, move onto the next instruction.
 
-### Cathedral Weathers
-- **Settings** Panel
-  - **Weather** Section
-    - Seasonal Perspective: `Enabled`
-
-### Conner’s Survival Mode
-- **General** Panel
-  - **Quality of Life** Section
-    - Shrine Gold Cost: `Freeeee`
-    - Enable Health Regen: `Disabled`
-
-### Dynamic Timescale
-- **AutoSave** Section
-  - Reoccurring Time: `0 MIN`
-  - After picking a lock time: `0 SEC`
-  - After combat time: `0 SEC`
-
-### Honed Metal
-- **General** Section
-  - Crafting Cost Modifier: `0.60`
-  - Tempering Cost Modifier: `0.04`
-  - Enchanting Cost Modifier: `0.28`
-
-### Immersive HUD
-- **Activation** Panel
-  - **Compass Activation** Section
-    - iHUD hotkey: `Backspace`
-- **Options** Panel
-  - Stealth indicator enabled: `Disabled`
-  - Enemy health indicator enabled: `Disabled`
-  - Hide shout meter with compass: `Enabled`
-  - Force crosshair to hide: `Enabled`
-  - Enable fast fade of health: `Disabled`
-- **Transparencies** Panel
-  - Compass: `60%`
-  - Magicka: `60%`
-  - Health: `60%`
-  - Stamina: `60%`
-
 ### Simple Smithing
 - **Settings** Panel
   - **Craftable Toggles** Section
     - Allow Artefact Replication: `Disabled`
     - Allow Upgrade Unique Gear Levels: `Disabled`
-
-### SmoothCam
-- **Presets** Panel
-  - **Load Preset** Section
-    - Slot 3: Slidikins’ Strenuous Skyrim: `Select`
-
-### Wergild Depreciation
-- **Set the Default Values** Panel
-  - **Set the Default Values** Section
-    - Exile Required: `Enabled`
