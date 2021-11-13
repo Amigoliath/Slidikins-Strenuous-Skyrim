@@ -22,8 +22,6 @@ In order to obtain these files, you will need to upgrade Skyrim to the current v
 - Under **Local Files**, select **Verify integrity of game files...**
 - Wait for the process to identify and obtain any files it requires
 
-> This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
-
 Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
 - Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
 - Run **Patcher.exe**
@@ -71,19 +69,6 @@ If Wabbajack fails, please try restarting it first. You will not lose any progre
 
 If the issue persists, find the Discord support channel for your chosen list (either on the [Wabbajack](https://discord.com/invite/wabbajack) or [TPF](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
 
-## Creation Club
-If you opted to skip Creations altogether, skip this section and use the `Slidikins' Strenuous Skyrim (CC-less)` profile in Mod Organizer 2.
-- Navigate back to wherever you keep your [Creation Club backups](https://thephoenixflavour.com/wj/wj-sse/game-setup/#creation-club) 
-- In a separate window, navigate to where you installed the list, e.g. `C:\Modlist Name\`.
-- From there, navigate to `\mods\[NoDelete] Creation Club`
-- Copy the following files from **Creation Club** into **[NoDelete] Creation Club**
-  - ccbgssse037-curios.bsa _(if owned)_
-  - ccbgssse037-curios.esl _(if owned)_
-  - ccqdrsse001-survivalmode.bsa
-  - ccqdrsse001-survivalmode.esl
-
-> **Note:** If you do not own Rare Curios, you will need to deactivate **The Phoenix Flavour - Rare Curios Patch** and **Apothecary - Rare Curios Patch**. They are both found under the **LOOT & CRAFTING - SSS** separator in Mod Organizer 2.
-
 ## Launching the Game
 Wabbajack lists must always be start with the **Skyrim Script Extender** which in turn must be launched through **Mod Organizer 2**. Remember that your mod list installation directory is simply a Mod Organizer 2 instance.
 - Double-click the **ModOrganizer.exe** within your mod list installation directory.
@@ -93,8 +78,7 @@ Now you can see the full setup: The mod order is on the left, likely sorted belo
 
 **Always run SKSE through MO2 to start the game.** If you launch the game through Steam or directly with the default executables (e.g. SkyrimSE.exe), your mods will not load and the game will simply be vanilla. If you run the default executables through MO2 (instead of the SKSE launcher), many mods will also not work because they require SKSE.
 
-
 ## Final Configurations
-Recommended control adjustments and MCM Configuration Settings can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). When starting a new game, it's recommended that you wait until after the carriage enters the town gates to open the menu to set these changes.
+Recommended control adjustments can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
 
 Have fun!
