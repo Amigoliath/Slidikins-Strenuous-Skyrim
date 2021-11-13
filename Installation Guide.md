@@ -70,7 +70,7 @@ The provided loadorder.txt and Conflict Resolution Patch in the Finalization sec
 
 ## 2.1 TPF-X Addons
 
-With the release of TPF 4.5, Phoenix now offers several “addon” modules. These are entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each section in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
+With the release of TPF 4.5, Phoenix offered several “addon” modules. These were entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each one in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
 
 **Note:** Modules that are not included in the `loadorder.txt` will need to be placed manually after finishing the guide. 
 
@@ -84,7 +84,7 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 
 ### [New Gear](https://thephoenixflavour.com/tpf-x/installation/new-gear/)
 **Notes:** In the past I was adamant against adding new gear but Phoenix is pretty selective on what she adds. I trust her judgement so I’ve added it for now.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt.
+**Compatibility:** Compatible, recommended and included in loadorder.txt and Wabbajack.
 
 ### [New Companions](https://thephoenixflavour.com/tpf-x/installation/new-companions/)
 **Notes:** I don’t like adding companions to my game. Inigo and Lucien won’t ruin the balance of SSS:SE, but they will spoil you when it comes to followers.  
@@ -742,7 +742,7 @@ All controls changed from the Default:
 
 ## 5.2 Mod Configuration
 
-> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or downloaded via Wabbajack), this step is not necessary. All of the configurations have been made by default. However, this section has been left in for those still wish to do it themselves. If a mod has been pre-configured by TPF, it is not listed here.
+> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or used Wabbajack), this step is unnecessary. All of the configurations have been made by default. However, this section has been left in for those still wish to do it themselves. If a mod has been pre-configured by TPF, it is not listed here.
 
 ### Cathedral Weathers
 - **Settings** Panel
