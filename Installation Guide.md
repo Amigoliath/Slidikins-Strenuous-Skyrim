@@ -1,10 +1,31 @@
-Latest update: **2021-11-12**  
-Compatible with: **The Phoenix Flavour 4.9.2**
+Latest update: **2021-11-13**  
+Compatible with: **The Phoenix Flavour 4.9.2.1**
 
 # 1. Initial Setup
 
 ## Prerequisites
 This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you are familiar with the tools introduced and provided by TPF. For Wabbajack users, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
+
+### Skyrim Official Files
+This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
+- [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
+- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+- [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)
+
+In order to obtain these files, you will need to upgrade Skyrim to the current version before patching the exe back to the version that works with SKSE and this list. Luckily this process is fairly simple:
+- Open your Steam Library and navigate to **The Elder Scrolls V: Skyrim Special Edition**
+- Right click and select **Properties...**
+- Under **Updates**, make sure **Automatic Updates** is set to `Only Update this game when I launch it`
+- Under **Local Files**, select **Verify integrity of game files...**
+- Wait for the process to identify and obtain any files it requires
+
+> This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
+
+Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
+- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
+- Run **Patcher.exe**
+- Verify that the Game Location is correct and select **Start Patching**
+- Once it says "Finished Patching, enjoy your game!" you're good to go!
 
 ## Mod Organizer 2
 ### SSS Profile
@@ -74,8 +95,8 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 **Compatibility:** Compatible.
 
 ### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
-**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes. This used to be in TPF, so I’ve kept it in my order.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt.
+**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.
+**Compatibility:** This is now included in base TPF and isn't technically a TPF-X Addon.
 
 ### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
 **Notes:** These mods are entirely up to you. I saw no reason to add any of them to my game but your preference may be different.  
@@ -347,25 +368,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
-### [Survival (CC)](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
-This is mandatory for this modlist as I prefer it over other Survival mods. _[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)_ is a close second, but I offer no support towards making that work here.
-#### Download Instructions
-- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
-- Select **Play**.
-- At the title screen, select **Creation Club**. Log in if needed.
-- (Purchase **Survival Mode** under Gameplay if needed.)
-> To save on time, it's recommend to download **Rare Curios** now as well. Rare Curios is completely optional, however.
-- Select **Survival Mode** under the Purchased tab.
-- Click **Download**.
-- Exit the Creation Club, reload, then exit the game.
-- Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[NoDelete] Survival (CC)**.
-- Move the following files into the new folder:
-  - `ccqdrsse001-survivalmode.bsa`
-  - `ccqdrsse001-survivalmode.esl`
-- Move the **[NoDelete] Survival (CC)** folder into `Mod Organizer 2\mods\`
-- Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
-
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
 - **Main Files:** Conner’s Survival Mode
@@ -416,24 +418,6 @@ I’ve added the following mods to this section:
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
 - **Main Files:** Honed Metal Revoiced (For Honed Metal SSE 1.2)
-
-### [Rare Curios (CC)](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
-This adds new alchemy ingredients (and a couple of effects), as well as some other miscellaneous items. **Completely optional**, so skip it (and the two patches below) if you don’t have it.
-#### Download Instructions
-- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
-- Select **Play**.
-- At the title screen, select **Creation Club**. Log in if needed.
-- (Purchase **Rare Curios** under Gameplay if needed.)
-- Select **Rare Curios** under the Purchased tab.
-- Click **Download**.
-- Exit the Creation Club, reload, then exit the game.
-- Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[NoDelete] Rare Curios (CC)**.
-- Move the following files into the new folder:
-  - `ccbgssse037-curios.bsa`
-  - `ccbgssse037-curios.esl`
-- Move the **[NoDelete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
-- Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
 #### Download Instructions
@@ -758,10 +742,102 @@ All controls changed from the Default:
 
 ## 5.2 Mod Configuration
 
-> **Wabbajack Users:** Some of these instructions may not be necessary due to the inclusion of Runtime Files in the modlist. Apologies in advance for the small bits of time wasted when this is the case. If something is already set to what's specified below, move onto the next instruction.
+> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or downloaded via Wabbajack), this step is not necessary. All of the configurations have been made by default. However, this section has been left in for those still wish to do it themselves. If a mod has been pre-configured by TPF, it is not listed here.
 
-### Simple Smithing
+### Cathedral Weathers
 - **Settings** Panel
-  - **Craftable Toggles** Section
-    - Allow Artefact Replication: `Disabled`
-    - Allow Upgrade Unique Gear Levels: `Disabled`
+  - **Weather** Section
+    - Seasonal Perspective: `Enabled`
+
+### Conner’s Survival Mode
+- **General** Panel
+  - **Quality of Life** Section
+    - Shrine Gold Cost: `Freeeee`
+    - Enable Health Regen: `Disabled`
+
+### Dynamic Timescale
+- **AutoSave** Section
+  - Reoccurring Time: `0 MIN`
+  - After picking a lock time: `0 SEC`
+  - After combat time: `0 SEC`
+
+### Honed Metal
+- **General** Section
+  - Crafting Cost Modifier: `0.60`
+  - Tempering Cost Modifier: `0.04`
+  - Enchanting Cost Modifier: `0.28`
+
+### Immersive HUD
+- **Activation** Panel
+  - **Compass Activation** Section
+    - iHUD hotkey: `Backspace`
+- **Options** Panel
+  - Stealth indicator enabled: `Disabled`
+  - Enemy health indicator enabled: `Disabled`
+  - Hide shout meter with compass: `Enabled`
+  - Force crosshair to hide: `Enabled`
+  - Enable fast fade of health: `Disabled`
+- **Transparencies** Panel
+  - Compass: `60%`
+  - Magicka: `60%`
+  - Health: `60%`
+  - Stamina: `60%`
+
+### moreHUD
+- **Presets** Panel
+  - **Save setting with FISS** Section
+    - Load User Settings?: `Select`
+
+### Sky UI
+- **General** Panel
+  - **Item List** Section
+    - Font Size: `Small`
+  - **Active Effects** HUD Section
+    - Enabled: `Disabled`
+- **Controls** Panel
+  - **Favorite Groups** Section
+    - Group 1: `9`
+    - Group 2: `0`
+    - Group 3: `-`
+    - Group 4: `=`
+
+### SmoothCam
+- **Presets** Panel
+  - **Load Preset** Section
+    - Slot 3: Slidikins’ Strenuous Skyrim: `Select`
+
+### Timing is Everything
+- **Extra Options** Panel
+  - **Presets** Section
+    - Load Preset: `Select`
+- **Other Quests** Panel
+  - **Misc Quests** Section
+    - Ebony Warrior: `50`
+
+### True Directional Movement
+- **General** Panel
+  - **General Settings** Section
+    - Directional Movement (Drawn): `Disabled`
+- **Target Lock** Panel
+  - **Projectile Settings** Section
+    - Arrow Aim Mode: `Free Aim`
+    - Missile Aim Mode: `Free Aim`
+  - **Controls** Section
+    - Toggle Target Lock Key: `M3`
+    - Switch Targets with Mouse Movement: `Disabled`
+- **Target Lock Widget** Panel
+  - **Visibility Settings** Section
+    - Show Target Bar: `Disabled`
+    - Show Soft Target Bar: `Disabled`
+  - **Widget Settings** Panel
+    - Reticle Style: `Simple Dot`
+  - **Scale and Opacity Settings** Section
+    - Reticle Scale: `0.5`
+- **Boss Bar Widget** Panel
+  - **Visibility Settings** Section
+    - Show Boss Bar: `Disabled`
+
+### Wergild Depreciation
+- **Set the Default Values** Panel
+  - **Set the Default Values** Section
+    - Exile Required: `Enabled`
