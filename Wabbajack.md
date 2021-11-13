@@ -8,6 +8,8 @@
 
 Phoenix also wrote a comprehensive article on [setting up your Skyrim SE correctly](https://thephoenixflavour.com/wj/wj-sse/game-setup/) for a Wabbajack list. You're welcome to read that guide as well to make sure your game is properly set up before using Wabbajack. 
 
+> **NOTE:** With the release of Anniversary Edition on November 11th, 2021, the current version of Skyrim Special Edition on Steam does **not** work with SKSE and therefore this list. If you've installed that version, please download [FullPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files), unzip it anywhere, and run **Patcher.exe** to downgrade to a usable version.
+
 ### Creations Used
 
 The list utilizes the following Creations from the Creation Club:
