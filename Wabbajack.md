@@ -8,15 +8,27 @@
 
 Phoenix also wrote a comprehensive article on [setting up your Skyrim SE correctly](https://thephoenixflavour.com/wj/wj-sse/game-setup/) for a Wabbajack list. You're welcome to read that guide as well to make sure your game is properly set up before using Wabbajack. 
 
-### Creations Used
+### Creations Used (and Downgrading Skyrim)
 
-The list utilizes the following Creations from the Creation Club:
+This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:)
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+- [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)
 
-Before getting started, you'll want to download these creations and back them up for later.
+In order to obtain these files, you will need to upgrade Skyrim to the current version before patching the exe back to the version that works with SKSE and this list. Luckily this process is fairly simple:
+- Open your Steam Library and navigate to **The Elder Scrolls V: Skyrim Special Edition**
+- Right click and select **Properties...**
+- Under **Updates**, make sure **Automatic Updates** is set to `Only Update this game when I launch it`
+- Under **Local Files**, select **Verify integrity of game files...**
+- Wait for the process to identify and obtain any files it requires
 
-> If these creations are not present, you'll be unable to launch the `Slidikins' Strenuous Skyrim` profile in Mod Organizer 2. You'll still be able to play and enjoy the `Slidikins' Strenuous Skyrim (CC-less)` profile that is also included. **Survival Mode** is considered to be a core addition to the list, however, and it's highly recommended that you play Slidikins' Strenuous Skyrim with it included.
+> This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
+
+Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
+- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
+- Run **Patcher.exe**
+- Verify that the Game Location is correct and select **Start Patching**
+- Once it says "Finished Patching, enjoy your game!" you're good to go!
 
 # List Installation
 
