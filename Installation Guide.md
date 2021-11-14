@@ -533,9 +533,7 @@ I’ve added the following mod to this section:
 - **Main Files:** Sensible Bribes
 
 ## 3.27 Assorted Plugins
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
-
-**Disable Follower Collision** - Getting stuck behind a follower in a hallway or door can be frustrating, but I don’t like the ability to phase through them at one’s convenience.
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
 
 I’ve added the following mods to this section:
 
