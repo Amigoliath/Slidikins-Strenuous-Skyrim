@@ -4,7 +4,7 @@ Compatible with: **The Phoenix Flavour 4.9.3.1**
 # Changelog
 
 ## 2021-11-14
-Updated for TPF 4.9.3.1
+Updated up through TPF 4.9.3.1
 
 #### Mod Installation
 - **Prerequisites:** Added instructions for updating and downgrading Skyrim for Creation Club content including the now-added Fishing (CC)
