@@ -558,11 +558,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** True Directional Movement
 
-### [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306?tab=files)
-#### Download Instructions
-- **Main Files:** IFPV v10
-- **Optional Files:** IFPV Detector Plugin
-
 ### [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252?tab=files)
 #### Download Instructions
 - **Main Files:** SmoothCam
