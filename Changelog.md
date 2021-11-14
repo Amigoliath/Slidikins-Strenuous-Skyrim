@@ -1,7 +1,36 @@
-Latest update: **2021-11-09**  
-Compatible with: **The Phoenix Flavour 4.9.1.1**
+Latest update: **2021-11-14**  
+Compatible with: **The Phoenix Flavour 4.9.3.1**
 
 # Changelog
+
+## 2021-11-14
+Updated for TPF 4.9.3.1
+
+#### Mod Installation
+- **Prerequisites:** Added instructions for updating and downgrading Skyrim for Creation Club content including the now-added Fishing (CC)
+- **Interface:** Removed CoMAP - Common Marker Addon Project (from TPF)
+- **Interface:** Removed moreHUD - Slidikins' Preset
+- **Interface:** Added moreHUD - Settings Loader
+- **Interface:** Made various instructional edits as Nordic UI is no longer considered optional
+- **Gameplay Overhauls:** Moved Survival (CC) instructions to Prerequisites
+- **Loot & Crafting:** Moved Rare Curios (CC) instructions to Prerequisites
+- **Loot & Crafting:** Added Apothecary - Fishing Patch
+- **Assorted Plugins:** Removed mention of Disable Follower Collision (no longer in TPF)
+- **Controls & Camera:** Removed SmoothCam - Slidikins' Preset
+- **Conflict Resolution:** Removed overwrite to `0010C4E7` as it's no longer needed
+- **Finalization:** Added Configuration and Runtime Files
+
+#### Wabbajack
+- All files fully unused from TPF have been removed from the manifest
+- Removed CC-less profiles of the list
+- Updated SSS Display Tweaks to 0.4.17
+- Updated Assorted Mesh Fixes to 0.32.3
+- Updated Realistic Water Two to 5.0
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.4.2
+- Updated Open World Loot - AVL Nordic Addon to  1.2.1
+- Updated Conner's Survival Mode - Apothecary Food Patch (no version change)
+- Updated SSEEdit to 4.0.4
+
 
 ## 2021-11-09
 Updated for TPF 4.9.1.1
