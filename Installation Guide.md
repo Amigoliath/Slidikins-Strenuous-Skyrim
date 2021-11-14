@@ -1,5 +1,5 @@
-Latest update: **2021-11-13**  
-Compatible with: **The Phoenix Flavour 4.9.2.1**
+Latest update: **2021-11-14**  
+Compatible with: **The Phoenix Flavour 4.9.3.1**
 
 # 1. Initial Setup
 
@@ -167,8 +167,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
-**Alternate Conversation Camera Plus** - I like this mod but I'm not completely sure it's without issue. For now, disabled.
-**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI
+**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
 I’ve added the following mods to this section:
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
