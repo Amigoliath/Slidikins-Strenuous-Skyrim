@@ -63,15 +63,17 @@ While Wabbajack runs perfectly fine in most cases, an installation may fail for 
 
 If Wabbajack fails, please try restarting it first. You will not lose any progress by closing and reopening the app.
 
-If the issue persists, find the Discord support channel for your chosen list (either on the [Wabbajack](https://discord.com/invite/wabbajack) or [TPF](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
+If the issue persists, find the #sss-support channel on the [TPF Discord](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
 
-## Launching the Game
-
+## Reverting to Skyrim Special Edition v1.5
 Once that is finished, you'll need to downgrade to the version of Skyrim which works with this list.
 - Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
 - Run **Patcher.exe**
 - Change the Game Location to `[Installation Location]/Stock Game` and select **Start Patching**
 - Once it says "Finished Patching, enjoy your game!" you can close the patcher
+
+## Launching the Game
+
 - Double-click the **ModOrganizer.exe** within your installation directory.
 
 Now you can see the full setup: The mod order is on the left, likely sorted below separators that may be collapsed by default, and the load order with all plugins on the right. Above the load order (in the right pane), you can see the executables drop-down. **Slidikins' Strenuous Skyrim** should already be selected here, so you can start the game by clicking **RUN**.
