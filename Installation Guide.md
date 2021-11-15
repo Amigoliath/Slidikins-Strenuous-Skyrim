@@ -1,4 +1,4 @@
-Latest update: **2021-11-14**  
+Latest update: **2021-11-15**  
 Compatible with: **The Phoenix Flavour 4.9.3.1**
 
 # 1. Initial Setup
@@ -591,7 +591,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **XP32 Maximum Skeleton Special Extended - Fixed Scripts** - The scripts aren’t being used in _XPMSSE_ so this is unnecessary.
 
-I’ve updated instructions for the following mod:
+I’ve updated instructions for the following mods:
 
 ### [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/#xp32-maximum-skeleton-special-extended-xpmssehttpswwwnexusmodscomskyrimspecialeditionmods1988tabfiles)
 #### Additional Instructions
@@ -603,6 +603,13 @@ I’ve updated instructions for the following mod:
   - `XPMSE.esp`
 - Deactivate the old **XP32 Maximum Skeleton Special Extended** mod.
 > This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched. In a later update I’ll add the plugin to loadorder.txt for those who use it.
+
+### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=filess)
+#### Additional Instructions
+- Double-click **Simple Dual Sheath** in your mod order.
+- Switch to the INI Files tab and select the **SimpleDualSheath.ini**.
+- In **Line 75**, change `EquipLeft=` to `true`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 I’ve added the following mods to this section:
 
