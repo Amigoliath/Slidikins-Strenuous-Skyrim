@@ -339,6 +339,7 @@ I’ve added the following mod to this section:
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
+- **Optional Files:** Elemental Staffs SE Basic » `merge with the first file`
 
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
@@ -557,6 +558,7 @@ I’ve updated instructions for the following mod:
 - Double-click **Alternate Conversation Camera Plus** in your mod order.
 - Switch to the INI Files tab and select the **AlternateConversationCamera.ini**.
 - In **Line 26**, change `bSwitchTarget=` to `0`.
+- In **Line 73**, change `bEnableHUDMessagePositioning` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 I’ve added the following mods to this section:
