@@ -151,12 +151,12 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Container and Arrow Weight Restrictions
 
+#### Additional Instructions
+- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+
 ### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
 #### Download Instructions
 - **Main Files:** Locks Are Just Locked
-
-#### Additional Instructions
-- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
@@ -166,8 +166,8 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **moreHUD - TPF Preset** - See above.  
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
-**KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
-**Alternate Conversation Camera Plus** - I enjoy this mod, however it doesn't work out of the box with our camera setup and I haven't looked into it yet.
+**KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.  
+**Alternate Conversation Camera Plus** - Not removed, but moved to Controls & Camera.  
 **CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
 I’ve added the following mods to this section:
@@ -501,9 +501,9 @@ I’ve added the following mods to this section:
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
-**Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_
+**Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_  
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
-**Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.
+**Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
 
 I’ve added the following mod to this section:
 
@@ -550,6 +550,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.29 Controls & Camera
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
+
+I’ve updated instructions for the following mod:
+### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722?tab=files)
+#### Additional Instructions
+- Double-click **Alternate Conversation Camera Plus** in your mod order.
+- Switch to the INI Files tab and select the **AlternateConversationCamera.ini**.
+- In **Line 26**, change `bSwitchTarget=` to `0`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 I’ve added the following mods to this section:
 ### [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files)
@@ -692,14 +700,10 @@ If you are unable to resolve all issues, please join us on Discord and post your
 
 ## 4.3 Nemesis
 
-### New Separator
-- Create a **PATCHER OUTPUT - SSS** separator in Mod Organizer 2.
-- It should be at the bottom of your mod order, below PATCHER OUTPUT.
-
 ### Nemesis Output Folder
 - In Mod Organizer 2, click the tools icon above your mod order and select **Create empty mod**.
 - Rename the new mod folder to **Slidikins' Strenuous Skyrim - Nemesis Output**.
-- Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT - SSS** separator and activate it.
+- Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT** separator and activate it.
 
 ### Edit Nemesis Settings
 - Open the Executables window in Mod Organizer 2 (Tools > Executables or CTRL + E).
@@ -727,7 +731,6 @@ If you are unable to resolve all issues, please join us on Discord and post your
 
 All controls changed from the Default:
 
-**Auto Move:** `Right Alt`  
 **Journal:** `F4`  
 **Quick Inventory:** `F2`  
 **Quick Magic:** `F3`  
@@ -761,9 +764,6 @@ All controls changed from the Default:
   - Enchanting Cost Modifier: `0.28`
 
 ### Immersive HUD
-- **Activation** Panel
-  - **Compass Activation** Section
-    - iHUD hotkey: `Backspace`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
@@ -771,7 +771,7 @@ All controls changed from the Default:
   - Force crosshair to hide: `Enabled`
   - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
-  - Compass: `60%`
+  - Compass: `70%`
   - Magicka: `60%`
   - Health: `60%`
   - Stamina: `60%`
