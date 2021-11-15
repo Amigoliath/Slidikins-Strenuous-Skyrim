@@ -82,6 +82,6 @@ Once that is finished, you'll need to downgrade to the version of Skyrim which w
 Now you can see the full setup: The mod order is on the left, likely sorted below separators that may be collapsed by default, and the load order with all plugins on the right. Above the load order (in the right pane), you can see the executables drop-down. **Slidikins' Strenuous Skyrim** should already be selected here, so you can start the game by clicking **RUN**.
 
 ## Final Configurations
-Recommended control adjustments can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
+No additional configuration should be required, but all configuration changes have been noted in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
 
 Have fun!
