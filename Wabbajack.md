@@ -10,6 +10,9 @@ Phoenix also wrote a comprehensive article on [setting up your Skyrim SE correct
 
 ### Updating to Skyrim Special Edition 1.6
 
+> **NOTE:** With the release of Anniversary Edition on November 11th, 2021, the current version of Skyrim Special Edition on Steam does **not** work with SKSE and therefore this list. If you've installed that version, please download [FullPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files), unzip it anywhere, and run **Patcher.exe** to downgrade to a usable version.
+> Once downgraded, make sure to set the game to only update when launched so that it does not update again by mistake.
+
 This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
