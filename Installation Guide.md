@@ -167,6 +167,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
+**Alternate Conversation Camera Plus** - I enjoy this mod, however it doesn't work out of the box with our camera setup and I haven't looked into it yet.
 **CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
 I’ve added the following mods to this section:
@@ -675,7 +676,7 @@ I’ve added the following mods to this section:
 ## 4.2 Configuration & Runtime Files
 - Download the [Configuration & Runtime Files](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Install it as usual and place it below the **------------------------------** separator (which you should create if it doesn't exist), and activate it.
-> This isn't a necessary step but in doing in you can skip the **MCM Configuration** section completely. Furthermore, any files that are normally created when you run the game are included, so the only thing that will appear in Overwrite should be crashlogs. (But those hopefully shouldn't be appearing either.)
+> This isn't a necessary step but in doing in you can skip the **MCM Configuration** section completely. There's a chance that additional files will appear in your Overwrite folder after your first launch. Feel free to drag those into this mod. (Beyond that will be crash logs, but those hopefully shouldn't happen.)
 
 ## 4.3 Load Order TXT
 - Close Mod Organizer 2.
