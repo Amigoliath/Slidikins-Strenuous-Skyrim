@@ -731,7 +731,6 @@ If you are unable to resolve all issues, please join us on Discord and post your
 
 All controls changed from the Default:
 
-**Auto Move:** `Right Alt`  
 **Journal:** `F4`  
 **Quick Inventory:** `F2`  
 **Quick Magic:** `F3`  
