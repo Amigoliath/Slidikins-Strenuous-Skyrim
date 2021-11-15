@@ -700,14 +700,10 @@ If you are unable to resolve all issues, please join us on Discord and post your
 
 ## 4.3 Nemesis
 
-### New Separator
-- Create a **PATCHER OUTPUT - SSS** separator in Mod Organizer 2.
-- It should be at the bottom of your mod order, below PATCHER OUTPUT.
-
 ### Nemesis Output Folder
 - In Mod Organizer 2, click the tools icon above your mod order and select **Create empty mod**.
 - Rename the new mod folder to **Slidikins' Strenuous Skyrim - Nemesis Output**.
-- Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT - SSS** separator and activate it.
+- Drag the new empty mod (displayed in grey italics) below the **PATCHER OUTPUT** separator and activate it.
 
 ### Edit Nemesis Settings
 - Open the Executables window in Mod Organizer 2 (Tools > Executables or CTRL + E).
@@ -769,9 +765,6 @@ All controls changed from the Default:
   - Enchanting Cost Modifier: `0.28`
 
 ### Immersive HUD
-- **Activation** Panel
-  - **Compass Activation** Section
-    - iHUD hotkey: `Backspace`
 - **Options** Panel
   - Stealth indicator enabled: `Disabled`
   - Enemy health indicator enabled: `Disabled`
@@ -779,7 +772,7 @@ All controls changed from the Default:
   - Force crosshair to hide: `Enabled`
   - Enable fast fade of health: `Disabled`
 - **Transparencies** Panel
-  - Compass: `60%`
+  - Compass: `70%`
   - Magicka: `60%`
   - Health: `60%`
   - Stamina: `60%`
