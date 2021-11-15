@@ -91,8 +91,8 @@ No additional configuration should be required, but all configuration changes ha
 **Journal:** `F4`  
 **Quick Inventory:** `F2`  
 **Quick Magic:** `F3`  
-**Quick Stats:** `F1`
-**Lock On:** `Middle Mouse Button`
+**Quick Stats:** `F1`  
+**Lock On:** `Middle Mouse Button`  
 **Cycle Targets:** `Mouse Scroll Wheel Up/Down`
 
 **Favorite Groups 1-4:** `9`,`0`, `-`, and `=`
