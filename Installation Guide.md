@@ -151,12 +151,12 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Container and Arrow Weight Restrictions
 
+#### Additional Instructions
+- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+
 ### [Locks Are Just Locked](https://www.nexusmods.com/skyrimspecialedition/mods/42535?tab=files)
 #### Download Instructions
 - **Main Files:** Locks Are Just Locked
-
-#### Additional Instructions
-- ESL-ify **Container and Arrow Weight Restrictions.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.4 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
@@ -167,7 +167,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
-**Alternate Conversation Camera Plus** - I enjoy this mod, however it doesn't work out of the box with our camera setup and I haven't looked into it yet.
+**Alternate Conversation Camera Plus** - Not removed, but moved to Controls & Camera.
 **CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
 I’ve added the following mods to this section:
@@ -550,6 +550,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.29 Controls & Camera
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
+
+I’ve updated instructions for the following mod:
+### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722?tab=files)
+#### Additional Instructions
+- Double-click **Alternate Conversation Camera Plus** in your mod order.
+- Switch to the INI Files tab and select the **AlternateConversationCamera.ini**.
+- In **Line 26**, change `bSwitchTarget=` to `0`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 I’ve added the following mods to this section:
 ### [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files)
