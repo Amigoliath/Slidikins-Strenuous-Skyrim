@@ -1,7 +1,18 @@
-Latest update: **2021-11-14**  
+Latest update: **2021-11-15**  
 Compatible with: **The Phoenix Flavour 4.9.3.1**
 
 # Changelog
+
+## 2021-11-15
+#### Mod Installation
+- **Controls & Camera:** Added Alternate Conversation Camera Plus instructions
+
+#### Wabbajack
+- Updated enbseries.ini in Stock Game folder (for Realistic Water Two changes)
+- Updated Official Master Files - Cleaned for the new ESM files
+- Updated Unofficial Skyrim Special Editon Patch to 4.2.6a
+- Updated Storm Lightning to 1.4.10
+
 
 ## 2021-11-14
 Updated up through TPF 4.9.3.1
