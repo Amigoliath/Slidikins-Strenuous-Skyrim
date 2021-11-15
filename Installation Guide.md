@@ -1,10 +1,31 @@
-Latest update: **2021-11-09**  
-Compatible with: **The Phoenix Flavour 4.9.1.1**
+Latest update: **2021-11-14**  
+Compatible with: **The Phoenix Flavour 4.9.3.1**
 
 # 1. Initial Setup
 
 ## Prerequisites
 This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you are familiar with the tools introduced and provided by TPF. For Wabbajack users, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
+
+### Skyrim Official Files
+This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
+- [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
+- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+- [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)
+
+In order to obtain these files, you will need to upgrade Skyrim to the current version before patching the exe back to the version that works with SKSE and this list. Luckily this process is fairly simple:
+- Open your Steam Library and navigate to **The Elder Scrolls V: Skyrim Special Edition**
+- Right click and select **Properties...**
+- Under **Updates**, make sure **Automatic Updates** is set to `Only Update this game when I launch it`
+- Under **Local Files**, select **Verify integrity of game files...**
+- Wait for the process to identify and obtain any files it requires
+
+> This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
+
+Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
+- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
+- Run **Patcher.exe**
+- Verify that the Game Location is correct and select **Start Patching**
+- Once it says "Finished Patching, enjoy your game!" you're good to go!
 
 ## Mod Organizer 2
 ### SSS Profile
@@ -49,7 +70,7 @@ The provided loadorder.txt and Conflict Resolution Patch in the Finalization sec
 
 ## 2.1 TPF-X Addons
 
-With the release of TPF 4.5, Phoenix now offers several “addon” modules. These are entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each section in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
+With the release of TPF 4.5, Phoenix offered several “addon” modules. These were entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each one in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
 
 **Note:** Modules that are not included in the `loadorder.txt` will need to be placed manually after finishing the guide. 
 
@@ -63,7 +84,7 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 
 ### [New Gear](https://thephoenixflavour.com/tpf-x/installation/new-gear/)
 **Notes:** In the past I was adamant against adding new gear but Phoenix is pretty selective on what she adds. I trust her judgement so I’ve added it for now.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt.
+**Compatibility:** Compatible, recommended and included in loadorder.txt and Wabbajack.
 
 ### [New Companions](https://thephoenixflavour.com/tpf-x/installation/new-companions/)
 **Notes:** I don’t like adding companions to my game. Inigo and Lucien won’t ruin the balance of SSS:SE, but they will spoil you when it comes to followers.  
@@ -74,8 +95,8 @@ With the release of TPF 4.5, Phoenix now offers several “addon” modules. The
 **Compatibility:** Compatible.
 
 ### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
-**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes. This used to be in TPF, so I’ve kept it in my order.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt.
+**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.
+**Compatibility:** This is now included in base TPF and isn't technically a TPF-X Addon.
 
 ### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
 **Notes:** These mods are entirely up to you. I saw no reason to add any of them to my game but your preference may be different.  
@@ -146,7 +167,8 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
 **KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.
-**Alternate Conversation Camera Plus** - I like this mod but I'm not completely sure it's without issue. For now, disabled.
+**Alternate Conversation Camera Plus** - I enjoy this mod, however it doesn't work out of the box with our camera setup and I haven't looked into it yet.
+**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
 I’ve added the following mods to this section:
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
@@ -154,7 +176,6 @@ I’ve added the following mods to this section:
 - **Main Files:** SkyUI - Ghost Item Bug Fix
 
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
-Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
 - **Main Files:** NORDIC UI (Final Design)
 
@@ -180,7 +201,7 @@ Completely optional, skip if you’re playing ultra wide.
 - **Loading Screen:** No Empty Background
 
 #### Additional Instructions
-- Deactivate the following mods:
+- Deactivate the following TPF mods:
   - Better Dialogue Controls (from **Controls & Camera**) 
   - Better MessageBox Controls (from **Controls & Camera**)
   - Remove QuickSave Button from SkyUI System Menu (from **Interface**)
@@ -202,14 +223,9 @@ Completely optional, skip if you’re playing ultra wide.
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [SkyHUD - Slidikins’ Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) or [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** SkyHUD - Slidikins' Preset (if you chose not to use _Nordic UI_)
-- **Miscellaneous Files:** SkyHUD - Slidikins' Nordic UI Preset (if you chose _Nordic UI_ above)
-
-### [moreHUD - Slidikins’ Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** moreHUD - Slidikins' Preset
+- **Miscellaneous Files:** SkyHUD - Slidikins' Nordic UI Preset
 
 ### [The Frozen North - iHUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33068)
 #### Download Instructions
@@ -227,7 +243,6 @@ Completely optional, skip if you’re playing ultra wide.
 #### Download Instructions
 - **Old Files:** Simple Activate SKSE (v1.0)
 - **Main Files:** Simple Activate SKSE » `merge with the old file`
-
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
@@ -353,25 +368,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
-### [Survival (CC)](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
-This is mandatory for this modlist as I prefer it over other Survival mods. _[SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414)_ is a close second, but I offer no support towards making that work here.
-#### Download Instructions
-- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
-- Select **Play**.
-- At the title screen, select **Creation Club**. Log in if needed.
-- (Purchase **Survival Mode** under Gameplay if needed.)
-> To save on time, it's recommend to download **Rare Curios** now as well. Rare Curios is completely optional, however.
-- Select **Survival Mode** under the Purchased tab.
-- Click **Download**.
-- Exit the Creation Club, reload, then exit the game.
-- Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[NoDelete] Survival (CC)**.
-- Move the following files into the new folder:
-  - `ccqdrsse001-survivalmode.bsa`
-  - `ccqdrsse001-survivalmode.esl`
-- Move the **[NoDelete] Survival (CC)** folder into `Mod Organizer 2\mods\`
-- Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
-
 ### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
 #### Download Instructions
 - **Main Files:** Conner’s Survival Mode
@@ -422,24 +418,6 @@ I’ve added the following mods to this section:
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
 - **Main Files:** Honed Metal Revoiced (For Honed Metal SSE 1.2)
-
-### [Rare Curios (CC)](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
-This adds new alchemy ingredients (and a couple of effects), as well as some other miscellaneous items. **Completely optional**, so skip it (and the two patches below) if you don’t have it.
-#### Download Instructions
-- Launch **The Elder Scrolls V: Skyrim Special Edition** from Steam.
-- Select **Play**.
-- At the title screen, select **Creation Club**. Log in if needed.
-- (Purchase **Rare Curios** under Gameplay if needed.)
-- Select **Rare Curios** under the Purchased tab.
-- Click **Download**.
-- Exit the Creation Club, reload, then exit the game.
-- Go to your Skyrim SE **root** folder, then double click **Data**.
-- Create a new folder called **[NoDelete] Rare Curios (CC)**.
-- Move the following files into the new folder:
-  - `ccbgssse037-curios.bsa`
-  - `ccbgssse037-curios.esl`
-- Move the **[NoDelete] Rare Curios (CC)** folder into `Mod Organizer 2\mods\`
-- Back in MO2, press **F5** to refresh and it will show up at the bottom of the left pane.
 
 ### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
 #### Download Instructions
@@ -555,9 +533,7 @@ I’ve added the following mod to this section:
 - **Main Files:** Sensible Bribes
 
 ## 3.27 Assorted Plugins
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
-
-**Disable Follower Collision** - Getting stuck behind a follower in a hallway or door can be frustrating, but I don’t like the ability to phase through them at one’s convenience.
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
 
 I’ve added the following mods to this section:
 
@@ -594,6 +570,7 @@ I’ve added the following mods to this section:
   - SmoothCam.esl » SmoothCam.esp
 
 ### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
+This is only necessary if you do not download the Configuration & Runtime Files later in the guide.
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
 
@@ -696,7 +673,12 @@ I’ve added the following mods to this section:
 - Install it as usual, place it last below a **FINAL PATCHES - SSS** separator (which you should create), and activate it.
 > This second patch is necessary for resolving the few conflicts between SSS and TPF. It also includes edits to Magic Effects similar to _[No Edge Glow](https://www.nexusmods.com/skyrimspecialedition/mods/3205)_. This is done instead of simply including _No Edge Glow_ so that I can better maintain it as I encounter edge shaders that may have been modded in. Finally, it makes a few GameSettings changes to make falling more hazardous.
 
-## 4.2 Load Order TXT
+## 4.2 Configuration & Runtime Files
+- Download the [Configuration & Runtime Files](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
+- Install it as usual and place it below the **------------------------------** separator (which you should create if it doesn't exist), and activate it.
+> This isn't a necessary step but in doing in you can skip the **MCM Configuration** section completely. There's a chance that additional files will appear in your Overwrite folder after your first launch. Feel free to drag those into this mod. (Beyond that will be crash logs, but those hopefully shouldn't happen.)
+
+## 4.3 Load Order TXT
 - Close Mod Organizer 2.
 - Download the [Universal Lord Order TXT](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Open the archive and extract the **loadorder.txt** to `Mod Organizer 2\profiles\Slidikins' Strenuous Skyrim`.
@@ -753,7 +735,7 @@ All controls changed from the Default:
 
 ## 5.2 Mod Configuration
 
-> **Wabbajack Users:** Some of these instructions may not be necessary due to the inclusion of Runtime Files in the modlist. Apologies in advance for the small bits of time wasted when this is the case. If something is already set to what's specified below, move onto the next instruction.
+> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or used Wabbajack), this step is unnecessary. All of the configurations have been made by default. However, this section has been left in for those still wish to do it themselves. If a mod has been pre-configured by TPF, it is not listed here.
 
 ### Cathedral Weathers
 - **Settings** Panel
@@ -798,12 +780,6 @@ All controls changed from the Default:
 - **Presets** Panel
   - **Save setting with FISS** Section
     - Load User Settings?: `Select`
-
-### Simple Smithing
-- **Settings** Panel
-  - **Craftable Toggles** Section
-    - Allow Artefact Replication: `Disabled`
-    - Allow Upgrade Unique Gear Levels: `Disabled`
 
 ### Sky UI
 - **General** Panel

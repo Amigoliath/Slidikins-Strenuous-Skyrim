@@ -8,18 +8,24 @@
 
 Phoenix also wrote a comprehensive article on [setting up your Skyrim SE correctly](https://thephoenixflavour.com/wj/wj-sse/game-setup/) for a Wabbajack list. You're welcome to read that guide as well to make sure your game is properly set up before using Wabbajack. 
 
+### Updating to Skyrim Special Edition 1.6
+
 > **NOTE:** With the release of Anniversary Edition on November 11th, 2021, the current version of Skyrim Special Edition on Steam does **not** work with SKSE and therefore this list. If you've installed that version, please download [FullPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files), unzip it anywhere, and run **Patcher.exe** to downgrade to a usable version.
 > Once downgraded, make sure to set the game to only update when launched so that it does not update again by mistake.
 
-### Creations Used
-
-The list utilizes the following Creations from the Creation Club:
+This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+- [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)
 
-Before getting started, you'll want to download these creations and back them up for later.
+In order to obtain these files, you will need to update Skyrim to the current version before patching the exe back to the version that works with SKSE and this list. Luckily this process is fairly simple:
+- Open your Steam Library and navigate to **The Elder Scrolls V: Skyrim Special Edition**
+- Right click and select **Properties...**
+- Under **Updates**, make sure **Automatic Updates** is set to `Only Update this game when I launch it`
+- Under **Local Files**, select **Verify integrity of game files...**
+- Wait for the process to identify and obtain any files it requires
 
-> If these creations are not present, you'll be unable to launch the `Slidikins' Strenuous Skyrim` profile in Mod Organizer 2. You'll still be able to play and enjoy the `Slidikins' Strenuous Skyrim (CC-less)` profile that is also included. **Survival Mode** is considered to be a core addition to the list, however, and it's highly recommended that you play Slidikins' Strenuous Skyrim with it included.
+> We will downgrade to Skyrim 1.5 after the Wabbajack installation is complete. In order to successfully download the list, your Skyrim folder needs to be an untouched copy of Special Edition 1.6.
 
 # List Installation
 
@@ -60,32 +66,22 @@ While Wabbajack runs perfectly fine in most cases, an installation may fail for 
 
 If Wabbajack fails, please try restarting it first. You will not lose any progress by closing and reopening the app.
 
-If the issue persists, find the Discord support channel for your chosen list (either on the [Wabbajack](https://discord.com/invite/wabbajack) or [TPF](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
+If the issue persists, find the #sss-support channel on the [TPF Discord](https://discord.gg/xCPxJFbCTS)) and drop the **Wabbajack.current.log** with a request for support.
 
-## Creation Club
-If you opted to skip Creations altogether, skip this section and use the `Slidikins' Strenuous Skyrim (CC-less)` profile in Mod Organizer 2.
-- Navigate back to wherever you keep your [Creation Club backups](https://thephoenixflavour.com/wj/wj-sse/game-setup/#creation-club) 
-- In a separate window, navigate to where you installed the list, e.g. `C:\Modlist Name\`.
-- From there, navigate to `\mods\[NoDelete] Creation Club`
-- Copy the following files from **Creation Club** into **[NoDelete] Creation Club**
-  - ccbgssse037-curios.bsa _(if owned)_
-  - ccbgssse037-curios.esl _(if owned)_
-  - ccqdrsse001-survivalmode.bsa
-  - ccqdrsse001-survivalmode.esl
-
-> **Note:** If you do not own Rare Curios, you will need to deactivate **The Phoenix Flavour - Rare Curios Patch** and **Apothecary - Rare Curios Patch**. They are both found under the **LOOT & CRAFTING - SSS** separator in Mod Organizer 2.
+## Reverting to Skyrim Special Edition v1.5
+Once that is finished, you'll need to downgrade to the version of Skyrim which works with this list.
+- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
+- Run **Patcher.exe**
+- Change the Game Location to `[Installation Location]/Stock Game` and select **Start Patching**
+- Once it says "Finished Patching, enjoy your game!" you can close the patcher
 
 ## Launching the Game
-Wabbajack lists must always be start with the **Skyrim Script Extender** which in turn must be launched through **Mod Organizer 2**. Remember that your mod list installation directory is simply a Mod Organizer 2 instance.
-- Double-click the **ModOrganizer.exe** within your mod list installation directory.
 
-Now you can see the full setup: The mod order is on the left, likely sorted below separators that may be collapsed by default, and the load order with all plugins on the right. Above the load order (in the right pane), you can see the executables drop-down. Very likely the **Skyrim Script Extender** was already selected here, so you can start the game by clicking **RUN**.
-> Note that some Wabbajack lists, including Slidikins' Strenuous Skyrim, may change the name and/or icon of the SKSE launcher. If what is selected in the executables drop-down is named after the list you installed, it is probably what you should run to start the game.
+- Double-click the **ModOrganizer.exe** within your installation directory.
 
-**Always run SKSE through MO2 to start the game.** If you launch the game through Steam or directly with the default executables (e.g. SkyrimSE.exe), your mods will not load and the game will simply be vanilla. If you run the default executables through MO2 (instead of the SKSE launcher), many mods will also not work because they require SKSE.
-
+Now you can see the full setup: The mod order is on the left, likely sorted below separators that may be collapsed by default, and the load order with all plugins on the right. Above the load order (in the right pane), you can see the executables drop-down. **Slidikins' Strenuous Skyrim** should already be selected here, so you can start the game by clicking **RUN**.
 
 ## Final Configurations
-Recommended control adjustments and MCM Configuration Settings can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). When starting a new game, it's recommended that you wait until after the carriage enters the town gates to open the menu to set these changes.
+Recommended control adjustments can be found in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
 
 Have fun!
