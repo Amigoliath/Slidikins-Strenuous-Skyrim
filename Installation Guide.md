@@ -119,6 +119,7 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
+- In **Line 72, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - In **Line 90**, change `Load Door Activate Prompt =` to `2`.
 - In **Line 92**, change `Exit Label =` to `Leave`.
@@ -250,6 +251,8 @@ I’ve added the following mods to this section:
 - In **Line 28**, change `Show Indicator Using Name =` to `false`.
 - In **Line 37**, change `Show Indicator Using Name =` to `false`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
+- In **Line 62**, change `Hide Empty Tag =` to `true`.
+- In **Line 69**, change `Show Indicator Using Name =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.5 Graphics Baseline
