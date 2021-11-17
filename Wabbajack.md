@@ -10,9 +10,6 @@ Phoenix also wrote a comprehensive article on [setting up your Skyrim SE correct
 
 ### Updating to Skyrim Special Edition 1.6
 
-> **NOTE:** With the release of Anniversary Edition on November 11th, 2021, the current version of Skyrim Special Edition on Steam does **not** work with SKSE and therefore this list. If you've installed that version, please download [FullPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files), unzip it anywhere, and run **Patcher.exe** to downgrade to a usable version.
-> Once downgraded, make sure to set the game to only update when launched so that it does not update again by mistake.
-
 This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
 - [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode)
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
@@ -25,7 +22,7 @@ In order to obtain these files, you will need to update Skyrim to the current ve
 - Under **Local Files**, select **Verify integrity of game files...**
 - Wait for the process to identify and obtain any files it requires
 
-> We will downgrade to Skyrim 1.5 after the Wabbajack installation is complete. In order to successfully download the list, your Skyrim folder needs to be an untouched copy of Special Edition 1.6.
+> Don't worry! Wabbajack will downgrade the necessary files back to 1.5 during installation. Your Skyrim folder will remain as an untouched copy of Special Edition 1.6.
 
 # List Installation
 
@@ -67,15 +64,6 @@ While Wabbajack runs perfectly fine in most cases, an installation may fail for 
 If Wabbajack fails, please try restarting it first. You will not lose any progress by closing and reopening the app.
 
 If the issue persists, find the **#sss-support** channel on the [TPF Discord](https://discord.gg/xCPxJFbCTS) and drop the **Wabbajack.current.log** with a request for support.
-
-## Reverting to Skyrim Special Edition v1.5
-Once that is finished, you'll need to downgrade to the version of Skyrim which works with this list.
-- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
-- Run **Patcher.exe**
-- Change the Game Location to `[Installation Location]/Stock Game` and select **Start Patching**
-- Once it says "Finished Patching, enjoy your game!" you can close the patcher
-
-> You should only need to do this step once as the patched files will remain in your Stock Game folder for future updates.
 
 ## Launching the Game
 
