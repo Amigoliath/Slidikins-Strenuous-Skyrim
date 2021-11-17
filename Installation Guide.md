@@ -249,7 +249,7 @@ I’ve added the following mods to this section:
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
 - In **Line 28**, change `Show Indicator Using Name =` to `false`.
-- In **Line 37**, change `Show Indicator Using Name =` to `false`.
+- In **Line 40**, change `Custom Indicator Color =` to `#808080`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
 - In **Line 62**, change `Hide Empty Tag =` to `true`.
 - In **Line 69**, change `Show Indicator Using Name =` to `true`.
