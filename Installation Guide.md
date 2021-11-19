@@ -1,5 +1,5 @@
-Latest update: **2021-11-15**  
-Compatible with: **The Phoenix Flavour 4.9.3.1**
+Latest update: **2021-11-18**  
+Compatible with: **The Phoenix Flavour 4.9.4**
 
 # 1. Initial Setup
 
@@ -303,10 +303,6 @@ I’ve added the following mods to this section:
 ### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 #### Download Instructions
 - **Main Files:** Splashes Of Skyrim - 1.3
-
-### [ENB Lights for Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files)
-#### Download Instructions
-- **Main Files:** ENB Lights For Effect Shaders
 
 ## 3.9 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
