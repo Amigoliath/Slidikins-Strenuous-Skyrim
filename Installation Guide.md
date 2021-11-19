@@ -1,5 +1,5 @@
-Latest update: **2021-11-15**  
-Compatible with: **The Phoenix Flavour 4.9.3.1**
+Latest update: **2021-11-18**  
+Compatible with: **The Phoenix Flavour 4.9.4**
 
 # 1. Initial Setup
 
@@ -119,6 +119,7 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
+- In **Line 72, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - In **Line 90**, change `Load Door Activate Prompt =` to `2`.
 - In **Line 92**, change `Exit Label =` to `Leave`.
@@ -248,8 +249,10 @@ I’ve added the following mods to this section:
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
 - In **Line 28**, change `Show Indicator Using Name =` to `false`.
-- In **Line 37**, change `Show Indicator Using Name =` to `false`.
+- In **Line 40**, change `Custom Indicator Color =` to `#808080`.
 - In **Line 46**, change `Hide Locked Tag =` to `true`.
+- In **Line 62**, change `Hide Empty Tag =` to `true`.
+- In **Line 69**, change `Show Indicator Using Name =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.5 Graphics Baseline
@@ -301,10 +304,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Splashes Of Skyrim - 1.3
 
-### [ENB Lights for Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362?tab=files)
-#### Download Instructions
-- **Main Files:** ENB Lights For Effect Shaders
-
 ## 3.9 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
 
@@ -339,6 +338,7 @@ I’ve added the following mod to this section:
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
+- **Optional Files:** Elemental Staffs SE Basic » `merge with the first file`
 
 ## 3.19 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
@@ -557,6 +557,7 @@ I’ve updated instructions for the following mod:
 - Double-click **Alternate Conversation Camera Plus** in your mod order.
 - Switch to the INI Files tab and select the **AlternateConversationCamera.ini**.
 - In **Line 26**, change `bSwitchTarget=` to `0`.
+- In **Line 73**, change `bEnableHUDMessagePositioning` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 I’ve added the following mods to this section:
