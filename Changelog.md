@@ -7,7 +7,7 @@ Compatible with: **The Phoenix Flavour 4.9.4**
 Updated for TPF 4.9.4
 
 #### Mod Installation:
-- **Fixes:** Updated instuctions for powerofthree's Tweaks
+- **Fixes:** Updated instructions for powerofthree's Tweaks
 - **Interface:** Updated instructions for Simple Activate SKSE
 - **Visual FX:** Removed ENB Lights For Effect Shaders as it's now in TPF
 - **Conflict Resolution:** Carried over AI Overhaul updates to LarsBattleBorn and BYOHUrchin_Lucia
