@@ -1,7 +1,34 @@
-Latest update: **2021-11-15**  
-Compatible with: **The Phoenix Flavour 4.9.3.1**
+Latest update: **2021-11-18**  
+Compatible with: **The Phoenix Flavour 4.9.4**
 
 # Changelog
+
+## 2021-11-18
+Updated for TPF 4.9.4
+
+#### Mod Installation:
+- **Fixes:** Updated instuctions for powerofthree's Tweaks
+- **Interface:** Updated instructions for Simple Activate SKSE
+- **Visual FX:** Removed ENB Lights For Effect Shaders as it's now in TPF
+- **Conflict Resolution:** Carried over AI Overhaul updates to LarsBattleBorn and BYOHUrchin_Lucia
+- **Conflict Resolution:** Carried over a bunch of WACCF changes (mostly weights) undone by Apothecary
+- **Conflict Resolution:** Adjusted FVS_VelehkHeart to Apothecary values
+- **Conflict Resolution:** Disabled dialogue for Recharging enchantments in Honed Metal (bugged) 
+
+##### Wabbajack:
+- Updated Dear Diary - Better More Informative Console to 1.3
+- Updated powerofthree's Tweaks to 1.4
+- Updated Assorted Mesh Fixes to 0.33
+- Updated Equip Enchantment Fix to 1.3.2
+- Updated Storm Lightning to 1.4.11
+- Updated Thunder Sounds - WiZkiD Mix to 1.1
+- Updated WiZkiD Carriages to 1.2
+- Updated AI Overhaul to 1.6.7
+- Updated Unequip Quiver to 1.6
+- Updated Simple Dual Sheath to 1.5
+- Updated SmoothCam to 1.6
+- Updated Spell Perk Item Distributor to 5.1
+
 
 ## 2021-11-15
 #### Mod Installation
