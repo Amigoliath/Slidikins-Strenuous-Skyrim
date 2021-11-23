@@ -397,7 +397,7 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
-## [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
+### [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
 #### Download Instructions
 - **Main Files:** Item Durability v3
 
