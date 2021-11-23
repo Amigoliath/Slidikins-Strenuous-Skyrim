@@ -58,18 +58,18 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 
 
 ## 3. Crafting
-The hard limit on player level (Lv50) and perk points (55 total) makes it harder to invest in multiple crafting skills while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into the crafted goods you can not create yourself.
+The hard limit on player level (Lv50) and perk points (55 total) makes it harder to invest in multiple crafting skills while at the same time makes it more worthwhile to utilize them all. As you make your mark on Skyrim, don't be afraid to pour some of your earnings into the crafted goods you can not create yourself. For stuff you create, note that the formula for the experience gained has been adjusted with [Crafting Skill Leveling Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21727). You'll no longer want to craft thousands of Iron Daggers but instead focus on valuable jewelry and higher tier equipment.
 
 ### Alchemy
-Alchemical goods can be found in almost every settlement at the general store if not a dedicated alchemy store. Many of the available potion effects last for a minute or longer and provide percentage-based buffs, making them viable at all levels of play. Additionally you can craft their your alchemy potions and poisons, combining useful effects to save on Carry Weight. Even without perk investment it's worth your while to dabble in Alchemy for this reason. Ingredients can be found everywhere so there's nothing to lose.
+Alchemical goods can be found in almost every settlement at the general store if not a dedicated alchemy store. Many of the available potion effects last for a minute or longer and provide percentage-based buffs making them viable at all levels of play. Additionally you can craft your own alchemy potions and poisons, combining useful effects to save on Carry Weight. Even without perk investment it's worth your while to dabble in Alchemy for this reason. Ingredients can be found everywhere so there's nothing to lose!
 
 ### Smithing
-With the exception of the quintessential Mage, most adventurers will have some reason to look into Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting specific enemies, crafting them yourself or commissioning the work from a Blacksmith. Additionally, the same weapons and armor will degrade with use and require tempering to maintain their quality. A master at the craft can add +10 to the base damage/armor of equipment. If you're not up to the task, you can and should pay a Blacksmith to do it for you as well.
+With the exception of the quintessential Mage, most adventurers will have some reason to look towards Smithing. Higher tier weapons and armor have been removed from the random loot lists so your options for obtaining them are limited to hunting very specific enemies, crafting them yourself or commissioning the work from a Blacksmith. These same weapons and armor will degrade with use and require tempering to maintain their quality ([Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544)). A master at the craft can add +10 to the base damage/armor of equipment with a single ingot. If you're not up to the task, you can and should pay a Blacksmith to do it for you.
 
 ### Enchanting
-Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear, but it's a long investment before one can get rival the skill of an Adept or Expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment is priceless in the long term.
+Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can get rival the skill of an Adept or Expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment is priceless in the long term.
 
-> **Tip:** Enchanters will gladly take your money to place an enchantment on an item, but they won't bother with recharging services. If you want to recharge an item, buy a Soul Gem from the enchanter and do it yourself. They have better things to do with their time.
+> **Tip:** Enchanters will gladly take your money to place an enchantment on an item but they won't bother with recharging services. If you want to recharge an item, buy a Soul Gem from the enchanter and do it yourself. They have better things to do with their time.
 
 #### Additional Reading
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
@@ -77,7 +77,7 @@ Enchanting will give you the extra oomph you need to go from good to great, no m
 - [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130)
 
 ## 4. Combat
-Removing combat related HUD elements already increases difficulty but keep in mind there are additional changes to combat under the hood. For starters, you'll be more vulnerable when on the offensive, such as power attacking, drawing a bow, or casting a spell. A poorly timed attack could send you to an early grave, so pick your spots carefully.
+Removing combat related HUD elements already increases difficulty but keep in mind there are additional changes to combat under the hood. For starters, you'll be more vulnerable when on the offensive, such as power attacking, drawing a bow, or casting a spell. A poorly timed attack could send you to an early grave so pick your spots carefully.
 
 > **Tip:** Even though health bars were removed, [Just Blood](https://www.nexusmods.com/skyrimspecialedition/mods/46501) will add increasing bloody overlays on enemies as a rough indicator of their Health. Keep an eye out for this subtle effect.
 
@@ -107,10 +107,10 @@ As you can probably infer from the name of this addon, your adventure in Skyrim 
 ### Early Game (Level 1 - 10)
 
 #### Take it Easy and Start Small
-You’ve just escaped Helgen by the skin of your teeth. You don’t have much to your name, and you don’t have nifty perks that deliver the pain to your enemies. Take a moment to collect yourself in town. Craft a bit and make a little money to get yourself started. The Skyrim Uncapper is configured to give less exp for your crafting skills, so there’s no need to worry about overleveling yourself out of the gate. There will be plenty of time to delve into dungeons later. Make sure you’re properly equipped now.
+You’ve just escaped Helgen by the skin of your teeth. You don’t have much to your name, and you don’t have nifty perks that deliver the pain to your enemies. Take a moment to collect yourself in town. Craft a bit and make a little money to get yourself started. The Skyrim Uncapper is configured to give less character exp for your crafting skills, so there’s no need to worry about overleveling yourself out of the gate. There will be plenty of time to delve into dungeons later. Make sure you’re properly equipped now.
 
 #### Stay in Range of Whiterun
-The urge to explore is strong but try to fight it off in the early game. There is plenty to do in Whiterun hold once you’ve reached Riverwood, and that content should get you to Level 10 without too many hitches. A [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) board can be found in Whiterun if you need additional tasks. Bleak Falls Barrow can be handled easily at Level 5, though you may want to wait until you’re closer to Level 10 before tackling Dragon Rising. Also, buy Breezehome. All of the other homes are more expensive and you’ll need someplace reliable to store your valuables until you come into money.
+The urge to explore is strong but try to fight it off in the early game. There is plenty to do in Whiterun Hold once you’ve reached Riverwood, and that content should get you to Level 10 without too many hitches. A [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) board can be found in Whiterun if you need additional tasks. Bleak Falls Barrow can be handled easily by Level 5, though you may want to wait until you’re closer to Level 10 before tackling Dragon Rising. Also, buy Breezehome. All of the other homes are more expensive and you’ll need someplace reliable to store your valuables until you come into money.
 
 ### Mid Game (Level 10 - 30)
 
@@ -122,5 +122,5 @@ Go find yourself a faction (e.g. The Companions) that suits your character and s
 
 ### Late Game (Level 30 - 50)
 
-#### Utilize Crafting, Part Deux
-Seriously, I can’t stress this enough. In the late game you may be dealing with areas that are scaled high above your Level 50 limit, some at that point long before you reach the cap. You’ll need every advantage you can get to bridge the gap, and most of those advantages are obtained through crafting. If you ignored that advice early on, now’s a good time to reconsider it. It might be time to make different equipment sets for different types of enemies, even.
+#### Utilize Crafting
+Seriously, I can’t stress this enough. In the late game you may be dealing with areas that are scaled high above your Level 50 limit, some at that point long before you reach the cap. You’ll need every advantage you can get to bridge the gap, and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. It might be time to make different equipment sets for different types of enemies, even.
