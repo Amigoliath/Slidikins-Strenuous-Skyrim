@@ -94,7 +94,7 @@ With the release of TPF 4.5, Phoenix offered several “addon” modules. These 
 **Compatibility:** Compatible.
 
 ### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
-**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.
+**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.  
 **Compatibility:** This is now included in base TPF and isn't technically a TPF-X Addon.
 
 ### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
@@ -602,7 +602,7 @@ I’ve updated instructions for the following mods:
   - `scripts\`
   - `XPMSE.esp`
 - Deactivate the old **XP32 Maximum Skeleton Special Extended** mod.
-> This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched. In a later update I’ll add the plugin to loadorder.txt for those who use it.
+> This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched.
 
 ### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=filess)
 #### Additional Instructions
