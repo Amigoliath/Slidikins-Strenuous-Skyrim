@@ -1,7 +1,21 @@
-Latest update: **2021-11-18**  
-Compatible with: **The Phoenix Flavour 4.9.4**
+Latest update: **2021-11-23**  
+Compatible with: **The Phoenix Flavour 4.9.5**
 
 # Changelog
+
+## 2021-11-23
+Updated for TPF 4.9.5
+
+#### Mod Installation:
+- **Conflict Resolution:** Moved Survival_ShrineGoldOfferingAmount to the Survival CRP
+- **Conflict Resolution:** Removed edits made to AI Overhaul NPCs (as TPF's CRP handles it now)
+
+#### Wabbajack:
+- (Hopefully) Fixed file paths in packaged BethINI
+- Updated SSE Engine Fixes to 5.8
+- Updated Assorted Mesh Fixes to 0.34.1
+- Updated Masculine Khajiit Textures to 2.0
+- Updated Conner's Curvival Mode to 3.45
 
 ## 2021-11-18
 Updated for TPF 4.9.4
