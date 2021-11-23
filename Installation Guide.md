@@ -22,8 +22,7 @@ In order to obtain these files, you will need to upgrade Skyrim to the current v
 > This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
 
 Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
-- Download [BestofBothWorldPatcher.zip](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and unzip it anywhere
-- Run **Patcher.exe**
+- Download [BestofBothWorldPatcher.exe](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and run it
 - Verify that the Game Location is correct and select **Start Patching**
 - Once it says "Finished Patching, enjoy your game!" you're good to go!
 
