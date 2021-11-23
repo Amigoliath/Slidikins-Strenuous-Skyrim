@@ -15,7 +15,7 @@ Updated for TPF 4.9.5
 - Updated SSE Engine Fixes to 5.8
 - Updated Assorted Mesh Fixes to 0.34.1
 - Updated Masculine Khajiit Textures to 2.0
-- Updated Conner's Curvival Mode to 3.45
+- Updated Conner's Survival Mode to 3.45
 
 ## 2021-11-18
 Updated for TPF 4.9.4
