@@ -1,5 +1,5 @@
-Latest update: **2021-11-23**  
-Compatible with: **The Phoenix Flavour 4.9.5**
+Latest update: **2021-11-24**  
+Compatible with: **The Phoenix Flavour 4.9.6**
 
 # 1. Initial Setup
 
@@ -241,17 +241,14 @@ I’ve added the following mods to this section:
 
 ### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
 #### Download Instructions
-- **Old Files:** Simple Activate SKSE (v1.0)
-- **Main Files:** Simple Activate SKSE » `merge with the old file`
+- **Main Files:** Simple Activate SKSE - SE
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
-- In **Line 28**, change `Show Indicator Using Name =` to `false`.
-- In **Line 40**, change `Custom Indicator Color =` to `#808080`.
-- In **Line 46**, change `Hide Locked Tag =` to `true`.
-- In **Line 62**, change `Hide Empty Tag =` to `true`.
-- In **Line 69**, change `Show Indicator Using Name =` to `true`.
+- In **Line 64**, change `Show Indicator Using Name =` to `false`.
+- In **Line 76**, change `Custom Indicator Color =` to `#808080`.
+- In **Line 82**, change `Hide Locked Tag =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.5 Graphics Baseline
