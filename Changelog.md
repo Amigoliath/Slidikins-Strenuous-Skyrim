@@ -1,7 +1,25 @@
-Latest update: **2021-11-23**  
-Compatible with: **The Phoenix Flavour 4.9.5**
+Latest update: **2021-11-24**  
+Compatible with: **The Phoenix Flavour 4.9.6**
 
 # Changelog
+
+## 2021-11-24
+Updated for TPF 4.9.6
+
+#### Mod Installation:
+- **Interface:** Updated instructions for Simple Activate SKSE
+- **Trees & Plants:** Deleted `meshes\landscape\trees\treepineforestuprootedstump01sn.nif` from Enhanced Vanilla Trees
+
+#### Wabbajack:
+- Updated SSE Engine Fixes to 5.8.2
+- Updated SSE Display Tweaks to 0.5.3b
+- Updated powerofthree's Tweaks to 1.4.1
+- Updated Equip Enchantment Fix to 1.3.3
+- Updated Simple Activate SKSE to 1.2
+- Updated DynDOLOD Resources to Alpha-16
+- Updated Remember Lockpick Angle to 3.1
+- Updated Simple Dual Sheath to 1.5.1
+- Updated DynDOLOD to Alpha-56
 
 ## 2021-11-23
 Updated for TPF 4.9.5
