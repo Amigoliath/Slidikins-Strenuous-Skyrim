@@ -72,7 +72,7 @@ If the issue persists, find the **#sss-support** channel on the [TPF Discord](ht
 Now you can see the full setup: The mod order is on the left, likely sorted below separators that may be collapsed by default, and the load order with all plugins on the right. Above the load order (in the right pane), you can see the executables drop-down. **Slidikins' Strenuous Skyrim** should already be selected here, so you can start the game by clicking **RUN**.
 
 ## Final Configurations
-No additional configuration should be required, but all configuration changes have been noted in the [Installation Guide](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
+No additional configuration should be required, but all configuration changes have been noted in the [Installation Guide](Installation%20Guide.md#5-configuration). MCM Configurations have been pre-configured for your convenience.
 
 #### Notable Control Changes
 
@@ -86,5 +86,9 @@ No additional configuration should be required, but all configuration changes ha
 **Favorite Groups 1-4:** `9`,`0`, `-`, and `=`
 
 > _SkyUI_'s favorite groups do not work well in SSS. This is because _Item Durability_ changes the name of your equipment often which will break the group. I do not recommend using favorite groups for this reason, but their buttons have been reassigned here.
+
+### Gameplay Guide
+
+I've also written a [Gameplay Guide](Gameplay%20Guide.md) to highlight some of the major differences between vanilla Skyrim and SSS. It obviously does not cover every change, but my hope is that it covers enough for a seamless transition into the game.
 
 Have fun!
