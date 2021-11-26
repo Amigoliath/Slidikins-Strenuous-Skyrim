@@ -365,13 +365,9 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
-### [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
+### [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374?tab=files)
 #### Download Instructions
-- **Main Files:** Conner’s Survival Mode
-
-### [The Phoenix Flavour - Conner's Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
-#### Download Instructions
-- **Main Files:** The Phoenix Flavour - Conner's Survival Mode Patch
+- **Main Files:** Survival Mode Improved
 
 ### [Slidikins' Strenuous Skyrim - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
@@ -384,16 +380,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mods to this section:
 
-### [Conner's Survival Mode - Apothecary Food Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19152?tab=files)
+### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
-- **Optional Files:** Optional 00 - Apothecary Food Patch
-
-### [Apothecary - Food Duration Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
-#### Download Instructions
-- **Optional Files:** Apothecary - Food Duration Tweaks
-
-#### Additional Instructions
-- ESL-ify **Apothecary - Food Duration Tweaks.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
+- **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
 
 ### [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
 #### Download Instructions
