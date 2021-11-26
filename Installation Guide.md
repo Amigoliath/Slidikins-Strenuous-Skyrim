@@ -1,4 +1,4 @@
-Latest update: **2021-11-24**  
+Latest update: **2021-11-26**  
 Compatible with: **The Phoenix Flavour 4.9.6**
 
 # 1. Initial Setup
@@ -120,8 +120,6 @@ I’ve updated instructions for the following mod:
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
 - In **Line 72, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
-- In **Line 90**, change `Load Door Activate Prompt =` to `2`.
-- In **Line 92**, change `Exit Label =` to `Leave`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ## 3.3 Tweaks
@@ -246,7 +244,6 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
-- In **Line 22**, change `Hide Text =` to `false`.
 - In **Line 64**, change `Show Indicator Using Name =` to `false`.
 - In **Line 76**, change `Custom Indicator Color =` to `#808080`.
 - In **Line 82**, change `Hide Locked Tag =` to `true`.
@@ -738,12 +735,6 @@ All controls changed from the Default:
 - **Settings** Panel
   - **Weather** Section
     - Seasonal Perspective: `Enabled`
-
-### Conner’s Survival Mode
-- **General** Panel
-  - **Quality of Life** Section
-    - Shrine Gold Cost: `Freeeee`
-    - Enable Health Regen: `Disabled`
 
 ### Dynamic Timescale
 - **AutoSave** Section
