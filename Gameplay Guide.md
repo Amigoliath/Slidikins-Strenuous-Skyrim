@@ -23,7 +23,7 @@ In general, expect the game to tell you far less information, leaving you to inf
 This list expects you to enable [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) when prompted at the end of the tutorial sequence and to deal with its mechanics, specifically *eating*, *sleeping*, and *keeping warm*.
 
 ### Hunger
-Fuel for your adventurer, food will be a near-constant concern on your journey. Neglecting to eat will lower your maximum Stamina and slow the recovery of both Stamina and Magicka, and eventually affect your physical prowess. Luckily, food is somewhat abundant in Skyrim if you know where to look.
+Fuel for your adventurer, food will be a near-constant concern on your journey. Neglecting to eat will lower your maximum Stamina, slow your Magicka recovery, and eventually affect your physical prowess. Luckily, food is somewhat abundant in Skyrim if you know where to look.
 
 - Fruits and vegetables are commonly found in barrels all around the region.  
 - Hunt wild animals for meat if you prefer protein in your diet, or utilize [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing) to source from the rivers of Skyrim.  
@@ -32,7 +32,7 @@ Fuel for your adventurer, food will be a near-constant concern on your journey. 
 - If you have a heavy coin pouch, you can simply buy ingredients or fully cooked meals from vendors to save yourself time.
 
 ### Fatigue
-Soon after being left to your own devices you will find yourself being Lethargic or Tired and in need of sleep. Several options are available to you, though you may want to act fast before the penalties to your maximum Magicka make it harder to fight effectively.
+Soon after being left to your own devices you will find yourself being Lethargic or Tired and in need of sleep. Several options are available to you, though you may want to act fast before the penalties to your maximum Magicka and Stamina recovery make it harder to fight effectively. Your experience rate will also drop when you are fatigued, and improve when you're rested.
 
 - A multitude of bedrolls are scattered around Skyrim. You won't wake up Well Rested, but it's free.  
 - Sleeping in town is another option. However, the cost of an inn depends on the location and there's a 33% chance each night that the rooms are all booked up.  
@@ -53,7 +53,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 - Imperial Septims can't be found in places where it wouldn't make sense. You'll find foreign currency in their place instead. Picking these up will auto-convert to Septims at various exchange rates thanks to [C.O.I.N.](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
 #### Additional Reading
-- [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152)  
+- [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)  
 - [Apothecary Food and Drink Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=description)
 
 
