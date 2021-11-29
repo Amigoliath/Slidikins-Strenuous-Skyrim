@@ -1,9 +1,35 @@
-Latest update: **2021-11-24**  
+Latest update: **2021-11-28**  
 Compatible with: **The Phoenix Flavour 4.9.6**
 
 # Changelog
 
-## 2021-11-24
+## 2021-11-28 (4.9.6.1)
+#### Mod Installation
+- **Fixes:** Updated instructions for powerofthree's Tweaks
+- **Interface:** Updated instructions for Simple Activate SKSE
+- **Gameplay Overhauls:** Removed Conner's Survival Mode
+- **Gameplay Overhauls:** Removed The Phoenix Flavour - Conner's Survival Mode Patch
+- **Gameplay Overhauls:** Added Survival Mode Improved
+- **Loot & Crafting:** Removed Conner's Survival Mode - Apothecary Food Patch
+- **Loot & Crafting:** Removed Apothecary - Food Duration Tweaks
+- **Loot & Crafting:** Added Apothecary - Food and Drink Addon - Survival Mode Patch
+- **Survival Conflict Resolution:** Forwarded Survival keywords to several armors
+- **Survival Conflict Resolution:** Adjusted Salmon's `xx00089B` Restore Hunger level to match cooked versions
+- **Configuration & Runtime Files:** Removed Conner's Survival Mode edit
+
+#### Wabbajack
+- Switched to uncleaned ESM files
+- Separated Creation Club content into separate folders
+- Updated SSE Display Tweaks to 0.5.4b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.6
+- Updated Assorted Mesh Fixes to 0.35
+- Updated Conner's Survival Mode - Apothecary Food Patch to 1.10
+- Updated Classic Paralysis to 3.2
+- Updated Essential Favorites to 2.2
+- Updated SmoothCam to 1.6.1
+
+
+## 2021-11-24 (4.9.6)
 Updated for TPF 4.9.6
 
 #### Mod Installation:
