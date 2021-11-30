@@ -111,7 +111,12 @@ With the release of TPF 4.5, Phoenix offered several “addon” modules. These 
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
 
 ## 3.2 Fixes
-I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/)
+I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
+
+I’ve added the following mod to this section:
+### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+#### Download Instructions
+- **Main Files:** MfgFix
 
 I’ve updated instructions for the following mod:
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
@@ -647,9 +652,9 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** EVG Conditional Idles
 
-### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177?tab=files)
+### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
-- **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+- **Main Files:** Conditional Expressions
 
 ### [Ice Skating Fixed For Real](https://www.nexusmods.com/skyrimspecialedition/mods/55417?tab=files)
 #### Download Instructions
