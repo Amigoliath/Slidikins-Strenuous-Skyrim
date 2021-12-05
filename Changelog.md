@@ -28,6 +28,7 @@ Compatible with: **The Phoenix Flavour 4.9.6**
 - Updated Draw 2 - Dual Weapon Equip-Unequip Animations to 1.6
 - Updated powerofthree's Papyrus Extended to 4.5.5
 - Updated Spell Perk Item Distributor to 5.2.0
+- Updated ENBSeries to 4.9.6.2
 
 ## 2021-11-28 (4.9.6.1)
 #### Mod Installation
