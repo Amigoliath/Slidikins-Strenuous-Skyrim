@@ -1,7 +1,33 @@
-Latest update: **2021-11-28**  
+Latest update: **2021-12-05**  
 Compatible with: **The Phoenix Flavour 4.9.6**
 
 # Changelog
+
+## 2021-12-05 (4.9.6.2)
+#### Mod Installation
+- **Fixes:** Added MFG Fix
+- **Visual FX:** Adjusted instructions for Enhanced Blood Textures
+- **Loot & Crafting:** Added Curated Curios
+- **Miscellaneous:** Removed Inns Can Be Closed
+- **Miscellaneous:** Added Sleeping Expanded - Animations and NPC Reactions
+- **Skeleton & Animations:** Removed First Person Combat Animations Overhaul
+- **Skeleton & Animations:** Added Conditional Expressions
+- **Conflict Resolution:** Removed Inns Can Be Closed edits
+- **Conflict Resolution:** Added several edits to incorporate Curated Curios
+
+#### Wabbajack
+- Updated SSE Display Tweaks to 0.5.5b
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.7
+- Updated Assorted Mesh Fixes to 0.35.1
+- Updated Enhanced Blood Textures to 4.0 Beta 4
+- Updated Realistic Water Two to 5.2.1
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.1.4
+- Updated Follower Trap Safety to 1.4
+- Updated Enhanced Reanimation to 1.4
+- Updated Vampires Cast No Shadows to 1.1
+- Updated Draw 2 - Dual Weapon Equip-Unequip Animations to 1.6
+- Updated powerofthree's Papyrus Extended to 4.5.5
+- Updated Spell Perk Item Distributor to 5.2.0
 
 ## 2021-11-28 (4.9.6.1)
 #### Mod Installation
