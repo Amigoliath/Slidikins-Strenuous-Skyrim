@@ -1,4 +1,4 @@
-Latest update: **2021-11-26**  
+Latest update: **2021-12-05**  
 Compatible with: **The Phoenix Flavour 4.9.6**
 
 # 1. Initial Setup
@@ -111,7 +111,12 @@ With the release of TPF 4.5, Phoenix offered several “addon” modules. These 
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
 
 ## 3.2 Fixes
-I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/)
+I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
+
+I’ve added the following mod to this section:
+### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+#### Download Instructions
+- **Main Files:** MfgFix
 
 I’ve updated instructions for the following mod:
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
@@ -272,7 +277,8 @@ I've changed the instructions for the following mod:
 - <s>**Compatibility Patch:** Immersive Creatures</s>
 - **Blood Size:** Default Splatter Size
 - **Wounds (Optional):** Reduced Wound Size (Optional)
-- **Screen Blood:** EBT - Default
+- **Drips (Optional):** Default
+- **Screen Blood:** Default
 - **Resolution and Color:** Reduced Res / Default Color
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
@@ -410,6 +416,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Apothecary - Rare Curios Patch
 
+### [Curated Curios](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files)
+#### Download Instructions
+- **Main Files:** Conveyed Curios
+
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
 - **Main Files:** C.O.I.N.
@@ -499,10 +509,6 @@ I’ve added the following mod to this section:
 - Switch to the **Filetree** tab and rename the plugin:
   - CoherentInnsPrices.esl » CoherentInnsPrices.esp
 
-### [Inns Can Be Closed](https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=files)
-#### Download Instructions
-- **Main Files:** Inns Can Be Closed
-
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
 - **Main Files:** Dynamic Mercenary Fees
@@ -514,6 +520,10 @@ I’ve added the following mod to this section:
 ### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450?tab=files)
 #### Download Instructions
 - **Main Files:** Sensible Bribes
+
+### [Sleeping Expanded - Animations and NPC Reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250?tab=files)
+#### Download Instructions
+- **Main Files:** Sleeping Expanded
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
@@ -647,9 +657,9 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** EVG Conditional Idles
 
-### [First Person Combat Animations Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45177?tab=files)
+### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
-- **Main Files:** FPCAO2 - SIZE MATTERS SE ALL-IN-ONE 2.01
+- **Main Files:** Conditional Expressions
 
 ### [Ice Skating Fixed For Real](https://www.nexusmods.com/skyrimspecialedition/mods/55417?tab=files)
 #### Download Instructions
