@@ -277,7 +277,8 @@ I've changed the instructions for the following mod:
 - <s>**Compatibility Patch:** Immersive Creatures</s>
 - **Blood Size:** Default Splatter Size
 - **Wounds (Optional):** Reduced Wound Size (Optional)
-- **Screen Blood:** EBT - Default
+- **Drips (Optional):** Default
+- **Screen Blood:** Default
 - **Resolution and Color:** Reduced Res / Default Color
 - **Alt. Blood Textures (Optional):** Reduced Res / Default Color
 
@@ -415,6 +416,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Apothecary - Rare Curios Patch
 
+### [Curated Curios](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files)
+#### Download Instructions
+- **Main Files:** Conveyed Curios
+
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
 - **Main Files:** C.O.I.N.
@@ -504,10 +509,6 @@ I’ve added the following mod to this section:
 - Switch to the **Filetree** tab and rename the plugin:
   - CoherentInnsPrices.esl » CoherentInnsPrices.esp
 
-### [Inns Can Be Closed](https://www.nexusmods.com/skyrimspecialedition/mods/57407?tab=files)
-#### Download Instructions
-- **Main Files:** Inns Can Be Closed
-
 ### [Dynamic Mercenary Fees](https://www.nexusmods.com/skyrimspecialedition/mods/45677?tab=files)
 #### Download Instructions
 - **Main Files:** Dynamic Mercenary Fees
@@ -519,6 +520,10 @@ I’ve added the following mod to this section:
 ### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450?tab=files)
 #### Download Instructions
 - **Main Files:** Sensible Bribes
+
+### [Sleeping Expanded - Animations and NPC Reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250?tab=files)
+#### Download Instructions
+- **Main Files:** Sleeping Expanded
 
 ## 3.27 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
