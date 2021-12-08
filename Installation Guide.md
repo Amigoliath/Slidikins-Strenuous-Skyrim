@@ -1,4 +1,4 @@
-Latest update: **2021-12-05**  
+Latest update: **2021-12-08**  
 Compatible with: **The Phoenix Flavour 4.9.6**
 
 # 1. Initial Setup
@@ -500,6 +500,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 I’ve added the following mod to this section:
 
+### [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files)
+#### Download Instructions
+- **Main Files:** Security Overhaul SKSE - Add-ons
+
+#### FOMOD Instructions
+- **Main:** 2K Textures
+
 ### [Coherent Inns Prices](https://www.nexusmods.com/skyrimspecialedition/mods/55207?tab=files)
 #### Download Instructions
 - **Main Files:** Coherent Inns Prices
@@ -588,14 +595,20 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I’ve updated instructions for the following mods:
 
 ### [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/#xp32-maximum-skeleton-special-extended-xpmssehttpswwwnexusmodscomskyrimspecialeditionmods1988tabfiles)
-#### Additional Instructions
-- Reinstall the mod under the name **XP32 Maximum Skeleton Special Extended - Skeletons Only**
-- Place **XP32 Maximum Skeleton Special Extended - Skeletons Only** right below the original in the **SKELETONS & ANIMATIONS** section.
-- Delete the following file(s) and / or folder(s) from the new mod:
-  - `interface\`
-  - `scripts\`
-  - `XPMSE.esp`
-- Deactivate the old **XP32 Maximum Skeleton Special Extended** mod.
+#### FOMOD Instructions
+- **Animation Rig Map:** No Physics
+- **Character Creation:** None
+- **Weapon Style Randomizer for NPCs:** None
+- **Animation Variants:** *leave everything on None*
+- **First Person Animation - Axes:** <s>Axes on Back</s>
+- **First Person Animation - Swords:** None
+- **Mounted Combat Animation - Axes:** <s>Axes on Back</s>
+- **Mounted Combat Animation - Bow:** <s>Belt-Fastened Quiver</s>
+- **Mounted Combat Animation - Sword:** None
+- **The Joy of Perspective:** None
+- **Schlongs of Skyrim:** None » `defaults to SOS, set to None`
+- **Deadly Mutilation:** None
+- **Enderal:** None
 > This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched.
 
 ### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=filess)
