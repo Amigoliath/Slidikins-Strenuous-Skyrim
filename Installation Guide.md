@@ -230,7 +230,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
 - Go to the **Downloads** tab and double-click the mod to install it as usual.
-- I recommend renaming it simply to **NORDIC UI - Hand to Hand Patch** after the installation.
+- I recommend renaming it to **NORDIC UI - Hand to Hand Patch** after the installation.
 
 ### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
