@@ -215,11 +215,7 @@ I’ve added the following mods to this section:
 ### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
 #### Download Instructions
 - **Main Files:** NORDIC UI - Miscellaneous Patches
-
-### Nordic UI - Hand to Hand Patch
-#### Download Instructions
-- Unfortunately only available via Wabbajack CDN at the moment. It'll be pinned in the `#sss-support` channel on the [Discord](https://discord.gg/xCPxJFbCTS).
-
+- 
 #### FOMOD Instructions
 - **moreHUD Inventory:** None
 - **Stat Screen Colored Icons:** None
@@ -229,6 +225,12 @@ I’ve added the following mods to this section:
 - **Remove QuickSave from System Menu:** Install
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
+
+### [Nordic UI - Hand to Hand Patch](https://drive.google.com/file/d/1RALGOxzWtjKiF8n36lsmpSHd-OzH5_pY/view?usp=sharing)
+#### Download Instructions
+- Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- Go to the **Downloads** tab and double-click the mod to install it as usual.
+- I recommend renaming it simply to **NORDIC UI - Hand to Hand Patch** after the installation.
 
 ### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
