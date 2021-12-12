@@ -1,7 +1,36 @@
-Latest update: **2021-12-05**  
-Compatible with: **The Phoenix Flavour 4.9.6**
+Latest update: **2021-12-12**  
+Compatible with: **The Phoenix Flavour 4.10.0**
 
 # Changelog
+
+## 2021-12-12 (4.10.0)
+Updated for [TPF 4.10.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.10.0)
+#### Mod Installation
+- **Interface:** Added NORDIC UI - Hand to Hand Patch
+- **Combat & Encounters:** Noted exclusion of Dragon War - Easier Health Modifiers
+- **Miscellaneous:** Added Security Overhaul SKSE - Add-ons
+- **Skeletons & Animations:** Simplified instructions for XP32 Maximum Skeleton Special Extended (XPMSSE)
+- **Conflict Resolution:** Carried over Hand to Hand changes for merhcant caravan chests
+- **Conflict Resolution:** Carried over a few more Thaumaturgy items into Open World Loot's leveled lists
+
+#### Wabbajack
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.8
+- Updated Assorted Mesh Fixes to 0.36
+- Updated Charge Dialogue Fix to 1.3
+- Updated Adamant - A Perk Overhaul to 5.3.3
+- Updated Aetherius - A Race Overhaul to 2.7.1
+- Updated Manbeast - A Werewolf Overhaul to 1.2.1
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.5
+- Updated Pilgrim - A Religion Overhaul to 1.0.10.1
+- Updated Survival Mode Improved to 1.2.3
+- Updated Armor and Clothing Extension to 1.3
+- Updated Open World Loot - AVL Iron and Steel Addon to 1.4.3
+- Updated Apothecary - An Alchemy Overhaul to 1.2.2
+- Updated The Choice is Yours to 2.3 (These changes are overwritten by TPF's current Conflict Resolution Patch)
+- Updated Sleeping Expanded to 1.10
+- Updated Keyword Item Distributor to 1.3.1
+- Updated DynDOLOD to Alpha-57
+- Updated SSE NIF Optimizer to 3.1.0
 
 ## 2021-12-05 (4.9.6.2)
 #### Mod Installation

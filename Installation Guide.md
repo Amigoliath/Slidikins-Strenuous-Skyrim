@@ -1,5 +1,5 @@
-Latest update: **2021-12-05**  
-Compatible with: **The Phoenix Flavour 4.9.6**
+Latest update: **2021-12-12**  
+Compatible with: **The Phoenix Flavour 4.10.0
 
 # 1. Initial Setup
 
@@ -215,7 +215,7 @@ I’ve added the following mods to this section:
 ### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
 #### Download Instructions
 - **Main Files:** NORDIC UI - Miscellaneous Patches
-
+- 
 #### FOMOD Instructions
 - **moreHUD Inventory:** None
 - **Stat Screen Colored Icons:** None
@@ -225,6 +225,12 @@ I’ve added the following mods to this section:
 - **Remove QuickSave from System Menu:** Install
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
+
+### [Nordic UI - Hand to Hand Patch](https://drive.google.com/file/d/1RALGOxzWtjKiF8n36lsmpSHd-OzH5_pY/view?usp=sharing)
+#### Download Instructions
+- Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
+- Go to the **Downloads** tab and double-click the mod to install it as usual.
+- I recommend renaming it to **NORDIC UI - Hand to Hand Patch** after the installation.
 
 ### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
@@ -476,6 +482,7 @@ I’ve added the following mods to this section:
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
+**Dragon War - Easier Health Modifiers** - Ditto
 
 I’ve added the following mods to this section:
 
@@ -499,6 +506,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
 
 I’ve added the following mod to this section:
+
+### [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files)
+#### Download Instructions
+- **Main Files:** Security Overhaul SKSE - Add-ons
+
+#### FOMOD Instructions
+- **Main:** 2K Textures
 
 ### [Coherent Inns Prices](https://www.nexusmods.com/skyrimspecialedition/mods/55207?tab=files)
 #### Download Instructions
@@ -588,14 +602,20 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I’ve updated instructions for the following mods:
 
 ### [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/#xp32-maximum-skeleton-special-extended-xpmssehttpswwwnexusmodscomskyrimspecialeditionmods1988tabfiles)
-#### Additional Instructions
-- Reinstall the mod under the name **XP32 Maximum Skeleton Special Extended - Skeletons Only**
-- Place **XP32 Maximum Skeleton Special Extended - Skeletons Only** right below the original in the **SKELETONS & ANIMATIONS** section.
-- Delete the following file(s) and / or folder(s) from the new mod:
-  - `interface\`
-  - `scripts\`
-  - `XPMSE.esp`
-- Deactivate the old **XP32 Maximum Skeleton Special Extended** mod.
+#### FOMOD Instructions
+- **Animation Rig Map:** No Physics
+- **Character Creation:** None
+- **Weapon Style Randomizer for NPCs:** None
+- **Animation Variants:** *leave everything on None*
+- **First Person Animation - Axes:** <s>Axes on Back</s>
+- **First Person Animation - Swords:** None
+- **Mounted Combat Animation - Axes:** <s>Axes on Back</s>
+- **Mounted Combat Animation - Bow:** <s>Belt-Fastened Quiver</s>
+- **Mounted Combat Animation - Sword:** None
+- **The Joy of Perspective:** None
+- **Schlongs of Skyrim:** None » `defaults to SOS, set to None`
+- **Deadly Mutilation:** None
+- **Enderal:** None
 > This is mainly a change to allow for the removal of RaceMenu but it’s a chance I’d make regardless as I don’t utilize XPMSSE to its full extent. If you want to change weapon positions and all that, you can leave this untouched.
 
 ### [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=filess)
