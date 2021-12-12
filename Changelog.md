@@ -10,7 +10,7 @@ Updated for [TPF 4.10.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - **Combat & Encounters:** Noted exclusion of Dragon War - Easier Health Modifiers
 - **Miscellaneous:** Added Security Overhaul SKSE - Add-ons
 - **Skeletons & Animations:** Simplified instructions for XP32 Maximum Skeleton Special Extended (XPMSSE)
-- **Conflict Resolution:** Carried over Hand to Hand changes for merhcant caravan chests
+- **Conflict Resolution:** Carried over Hand to Hand changes for merchant caravan chests
 - **Conflict Resolution:** Carried over a few more Thaumaturgy items into Open World Loot's leveled lists
 
 #### Wabbajack
