@@ -216,6 +216,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** NORDIC UI - Miscellaneous Patches
 
+### Nordic UI - Hand to Hand Patch
+#### Download Instructions
+- Unfortunately only available via Wabbajack CDN at the moment. It'll be pinned in the `#sss-support` channel on the [Discord](https://discord.gg/xCPxJFbCTS).
+
 #### FOMOD Instructions
 - **moreHUD Inventory:** None
 - **Stat Screen Colored Icons:** None
@@ -476,6 +480,7 @@ I’ve added the following mods to this section:
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
+**Dragon War - Easier Health Modifiers** - Ditto
 
 I’ve added the following mods to this section:
 
