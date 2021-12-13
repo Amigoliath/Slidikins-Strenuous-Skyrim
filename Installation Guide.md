@@ -226,11 +226,9 @@ I’ve added the following mods to this section:
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [Nordic UI - Hand to Hand Patch](https://drive.google.com/file/d/1RALGOxzWtjKiF8n36lsmpSHd-OzH5_pY/view?usp=sharing)
+### [Nordic UI - Hand to Hand Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
 #### Download Instructions
-- Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- Go to the **Downloads** tab and double-click the mod to install it as usual.
-- I recommend renaming it to **NORDIC UI - Hand to Hand Patch** after the installation.
+- **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
 
 ### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
