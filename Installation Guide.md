@@ -113,11 +113,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.2 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
 
-I’ve added the following mod to this section:
-### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
-#### Download Instructions
-- **Main Files:** MfgFix
-
 I’ve updated instructions for the following mod:
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
 #### Additional Instructions
@@ -126,6 +121,15 @@ I’ve updated instructions for the following mod:
 - In **Line 72, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
+
+I’ve added the following mods to this section:
+### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+#### Download Instructions
+- **Main Files:** MfgFix
+
+### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=filess)
+#### Download Instructions
+- **Main Files:** Spiders of Solstheim - Transparency Fix
 
 ## 3.3 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
