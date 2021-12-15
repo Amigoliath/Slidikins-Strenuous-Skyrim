@@ -1,5 +1,5 @@
-Latest update: **2021-12-12**  
-Compatible with: **The Phoenix Flavour 4.10.0
+Latest update: **2021-12-15**  
+Compatible with: **The Phoenix Flavour 4.10.1**
 
 # 1. Initial Setup
 
@@ -113,11 +113,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.2 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
 
-I’ve added the following mod to this section:
-### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
-#### Download Instructions
-- **Main Files:** MfgFix
-
 I’ve updated instructions for the following mod:
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
 #### Additional Instructions
@@ -126,6 +121,15 @@ I’ve updated instructions for the following mod:
 - In **Line 72, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
+
+I’ve added the following mods to this section:
+### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+#### Download Instructions
+- **Main Files:** MfgFix
+
+### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=filess)
+#### Download Instructions
+- **Main Files:** Spiders of Solstheim - Transparency Fix
 
 ## 3.3 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
@@ -226,11 +230,9 @@ I’ve added the following mods to this section:
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [Nordic UI - Hand to Hand Patch](https://drive.google.com/file/d/1RALGOxzWtjKiF8n36lsmpSHd-OzH5_pY/view?usp=sharing)
+### [Nordic UI - Hand to Hand Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
 #### Download Instructions
-- Download the archive from Google Drive and move it manually to `Your Modding Folder\ARCHIVE\MO2 Downloads`.
-- Go to the **Downloads** tab and double-click the mod to install it as usual.
-- I recommend renaming it to **NORDIC UI - Hand to Hand Patch** after the installation.
+- **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
 
 ### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
 #### Download Instructions
