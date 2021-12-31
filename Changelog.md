@@ -6,36 +6,36 @@ Compatible with: **The Phoenix Flavour 4.10.1**
 ## 2021-12-15 (4.10.1)
 Updated for [TPF 4.10.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.10.1)
 #### Mod Installation
-**Fixes:** Added Spiders of Solstheim - Transparency Fix
-**Interface:** Removed NORDIC UI - Hand to Hand Patch (Google Drive)
-**Interface:** Added NORDIC UI - Hand to Hand Consistency Patch (Nexus)
+- **Fixes:** Added Spiders of Solstheim - Transparency Fix  
+- **Interface:** Removed NORDIC UI - Hand to Hand Patch (Google Drive)  
+- **Interface:** Added NORDIC UI - Hand to Hand Consistency Patch (Nexus)  
 
 #### Wabbajack
-- Updated Master files to Skyrim SE 1.6.342
-- Updated SSE Display Tweaks to 0.5.7beta
-- Updated Assorted Mesh Fixes to 0.37
-- Updated Storm Lightning to 1.4.13
-- Updated Enhanced Blood Textures to 4.0
-- Updated Adamant - Hand to Hand Addon to 1.0.1
-- Updated Adamant - Hand to Hand - Trainers and Skill Books Addon to 1.0.1
-- Updated Apothecary - An Alchemy Overhaul to 1.2.3
-- Updated Follower Trap Safety to 1.4
-- Updated Skyrim Uncapper - Slidikins' Strenuous Skyrim to 2.11 (New versioning system)
-- Updated Security Overhaul SKSE - Add-ons to 0.1.2
-- Switched Nemesis Unlimited Behavior Engine to its Nexus link
-- Updated Unequip Quiver to 1.7
-- Updated DynDOLOD to Alpha-58
+- Updated Master files to Skyrim SE 1.6.342  
+- Updated SSE Display Tweaks to 0.5.7beta  
+- Updated Assorted Mesh Fixes to 0.37  
+- Updated Storm Lightning to 1.4.13  
+- Updated Enhanced Blood Textures to 4.0  
+- Updated Adamant - Hand to Hand Addon to 1.0.1  
+- Updated Adamant - Hand to Hand - Trainers and Skill Books Addon to 1.0.1  
+- Updated Apothecary - An Alchemy Overhaul to 1.2.3  
+- Updated Follower Trap Safety to 1.4  
+- Updated Skyrim Uncapper - Slidikins' Strenuous Skyrim to 2.11 (New versioning system)  
+- Updated Security Overhaul SKSE - Add-ons to 0.1.2  
+- Switched Nemesis Unlimited Behavior Engine to its Nexus link  
+- Updated Unequip Quiver to 1.7  
+- Updated DynDOLOD to Alpha-58  
 
 
 ## 2021-12-12 (4.10.0)
 Updated for [TPF 4.10.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.10.0)
 #### Mod Installation
-- **Interface:** Added NORDIC UI - Hand to Hand Patch
-- **Combat & Encounters:** Noted exclusion of Dragon War - Easier Health Modifiers
-- **Miscellaneous:** Added Security Overhaul SKSE - Add-ons
-- **Skeletons & Animations:** Simplified instructions for XP32 Maximum Skeleton Special Extended (XPMSSE)
-- **Conflict Resolution:** Carried over Hand to Hand changes for merchant caravan chests
-- **Conflict Resolution:** Carried over a few more Thaumaturgy items into Open World Loot's leveled lists
+- **Interface:** Added NORDIC UI - Hand to Hand Patch  
+- **Combat & Encounters:** Noted exclusion of Dragon War - Easier Health Modifiers  
+- **Miscellaneous:** Added Security Overhaul SKSE - Add-ons  
+- **Skeletons & Animations:** Simplified instructions for XP32 Maximum Skeleton Special Extended (XPMSSE)  
+- **Conflict Resolution:** Carried over Hand to Hand changes for merchant caravan chests  
+- **Conflict Resolution:** Carried over a few more Thaumaturgy items into Open World Loot's leveled lists  
 
 #### Wabbajack
 - Updated Weapons Armor Clothing and Clutter Fixes to 2.8
