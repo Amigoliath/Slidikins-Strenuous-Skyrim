@@ -1,5 +1,5 @@
-Latest update: **2021-12-15**  
-Compatible with: **The Phoenix Flavour 4.10.1**
+Latest update: **2022-01-09**  
+Compatible with: **The Phoenix Flavour 4.11.0**
 
 # 1. Initial Setup
 
@@ -407,10 +407,9 @@ I’ve added the following mods to this section:
 - In **Line 250**, change `ApplyToNPC =` to `True`
 > The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers won't be 100% accurate for negative values due to how Skyrim calculates the condition.
 
-### [Honed Metal Updated](https://www.nexusmods.com/skyrimspecialedition/mods/51254?tab=files)
+### [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015?tab=files)
 #### Download Instructions
-- **Main Files:** Honed Metal SSE Updated
-- **Update Files:** Honed Metal 1.21 Hotfix » `merge with the first file`
+- **Main Files:** Honed Metal SSE
 
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
@@ -484,7 +483,6 @@ I’ve added the following mods to this section:
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
-**Dragon War - Easier Health Modifiers** - Ditto
 
 I’ve added the following mods to this section:
 
@@ -648,12 +646,6 @@ I’ve added the following mods to this section:
 ### [Draw 2 - Dual Weapon Equip-Unequip Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45579?tab=files)
 #### Download Instructions
 - **Main Files:** Draw 2
-
-#### Additional Instructions
-- Delete the following file(s) and / or folder(s):
-  - `Draw2.achlist`
-  - `Draw2.bsa`
-  - `Draw2.esp`
 
 ### [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534?tab=files)
 #### Download Instructions
