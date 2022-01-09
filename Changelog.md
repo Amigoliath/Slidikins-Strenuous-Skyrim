@@ -1,7 +1,46 @@
-Latest update: **2021-12-15**  
-Compatible with: **The Phoenix Flavour 4.10.1**
+Latest update: **2022-01-09**  
+Compatible with: **The Phoenix Flavour 4.11.0**
 
 # Changelog
+
+## 2022-01-09 (4.11.0)
+Updated for [TPF 4.11.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.0)
+
+#### Mod Installation
+- **Tress & Plants:** Added Uprooted Stump Fix for Basic and Lush
+- **Loot & Crafting:** Replaced Honed Metal Updated with Honed Metal
+- **Combat & Encounters:** Removed mention of Dragon War - Easier Health Modifiers
+- **Skeletons & Animations:** Removed additional instructions for Draw 2
+- **Conflict Resolution:** Removed edit to `hm_mod` script as it's no longer needed
+- **Conflict Resolution:** Forwarded existing edits to `hm_actor` script
+- **Conflict Resolution:** Forwarded existing edits to HM_Quest `xx0012D1`
+	
+#### Wabbajack
+- Updated Mod Organizer 2 to 2.4.4
+- Updated DynDOLOD to 3.00 Alpha-60
+- Updated SSE Display Tweaks to 0.5.9
+- Updated Assorted Mesh Fixes to 0.41.1
+- Updated DynDOLOD Resources to 3.00 Alpha-17
+- Updated Ruins Clutter Improved to 3.2b
+- Updated Storm Lightning to 1.4.14
+- Updated Deadly Spell Impacts - Transparency Fix for ENB to 3.1
+- Updated ENB Lights for Effect Shaders to 2.0
+- Updated Unique Solstheim Grass to 1.1
+- Updated Better Windhelm Ground Meshes to 1.3.3
+- Updated WiZkiD Carriages to 1.3
+- Updated Deiform Alduin to 1.2
+- Updated Feminine Khajiit Textures to 3.1a
+- Updated Adamant - A Perk Overhaul to 5.3.5
+- Updated Adamant - Hand to Hand Addon to 1.1.1
+- Updated Adamant - Hand to Hand - Book Covers Skyrim Patch to 1.0.2
+- Updated Adamant - Hand to Hand - Trainers and Skill Books Addon to 1.0.4
+- Updated Survival Mode Improved to 1.2.5
+- Updated Simple Smithing Overhaul to 1.2
+- Updated Honed Metal Revoiced to 1.7
+- Updated Guard Dialogue Overhaul to 2.18
+- Updated Security Overhaul SKSE - Lock Variations to 2.1
+- Updated Sleeping Expanded to 1.20
+- Updated Remember Lockpick Angle to 4.1
 
 ## 2021-12-15 (4.10.1)
 Updated for [TPF 4.10.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.10.1)
