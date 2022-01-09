@@ -8,6 +8,7 @@ Updated for [TPF 4.11.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 
 #### Mod Installation
 - **Tress & Plants:** Added Uprooted Stump Fix for Basic and Lush
+- **Appearance:** Removed updated instructions for Expressive Facegen Morphs
 - **Loot & Crafting:** Replaced Honed Metal Updated with Honed Metal
 - **Combat & Encounters:** Removed mention of Dragon War - Easier Health Modifiers
 - **Skeletons & Animations:** Removed additional instructions for Draw 2
