@@ -69,8 +69,6 @@ With the exception of the quintessential Mage, most adventurers will have some r
 ### Enchanting
 Enchanting will give you the extra oomph you need to go from good to great, no matter your playstyle. Novice enchanters can add noticeable boosts to their gear but it's a long investment before one can get rival the skill of an Adept or Expert enchanter. Until then, feel free to pay them for their work. The price tag can be daunting but the benefits of a well picked enchantment is priceless in the long term.
 
-> **Tip:** Enchanters will gladly take your money to place an enchantment on an item but they won't bother with recharging services. If you want to recharge an item, buy a Soul Gem from the enchanter and do it yourself. They have better things to do with their time.
-
 #### Additional Reading
 - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
 - [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)

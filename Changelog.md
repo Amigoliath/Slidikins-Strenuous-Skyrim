@@ -1,7 +1,37 @@
-Latest update: **2022-01-09**  
-Compatible with: **The Phoenix Flavour 4.11.0**
+Latest update: **2022-01-24**  
+Compatible with: **The Phoenix Flavour 4.11.2**
 
 # Changelog
+
+## 2022-01-24 (4.11.2)
+Updated for [TPF 4.11.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.1) and [TPF 4.11.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.2)
+
+#### Mod Installation
+- **Conflict Resolution:** Updated `hm_actor` script to follow changes to Honed Metal
+- **Conflict Resolution:** Updated HM_Quest `xx0012D1` to match changes in Honed Metal
+- **Conflict Resolution:** Removed edit to remove Honed Metal recharging dialogue (should be fixed now)
+
+#### Wabbajack
+- Updated DynDOLOD to 3.00 Alpha-65
+- Updated powerofthree's Tweaks to 1.5.1
+- Updated Assorted Mesh Fixes to 0.44
+- Updated Equip Enchantment Fix to 1.3.4
+- Updated Container and Arrow Weight Restrictions to 2.1
+- Updated DynDOLOD Resources to 3.00 Alpha-19
+- Updated Fixed Mesh Lighting to 1.6.2
+- Updated Ruins Clutter Improved - Fixes to 1.2
+- Updated Mountains Enhanced to 1.4
+- Updated Better Windhelm Ground Meshes to 1.3.4
+- Updated Survival Mode Improved to 1.2.6
+- Updated Open World Loot to 1.3.2
+- Updated Simple Smithing Overhaul to 1.3.1
+- Updated Simple Smithing Overhaul - Open World Loot AVL Addon Patches to 1.1-p
+- Updated Simple Smithing Overhaul - Ancient Nord Stalhrim Patch to 1.1-p
+- Updated Honed Metal to 1.22-RC4
+- Updated Resistances and Weaknesses to 0.9.8
+- Updated Simple Dual Sheath to 1.5.2
+- Updated powerofthree's Papyrus Extender to 4.5.7
+- Updated Windhelm - Snow Texture Cleanup to 1.1
 
 ## 2022-01-09 (4.11.0)
 Updated for [TPF 4.11.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.0)
