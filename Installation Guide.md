@@ -821,17 +821,6 @@ All controls changed from the Default:
   - **Controls** Section
     - Toggle Target Lock Key: `M3`
     - Switch Targets with Mouse Movement: `Disabled`
-- **Target Lock Widget** Panel
-  - **Visibility Settings** Section
-    - Show Target Bar: `Disabled`
-    - Show Soft Target Bar: `Disabled`
-  - **Widget Settings** Panel
-    - Reticle Style: `Simple Dot`
-  - **Scale and Opacity Settings** Section
-    - Reticle Scale: `0.5`
-- **Boss Bar Widget** Panel
-  - **Visibility Settings** Section
-    - Show Boss Bar: `Disabled`
 
 ### Wergild Depreciation
 - **Set the Default Values** Panel
