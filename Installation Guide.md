@@ -118,7 +118,7 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
-- In **Line 72, change `No Attack Messages =` to `3`.
+- In **Line 72**, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
@@ -265,6 +265,9 @@ I’ve added the following mods to this section:
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
 #### Download Instructions
 - **Main Files:** TrueHUD (SE)
+
+#### Additional Instructions
+- ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
