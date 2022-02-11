@@ -1,5 +1,5 @@
-Latest update: **2022-01-24**  
-Compatible with: **The Phoenix Flavour 4.11.2**
+Latest update: **2022-02-11**  
+Compatible with: **The Phoenix Flavour 4.12.0**
 
 # 1. Initial Setup
 
@@ -118,7 +118,7 @@ I’ve updated instructions for the following mod:
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
 - Switch to the INI Files tab and select the **po3_Tweaks.ini**.
-- In **Line 72, change `No Attack Messages =` to `3`.
+- In **Line 72**, change `No Attack Messages =` to `3`.
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
@@ -127,9 +127,13 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** MfgFix
 
-### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=filess)
+### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
 #### Download Instructions
 - **Main Files:** Spiders of Solstheim - Transparency Fix
+
+### [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413?tab=files)
+#### Download Instructions
+- **Main Files:** WIDeadBodyCleanupScript Crash Fix
 
 ## 3.3 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
@@ -234,10 +238,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
 
-### [SkyHUD - Slidikins’ Nordic UI Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** SkyHUD - Slidikins' Nordic UI Preset
-
 ### [The Frozen North - iHUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33068)
 #### Download Instructions
 - **Optional Files:** The Frozen North - IHUD Patch
@@ -261,6 +261,13 @@ I’ve added the following mods to this section:
 - In **Line 76**, change `Custom Indicator Color =` to `#808080`.
 - In **Line 82**, change `Hide Locked Tag =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
+
+### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
+#### Download Instructions
+- **Main Files:** TrueHUD (SE)
+
+#### Additional Instructions
+- ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
@@ -307,6 +314,11 @@ I’ve added the following mods to this section:
 - **Resolution:** 2k
 - **Blood Brightness:** Default
 - **Plugin:** No
+
+### [Wash That Blood Off 2
+](https://www.nexusmods.com/skyrimspecialedition/mods/62358?tab=files)
+#### Download Instructions
+- **Main Files:** Wash That Blood Off SE
 
 ### [Splashes of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 #### Download Instructions
@@ -452,6 +464,13 @@ I’ve added the following mods to this section:
 ## 3.23 Non-Player Characters
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/).
 
+I’ve updated instructions for the following mod:
+### [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654?tab=files)
+#### Download Instructions
+- **Main Files:** AI Overhaul 1.7 AE
+
+> The difference between the two versions is the inclusion of the same Creation Club content found in this list.
+
 ## 3.24 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
 
@@ -491,6 +510,10 @@ I’ve added the following mods to this section:
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
 - **Main Files:** STAYDOWN - LIGHT
+
+### [Dynamic Weather and Time Based Detection](https://www.nexusmods.com/skyrimspecialedition/mods/62546?tab=files)
+#### Download Instructions
+- **Main Files:** Dynamic Weather and Time Based Detection
 
 ## 3.26 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
@@ -821,17 +844,10 @@ All controls changed from the Default:
   - **Controls** Section
     - Toggle Target Lock Key: `M3`
     - Switch Targets with Mouse Movement: `Disabled`
-- **Target Lock Widget** Panel
-  - **Visibility Settings** Section
-    - Show Target Bar: `Disabled`
-    - Show Soft Target Bar: `Disabled`
-  - **Widget Settings** Panel
-    - Reticle Style: `Simple Dot`
-  - **Scale and Opacity Settings** Section
+- **HUD** Panel
+  - **Target Lock Reticle Settings** Section
+    - Reticle Style: `Dot`
     - Reticle Scale: `0.5`
-- **Boss Bar Widget** Panel
-  - **Visibility Settings** Section
-    - Show Boss Bar: `Disabled`
 
 ### Wergild Depreciation
 - **Set the Default Values** Panel

@@ -1,7 +1,37 @@
-Latest update: **2022-01-24**  
-Compatible with: **The Phoenix Flavour 4.11.2**
+Latest update: **2022-02-11**  
+Compatible with: **The Phoenix Flavour 4.12.0**
 
 # Changelog
+
+## 2022-02-11 (4.12.0)
+Updated for [TPF 4.12.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.0)
+
+#### Mod Installation
+- **Fixes:** Added WIDeadBodyCleanupScript Crash Fix
+- **Interface:** Added TrueHUD
+- **Interface:** Removed SkyHUD - Slidikins' Nordic UI Preset (added to Runtime Files)
+- **Interface:** Removed moreHUD - Slidikins' Preset (added to Runtime Files)
+- **Visual FX:** Added Wash That Blood Off 2
+- **Non Player Characters:** Adjusted instructions for AI Overhaul
+- **Combat & Encounters:** Added Dynamic Weather & Time Based Detection
+- **Conflict Resolution:** Lowered tiered Dragon spawns from 20/40/60 to 15/30/45
+- **Conflict Resolution:** Modified iHUD overwrites to account for TrueHUD
+- **Configuration & Runtime Files:** Added `TrueHUD_Assets0.swf` patch for Nordic UI and MCM Preset
+
+#### Wabbajack
+- Updated DynDOLOD to 3.00 Alpha-67
+- Updated Assorted Mesh Fixes to 0.45.1
+- Updated Charge Dialogue Fix to 1.4
+- Updated Nordic UI - Miscellaneous Patches to 1.6
+- Updated DynDOLOD Resources to 3.00 Alpha-20
+- Updated Whiterun Mesh Fixes to 1.2.5
+- Updated Open World Loot to 1.3.3
+- Updated AI Overhaul to 1.7
+- Updated Security Overhaul SKSE - Lock Variations to 3.0
+- Updated Miscellaneous Tweaks Collection - No Starting Spells to 1.2
+- Updated Security Overhaul SKSE - Add-ons to 0.1.4
+- Updated Unequip Quiver to 1.8
+- Updated True Directional Movement - Modernized Third Person Gameplay to 2.0.2
 
 ## 2022-01-24 (4.11.2)
 Updated for [TPF 4.11.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.1) and [TPF 4.11.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.11.2)
