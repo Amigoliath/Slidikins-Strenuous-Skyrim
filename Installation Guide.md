@@ -1,4 +1,4 @@
-Latest update: **2022-02-25**  
+Latest update: **2022-02-26**  
 Compatible with: **The Phoenix Flavour 4.12.2**
 
 # 1. Initial Setup
@@ -202,7 +202,7 @@ I’ve updated instructions for the following mods:
 - <s>**Main:** SkyHUD Preset</s>
 - **Loading Screen:** No Empty Background
 
-> This is nearly identical to TPF's installation except it included the Map Markers, UI Sounds and necessary TDM Patch.
+> This is nearly identical to TPF's installation except it includes the Map Markers, UI Sounds and necessary TDM Patch.
 
 ### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
 #### Download Instructions
@@ -256,6 +256,55 @@ I’ve added the following mods to this section:
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
+
+## 3.6 Seasons of Skyrim
+I've added this section to TPF until it's officially adopted.
+
+### [Seasonal Weathers Framework](https://www.nexusmods.com/skyrimspecialedition/mods/63562?tab=files)
+#### Download Instructions
+- **Main Files:** Seasonal Weathers Framework - 1.01
+
+### [Seasonal Weathers Framework - Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63562?tab=files)
+#### Download Instructions
+- **Optional Files:** Seasonal Weathers Framework - Cathedral Weathers and Seasons
+
+### [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files)
+#### Download Instructions
+- **Main Files:** Seasons of Skyrim SE
+
+### [Seasons of Skyrim - Remove Unwanted Grass](https://www.nexusmods.com/skyrimspecialedition/mods/63476?tab=files)
+#### Download Instructions
+- **Main Files:** Seasons of Skyrim - Remove Unwanted Grass
+
+### [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623?tab=files)
+#### Download Instructions
+- **Main Files:** Turn of the Seasons
+
+#### FOMOD Instructions
+- **Optionals:** Icy Waterways
+- <s>**Optionals:** Invisible Mountain Slope Fix</s>
+- <s>**Patches:** Happy Little Trees</s>
+- **Patches:** Fixed Mesh Lighting
+
+### [Seasonal Aspen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Main Files:** Seasonal Aspen Trees
+
+#### FOMOD Instructions
+- **Textures:** 4K Textures
+- **Bark:** Vanilla Bark Textures
+
+### [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463?tab=files)
+#### Download Instructions
+- **Main Files:** Shrubs of Snow
+
+### [Seasonsal Aspen Trees - Shrubs of Snow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Optional Files:** Shrubs of Snow patch
+
+### [Seasonal Aspen Trees - Turn of the Seasons Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Optional Files:** Turn of the Seasons patch
 
 ## 3.6 Weather
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/weather/).
@@ -355,17 +404,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
 
 **Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
-**Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset, naturally.
+**Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset later, naturally.
 
 I’ve added the following mods to this section:
 
 ### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 #### Download Instructions
 - **Main Files:** Pilgrim - A Religion Overhaul
-
-### [Skyrim Uncapper - Slidikins’ Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
 ### [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374?tab=files)
 #### Download Instructions
@@ -416,7 +461,7 @@ I’ve added the following mods to this section:
 
 ### [Curated Curios](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files)
 #### Download Instructions
-- **Main Files:** Conveyed Curios
+- **Main Files:** Curated Curios
 
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
@@ -593,10 +638,6 @@ This is only necessary if you do not download the Configuration & Runtime Files 
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
 
-### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
-#### Download Instructions
-- **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
-
 ## 3.30 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
 
@@ -737,7 +778,8 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - When it’s done, check the **Ice Skating Fixed for Real** box.
 - Also check the **Jump Behavior Overhaul** box.
 - Also check the **Movement Behavior Overhaul** box.
-- Finally, check the **True Directional Movement** box.
+- Also check the **True Directional Movement - 360 Horse Archery** box.
+- Finally, check the **True Directional Movement - Headtracking** box.
 - Click the big Launch Nemesis Behavior Engine button.
 - Nemesis will eventually return `Behavior generation complete` and you can close the tool.
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Slidikins' Strenuous Skyrim - Nemesis Output** mod folder.
