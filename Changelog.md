@@ -1,7 +1,56 @@
-Latest update: **2022-02-11**  
-Compatible with: **The Phoenix Flavour 4.12.0**
+Latest update: **2022-02-26**  
+Compatible with: **The Phoenix Flavour 4.12.2**
 
 # Changelog
+
+## 2022-02-26
+Updated for TPF [4.12.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.1) and [TPF 4.12.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.2)
+
+#### Mod Installation
+- **Fixes:** Removed WIDeadBodyCleanupScript Crash Fix as it's now in TPF
+- **Interface:** Removed mentions of several mods already removed from TPF as they're no longer in TPF
+- **Interface:** Moved NORDIC UI - Interface Overhaul to adjusted mods as it's now in TPF
+- **Interface:** Adjusted NORDIC UI - Interface Overhaul to forego the Dialogue Menu and Cursor
+- **Interface:** Moved NORDIC UI - Miscellaneous Patches to adjusted mods as it's now in TPF
+- **Interface:** Adjusted NORDIC UI - Miscellaneous Patches to include the 2.4 style Icons
+- **Interface:** Moved NORDIC UI - Hand to Hand Consistency Patch to adjusted mods as it's now in TPF
+- **Seasons of Skyrim:** Added section
+- **Seasons of Skyrim:** Added Seasonal Weathers Framework
+- **Seasons of Skyrim:** Added Seasonal Weathers Framework - Cathedral Weathers and Seasons
+- **Seasons of Skyrim:** Added Seasons of Skyrim
+- **Seasons of Skyrim:** Added Seasons of Skyrim - Remove Unwanted Grass
+- **Seasons of Skyrim:** Added Turn of the Seasons
+- **Seasons of Skyrim:** Added Seasonal Aspen Trees
+- **Seasons of Skyrim:** Added Shrubs of Snow
+- **Seasons of Skyrim:** Added Seasonal Aspen Trees - Shrubs of Snow Patch
+- **Seasons of Skyrim:** Added Seasonal Aspen Trees - Turn of the Seasons Patch
+- **Gameplay Overhauls:** Moved Skyrim Uncapped - Slidikins' Strenuous Skyrim to the Configuration and Runtime Files
+- **Miscellaneous:** Removed Simple Wearable Lanterns from TPF
+- **Controls & Camera:** Removed Better Dialogue Controls (wasn't actually listed)
+- **Controls & Camera:** Removed Better MessageBox Controls (wasn't actually listed)
+- **Controls & Camera:** Removed iHUD - SmoothCam Automated Compatibility Patch
+- **Conflict Resolution:** Removed `hudmenu.swf` as a replacement is included in TPF
+- **Conflict Resolution:** Removed Torygg's War Horn as it's covered by TPF's CRP
+- **Ultrawide Support:** Added section
+
+#### Wabbajack
+- Updated ENBSeries to .473
+- Updated SSELODGen to beta 90
+- Updated DynDOLOD to 3.00 Alpha-74
+- Updated TrueHUD to 1.0.3
+- Updated DynDOLOD Resources to 3.00 Alpha-21
+- Updated Fixed Mesh Lighting to 1.7
+- Updated Unique Uniques Re-Ported to 2.3.3
+- Updated Pilgrim - A Religion Overhaul to 1.0.11
+- Updated Survival Mode Improved to 1.2.7
+- Updated Simple Smithing Overhaul to 1.3.3a
+- Updated True Directional Movement to 2.1.1
+
+#### Outputs
+- Regenerated Nemesis
+- Regenerated xLODGen
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
 
 ## 2022-02-11 (4.12.0)
 Updated for [TPF 4.12.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.0)

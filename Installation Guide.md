@@ -1,5 +1,5 @@
-Latest update: **2022-02-11**  
-Compatible with: **The Phoenix Flavour 4.12.0**
+Latest update: **2022-02-26**  
+Compatible with: **The Phoenix Flavour 4.12.2**
 
 # 1. Initial Setup
 
@@ -131,10 +131,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Spiders of Solstheim - Transparency Fix
 
-### [WIDeadBodyCleanupScript Crash Fix](https://www.nexusmods.com/skyrimspecialedition/mods/62413?tab=files)
-#### Download Instructions
-- **Main Files:** WIDeadBodyCleanupScript Crash Fix
-
 ## 3.3 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
 
@@ -173,19 +169,14 @@ I’ve added the following mods to this section:
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
 **RaceMenu** - You can leave this in if you want, but I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time.  
-**SkyHUD - TPF Preset** - I have my own preset, of course.  
-**moreHUD - TPF Preset** - See above.  
+**moreHUD - TPF Preset** - I have my own preset baked into the Config & Runtime Files  
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above.  
-**KenMOD - Time On Loading Screen** - Again, an extra UI element that may be useful but ultimately unnecessary for me.  
+**Favorite Things - Extended Favorites Menu for SkyUI** - Not necessarily with Nordic UI.  
 **Alternate Conversation Camera Plus** - Not removed, but moved to Controls & Camera.  
 **CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
-I’ve added the following mods to this section:
-### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
-#### Download Instructions
-- **Main Files:** SkyUI - Ghost Item Bug Fix
-
+I’ve updated instructions for the following mods:
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 #### Download Instructions
 - **Main Files:** NORDIC UI (Final Design)
@@ -195,7 +186,7 @@ I’ve added the following mods to this section:
 - **Main:** Boxes
 - **Main:** Race Menu (Vanilla)
 - <s>**Main:** Cursor</s>
-- **Main:** Dialogue Menu
+- <s>**Main:** Dialogue Menu</s>
 - **Main:** Favorite Menu
 - **Main:** Icons
 - **Main:** Pause Menu (Journal)
@@ -211,14 +202,7 @@ I’ve added the following mods to this section:
 - <s>**Main:** SkyHUD Preset</s>
 - **Loading Screen:** No Empty Background
 
-#### Additional Instructions
-- Deactivate the following TPF mods:
-  - Better Dialogue Controls (from **Controls & Camera**) 
-  - Better MessageBox Controls (from **Controls & Camera**)
-  - Remove QuickSave Button from SkyUI System Menu (from **Interface**)
-  - Wider MCM Menu for SkyUI (from **Interface**)
-  - Favorite Things - Extended Favorites Menu for SkyUI (from **Interface**)
-  - SkyHUD - Alternate White Dot Crosshair (from **Interface**)
+> This is nearly identical to TPF's installation except it includes the Map Markers, UI Sounds and necessary TDM Patch.
 
 ### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
 #### Download Instructions
@@ -226,7 +210,7 @@ I’ve added the following mods to this section:
 - 
 #### FOMOD Instructions
 - **moreHUD Inventory:** None
-- **Stat Screen Colored Icons:** None
+- **Stat Screen Colored Icons:** 2.4 style Icons
 - **Even Better MessageBox Controls:** Install
 - <s>**Extended Hotkey System:** Install</s>
 - **MCM:** Wider MCM
@@ -234,9 +218,10 @@ I’ve added the following mods to this section:
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [Nordic UI - Hand to Hand Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59790?tab=files)
+I’ve added the following mods to this section:
+### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** Hand to Hand - Nordic UI Consistency Patch
+- **Main Files:** SkyUI - Ghost Item Bug Fix
 
 ### [The Frozen North - iHUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/33068)
 #### Download Instructions
@@ -271,6 +256,55 @@ I’ve added the following mods to this section:
 
 ## 3.5 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
+
+## 3.6 Seasons of Skyrim
+I've added this section to TPF until it's officially adopted.
+
+### [Seasonal Weathers Framework](https://www.nexusmods.com/skyrimspecialedition/mods/63562?tab=files)
+#### Download Instructions
+- **Main Files:** Seasonal Weathers Framework - 1.01
+
+### [Seasonal Weathers Framework - Cathedral Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63562?tab=files)
+#### Download Instructions
+- **Optional Files:** Seasonal Weathers Framework - Cathedral Weathers and Seasons
+
+### [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files)
+#### Download Instructions
+- **Main Files:** Seasons of Skyrim SE
+
+### [Seasons of Skyrim - Remove Unwanted Grass](https://www.nexusmods.com/skyrimspecialedition/mods/63476?tab=files)
+#### Download Instructions
+- **Main Files:** Seasons of Skyrim - Remove Unwanted Grass
+
+### [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623?tab=files)
+#### Download Instructions
+- **Main Files:** Turn of the Seasons
+
+#### FOMOD Instructions
+- **Optionals:** Icy Waterways
+- <s>**Optionals:** Invisible Mountain Slope Fix</s>
+- <s>**Patches:** Happy Little Trees</s>
+- **Patches:** Fixed Mesh Lighting
+
+### [Seasonal Aspen Trees](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Main Files:** Seasonal Aspen Trees
+
+#### FOMOD Instructions
+- **Textures:** 4K Textures
+- **Bark:** Vanilla Bark Textures
+
+### [Shrubs of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/63463?tab=files)
+#### Download Instructions
+- **Main Files:** Shrubs of Snow
+
+### [Seasonsal Aspen Trees - Shrubs of Snow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Optional Files:** Shrubs of Snow patch
+
+### [Seasonal Aspen Trees - Turn of the Seasons Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63641?tab=files)
+#### Download Instructions
+- **Optional Files:** Turn of the Seasons patch
 
 ## 3.6 Weather
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/weather/).
@@ -370,17 +404,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
 
 **Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
-**Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset, naturally.
+**Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset later, naturally.
 
 I’ve added the following mods to this section:
 
 ### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 #### Download Instructions
 - **Main Files:** Pilgrim - A Religion Overhaul
-
-### [Skyrim Uncapper - Slidikins’ Strenuous Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** Skyrim Uncapper - Slidikins' Strenuous Skyrim
 
 ### [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374?tab=files)
 #### Download Instructions
@@ -431,7 +461,7 @@ I’ve added the following mods to this section:
 
 ### [Curated Curios](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files)
 #### Download Instructions
-- **Main Files:** Conveyed Curios
+- **Main Files:** Curated Curios
 
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
@@ -521,6 +551,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_  
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
+**Simple Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.
 
 I’ve added the following mod to this section:
 
@@ -606,10 +637,6 @@ I’ve added the following mods to this section:
 This is only necessary if you do not download the Configuration & Runtime Files later in the guide.
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
-
-### [iHUD - SmoothCam Automated Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51918)
-#### Download Instructions
-- **Main Files:** iHUD - SmoothCam Automated Compatibility Patch
 
 ## 3.30 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
@@ -716,7 +743,7 @@ I’ve added the following mods to this section:
 ## 4.2 Configuration & Runtime Files
 - Download the [Configuration & Runtime Files](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files) from the guide's Nexus page.
 - Install it as usual and place it below the **------------------------------** separator (which you should create if it doesn't exist), and activate it.
-> This isn't a necessary step but in doing in you can skip the **MCM Configuration** section completely. There's a chance that additional files will appear in your Overwrite folder after your first launch. Feel free to drag those into this mod. (Beyond that will be crash logs, but those hopefully shouldn't happen.)
+> This allows you to skip the **MCM Configuration** section completely. There's a chance that additional files will appear in your Overwrite folder after your first launch. Feel free to drag those into this mod. (Beyond that will be crash logs, but those hopefully shouldn't happen.)
 
 ## 4.3 Load Order TXT
 - Close Mod Organizer 2.
@@ -751,7 +778,8 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - When it’s done, check the **Ice Skating Fixed for Real** box.
 - Also check the **Jump Behavior Overhaul** box.
 - Also check the **Movement Behavior Overhaul** box.
-- Finally, check the **True Directional Movement** box.
+- Also check the **True Directional Movement - 360 Horse Archery** box.
+- Finally, check the **True Directional Movement - Headtracking** box.
 - Click the big Launch Nemesis Behavior Engine button.
 - Nemesis will eventually return `Behavior generation complete` and you can close the tool.
 - Back in Mod Organizer 2, press F5 to refresh and you can see that files were added to the **Slidikins' Strenuous Skyrim - Nemesis Output** mod folder.
@@ -770,12 +798,7 @@ All controls changed from the Default:
 
 ## 5.2 Mod Configuration
 
-> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or used Wabbajack), this step is unnecessary. All of the configurations have been made by default. However, this section has been left in for those still wish to do it themselves. If a mod has been pre-configured by TPF, it is not listed here.
-
-### Cathedral Weathers
-- **Settings** Panel
-  - **Weather** Section
-    - Seasonal Perspective: `Enabled`
+> **NOTE:** If you downloaded the _Configuration & Runtime Files_ from step 4.2 (or used Wabbajack), this step is unnecessary. All of the configurations have been made by default. However, this section has been left in for those who want to know some of the changes. If a mod has been pre-configured by TPF, it is not listed here.
 
 ### Dynamic Timescale
 - **AutoSave** Section
@@ -788,19 +811,6 @@ All controls changed from the Default:
   - Crafting Cost Modifier: `0.60`
   - Tempering Cost Modifier: `0.04`
   - Enchanting Cost Modifier: `0.28`
-
-### Immersive HUD
-- **Options** Panel
-  - Stealth indicator enabled: `Disabled`
-  - Enemy health indicator enabled: `Disabled`
-  - Hide shout meter with compass: `Enabled`
-  - Force crosshair to hide: `Enabled`
-  - Enable fast fade of health: `Disabled`
-- **Transparencies** Panel
-  - Compass: `70%`
-  - Magicka: `60%`
-  - Health: `60%`
-  - Stamina: `60%`
 
 ### moreHUD
 - **Presets** Panel
