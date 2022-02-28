@@ -243,8 +243,9 @@ I’ve added the following mods to this section:
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
 - In **Line 64**, change `Show Indicator Using Name =` to `false`.
-- In **Line 76**, change `Custom Indicator Color =` to `#808080`.
+- In **Line 76**, change `Custom Indicator Color =` to `#4d4d4d`.
 - In **Line 82**, change `Hide Locked Tag =` to `true`.
+- In **Line 108**, change `Custom Indicator Color` to `#4d4d4d`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
