@@ -672,22 +672,6 @@ I’ve updated instructions for the following mods:
 
 I’ve added the following mods to this section:
 
-### [Movement Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/38950?tab=files)
-#### Download Instructions
-- **Main Files:** Movement Behavior Overhaul SE - AIO
-
-#### FOMOD Instructions
-- **Behavior Trigger:** Non-Combat Only
-- **Perk Options:** No Perk
-- <s>**Patch Options:** 360 Walk and Run Plus</s>
-- <s>**Patch Options:** Combat Gameplay Overhaul</s>
-
-#### Additional Instructions
-- Delete the following file(s) and / or folder(s):
-  - `meshes\actors\character\animations`
-  - `scripts\`
-  - `MBO.esp`
-
 ### [Draw 2 - Dual Weapon Equip-Unequip Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45579?tab=files)
 #### Download Instructions
 - **Main Files:** Draw 2
@@ -778,7 +762,6 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - Click the **Update Engine** button and wait for the process to be completed.
 - When it’s done, check the **Ice Skating Fixed for Real** box.
 - Also check the **Jump Behavior Overhaul** box.
-- Also check the **Movement Behavior Overhaul** box.
 - Also check the **True Directional Movement - 360 Horse Archery** box.
 - Finally, check the **True Directional Movement - Headtracking** box.
 - Click the big Launch Nemesis Behavior Engine button.
