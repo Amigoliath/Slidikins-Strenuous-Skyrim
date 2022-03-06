@@ -25,18 +25,18 @@ Updated for [TPF 4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13
 
 #### Wabbajack
 - Updated DynDOLOD to 3.00 Alpha-77
-- Updated Scrambled Bugs to 16 (30)
-- Updated Bug Fixes SSE to 5.0 (56)
-- Updated Actor Limit Fix to 4.0 (57)
-- Updated Contextual Crosshair to 1.1.6 (106)
-- Updated DynDOLOD Resources to 3.00 Alpha-22 (128)
-- Updated Fixed Mesh Lighting to 1.7.1 (138)
-- Updated Seasonal Aspen Trees - Turn of the Seasons Patch to 1.01 (162)
-- Updated Enhanced Volumetric Lighting and Shadows to 1.2 (164)
-- Updated Player Spell Lighting to 1.0 (201)
-- Updated Pilgrim - A Religion Overhaul to 1.0.12.1 (586)
-- Updated Honed Metal to 1.23 (622)
-- Updated Tavern AI Fix to 1.2 (633)
+- Updated Scrambled Bugs to 16
+- Updated Bug Fixes SSE to 5.0
+- Updated Actor Limit Fix to 4.0
+- Updated Contextual Crosshair to 1.1.6
+- Updated DynDOLOD Resources to 3.00 Alpha-22
+- Updated Fixed Mesh Lighting to 1.7.1
+- Updated Seasonal Aspen Trees - Turn of the Seasons Patch to 1.01
+- Updated Enhanced Volumetric Lighting and Shadows to 1.2
+- Updated Player Spell Lighting to 1.0
+- Updated Pilgrim - A Religion Overhaul to 1.0.12.1
+- Updated Honed Metal to 1.23
+- Updated Tavern AI Fix to 1.2
 
 #### Outputs
 - Regenerated Nemesis
