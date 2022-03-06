@@ -28,7 +28,7 @@ Fuel for your adventurer, food will be a near-constant concern on your journey. 
 - Fruits and vegetables are commonly found in barrels all around the region.  
 - Hunt wild animals for meat if you prefer protein in your diet, or utilize [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing) to source from the rivers of Skyrim.  
 - With a dash of Salt Pile, you can cook the above into more filling meals that give larger regeneration bonuses.  
-- Different types of foods given different bonuses, each lasting 10 real time minutes. A varied diet can have a profound effect on your dungeon crawling.
+- Different types of foods given different bonuses, each lasting 30 real time minutes. A varied diet can have a profound effect on your dungeon crawling.
 - If you have a heavy coin pouch, you can simply buy ingredients or fully cooked meals from vendors to save yourself time.
 
 ### Fatigue
@@ -45,6 +45,7 @@ Skyrim is a cold, northern environment and ignoring the elements will lead to yo
 - Avoid the obvious. Snowstorms clearly mean freezing temperatures, as are lakes and rivers in snowy regions. Stay out of them.  
 - Purchasing or cooking hot soups and stews can warm you up as needed along your travels.  
 - Wearing clothes with a lot of coverage and/or fur will leave you warmer than other options. Conversely, metal armor is more susceptible to lower temperature. Heavy armor users may want to carry a change of clothes for the road.
+- The winter months will naturally be colder than the rest of the year. Factor that into your travelling preparations.
 
 ### Other Notes
 - Your Health won't regenerate on its own. You'll need to utilize other sources of regeneration to recover, such as food, potions, perks, or Restoration magic.  
@@ -97,7 +98,7 @@ It sounds like the deck is stacked against you, and in many ways it is. But you 
 #### Additional Reading
 - [Blade & Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487)
-- [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
+- [Serio's Enhanced Dragons Redone](https://www.nexusmods.com/skyrimspecialedition/mods/27061)
 
 ## Tips & Tricks
 As you can probably infer from the name of this addon, your adventure in Skyrim will have its difficult moments. Here are some tips that I’ve found useful for making the journey in one piece.
