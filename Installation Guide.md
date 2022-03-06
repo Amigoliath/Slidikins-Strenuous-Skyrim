@@ -4,7 +4,7 @@ Compatible with: **The Phoenix Flavour 4.13.2**
 # 1. Initial Setup
 
 ## Prerequisites
-This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you are familiar with the tools introduced and provided by TPF. For Wabbajack users, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
+This Installation Guide is written under the assumption that you have an unmodified copy of **The Phoenix Flavour (TPF)** of the version written above. It is also assumed that you are familiar with the tools introduced and provided by TPF. If you wish to use Wabbajack for the entire process, please use [these installation instructions](https://github.com/Amigoliath/Slidikins-Strenuous-Skyrim/blob/main/Wabbajack.md).
 
 ### Skyrim Official Files
 This list uses the following Creations, all of which are freely available with Special Edition Version 1.6:
@@ -12,19 +12,12 @@ This list uses the following Creations, all of which are freely available with S
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
 - [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing)
 
-In order to obtain these files, you will need to upgrade Skyrim to the current version before patching the exe back to the version that works with SKSE and this list. Luckily this process is fairly simple:
-- Open your Steam Library and navigate to **The Elder Scrolls V: Skyrim Special Edition**
-- Right click and select **Properties...**
-- Under **Updates**, make sure **Automatic Updates** is set to `Only Update this game when I launch it`
-- Under **Local Files**, select **Verify integrity of game files...**
-- Wait for the process to identify and obtain any files it requires
-
-> This step will download the three Creations noted above as well as [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers), which I do not support. There may be no harm in having it, but if you want to remove it, just make sure `ccBGSSSE025-AdvDSGS.esm` is disabled in your MO2 load order.
-
-Once that is finished, you'll need to downgrade to a version of Skyrim which works with this list.
-- Download [BestofBothWorldPatcher.exe](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files) and run it
-- Verify that the Game Location is correct and select **Start Patching**
-- Once it says "Finished Patching, enjoy your game!" you're good to go!
+**The Phoenix Flavour** already includes the latter two of these Creations. In order to add Survival Mode:
+- Navigate to the Data folder of your Steam installation of Skyrim Special Edition (`..\steamapps\common\Skyrim Special Edition\Data`)
+- Copy `ccQDRSSE001-SurvivalMode.bsa` and `ccQDRSSE001-SurvivalMode.esl` from within that folder
+- Navigate to your **Creation Club Content** TPF mod folder (`..\The Phoenix Flavour\mods\Creation Club Content`)
+- Paste the two files into this folder
+- If Mod Organizer 2 is currently open, hit F5 to refresh your modlist
 
 ## Mod Organizer 2
 ### SSS Profile
@@ -126,7 +119,7 @@ I’ve added the following mods to this section:
 - In **Line 219**, change `OnlyPregenerateWorldSpaces =` to `"Blackreach;BlindCliffCaveWorld;BloatedMansGrottoWorld;BluePalaceWingWorld;DarkwaterWorld;DeepwoodRedoubtWorld;DLC01FalmerValley;DLC01SoulCairn;DLC1AncestorsGladeWorld;DLC1DarkfallPassageWorld;DLC1ForebearsHoldout;DLC1HunterHQWorld;DLC1VampireCastleCourtyard;DLC2SolstheimWorld;EastEmpireWarehouse;EldergleamSanctuaryWorld;FallowstoneCaveWorldEnd;FallowstoneCaveWorldStart;FrostmereCryptWorld;JaphetsFollyWorld;KarthspireRedoubtWorld;KatariahWorld;MarkarthWorld;MossMotherCavernWorld;RiftenWorld;ShadowgreenCavernWorld;SkuldafnWorld;SolitudeWorld;Sovngarde;Tamriel;WhiterunWorld;WindhelmWorld"`.
 - Hit **CTRL+S** to save your changes and close the window.
 
-> Due to the inclusion of Seasons of Skyrim we won't be using the Grass Cache just yet. The rest of the mod is useful, however.
+> Due to the inclusion of *Seasons of Skyrim* we won't be using the Grass Cache just yet. The rest of the mod is still useful, however.
 
 ## 3.3 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
@@ -579,10 +572,6 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Sensible Bribes
 
-### [Sleeping Expanded - Animations and NPC Reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250?tab=files)
-#### Download Instructions
-- **Main Files:** Sleeping Expanded
-
 ## 3.29 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
 
@@ -591,6 +580,12 @@ I’ve added the following mods to this section:
 ### [Crafting Skill Leveling Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21727?tab=files)
 #### Download Instructions
 - **Main Files:** CraftingSkill v3
+
+#### Additional Instructions
+- Double-click **Crafting Skill Leveling Overhaul** in your mod order.
+- Switch to the Text Files tab and select the **CraftingSkill.config.txt**.
+- In **Line 248**, change `DisenchantXPMult =` to `0.025`.
+- Hit **CTRL+S** to save your changes and close the window.
 
 ### [Don't Stay in the Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164?tab=files)
 #### Download Instructions
