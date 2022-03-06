@@ -1,5 +1,5 @@
-Latest update: **2022-02-26**  
-Compatible with: **The Phoenix Flavour 4.12.2**
+Latest update: **2022-03-06**  
+Compatible with: **The Phoenix Flavour 4.13.2**
 
 # 1. Initial Setup
 
@@ -107,10 +107,28 @@ With the release of TPF 4.5, Phoenix offered several “addon” modules. These 
 
 # 3. Mod Installation
 
-## 3.1 Essential Mods
+## 3.1 Creation Club Patches
+I use all of the mods listed in TPF’s corresponding section.
+
+## 3.2 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
 
-## 3.2 Fixes
+I’ve added the following mods to this section:
+### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
+#### Download Instructions
+- **Main Files:** Grass Control v8
+
+#### Additional Instructions
+- Double-click **No Grass In Objects** in your mod order.
+- Switch to the Text Files tab and select the **GrassControl.config.txt**.
+- In **Line 149**, change `OverwriteGrassDistance =` to `12000`.
+- In **Line 163**, change `OverwriteGrassFadeRange =` to `8000`.
+- In **Line 219**, change `OnlyPregenerateWorldSpaces =` to `"Blackreach;BlindCliffCaveWorld;BloatedMansGrottoWorld;BluePalaceWingWorld;DarkwaterWorld;DeepwoodRedoubtWorld;DLC01FalmerValley;DLC01SoulCairn;DLC1AncestorsGladeWorld;DLC1DarkfallPassageWorld;DLC1ForebearsHoldout;DLC1HunterHQWorld;DLC1VampireCastleCourtyard;DLC2SolstheimWorld;EastEmpireWarehouse;EldergleamSanctuaryWorld;FallowstoneCaveWorldEnd;FallowstoneCaveWorldStart;FrostmereCryptWorld;JaphetsFollyWorld;KarthspireRedoubtWorld;KatariahWorld;MarkarthWorld;MossMotherCavernWorld;RiftenWorld;ShadowgreenCavernWorld;SkuldafnWorld;SolitudeWorld;Sovngarde;Tamriel;WhiterunWorld;WindhelmWorld"`.
+- Hit **CTRL+S** to save your changes and close the window.
+
+> Due to the inclusion of Seasons of Skyrim we won't be using the Grass Cache just yet. The rest of the mod is useful, however.
+
+## 3.3 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
 
 I’ve updated instructions for the following mod:
@@ -131,7 +149,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Spiders of Solstheim - Transparency Fix
 
-## 3.3 Tweaks
+## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
 
 I’ve added the following mods to this section:
@@ -165,7 +183,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Locks Are Just Locked
 
-## 3.4 Interface
+## 3.5 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
 **RaceMenu** - You can leave this in if you want, but I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time.  
@@ -255,10 +273,10 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
-## 3.5 Graphics Baseline
+## 3.6 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
 
-## 3.6 Seasons of Skyrim
+## 3.7 Seasons of Skyrim
 I've added this section to TPF until it's officially adopted.
 
 ### [Seasonal Weathers Framework](https://www.nexusmods.com/skyrimspecialedition/mods/63562?tab=files)
@@ -307,13 +325,13 @@ I've added this section to TPF until it's officially adopted.
 #### Download Instructions
 - **Optional Files:** Turn of the Seasons patch
 
-## 3.6 Weather
+## 3.8 Weather
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/weather/).
 
-## 3.7 Lighting
+## 3.9 Lighting
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/lighting/).
 
-## 3.8 Visual FX
+## 3.10 Visual FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
 
 I've changed the instructions for the following mod:
@@ -359,34 +377,34 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Splashes Of Skyrim - 1.3
 
-## 3.9 Landscape
+## 3.11 Landscape
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
 
-## 3.10 Trees & Plants
+## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
 
-## 3.11 Architecture
+## 3.13 Architecture
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/architecture/).
 
-## 3.12 Misc Structures
+## 3.14 Misc Structures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/misc-structures/).
 
-## 3.13 Interiors
+## 3.15 Interiors
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interiors/).
 
-## 3.14 Dungeons
+## 3.16 Dungeons
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/dungeons/).
 
-## 3.15 Clutter
+## 3.17 Clutter
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/clutter/).
 
-## 3.16 Valuable Items
+## 3.18 Valuable Items
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/valuable-items/).
 
-## 3.17 Food & Ingredients
+## 3.19 Food & Ingredients
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/food-ingredients/).
 
-## 3.18 Apparel & Weapons
+## 3.20 Apparel & Weapons
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/apparel-weapons/).
 
 I’ve added the following mod to this section:
@@ -395,13 +413,13 @@ I’ve added the following mod to this section:
 - **Main Files:** Elemental Staffs SE
 - **Optional Files:** Elemental Staffs SE Basic » `merge with the first file`
 
-## 3.19 Creatures
+## 3.21 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
 
-## 3.20 Appearance
+## 3.22 Appearance
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/appearance/).
 
-## 3.21 Gameplay Overhauls
+## 3.23 Gameplay Overhauls
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
 
 **Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
@@ -417,11 +435,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Survival Mode Improved
 
-### [Slidikins' Strenuous Skyrim - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-#### Download Instructions
-- **Optional Files:** Slidikins' Strenuous Skyrim - Survival Mode Patch
-
-## 3.22 Loot & Crafting
+## 3.24 Loot & Crafting
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
@@ -452,18 +466,6 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Honed Metal Revoiced (For Honed Metal SSE 1.2)
 
-### [The Phoenix Flavour - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45830?tab=files)
-#### Download Instructions
-- **Main Files:** The Phoenix Flavour - Rare Curios Patch
-
-### [Apothecary - Rare Curios Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
-#### Download Instructions
-- **Miscellaneous Files:** Apothecary - Rare Curios Patch
-
-### [Curated Curios](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files)
-#### Download Instructions
-- **Main Files:** Curated Curios
-
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
 - **Main Files:** C.O.I.N.
@@ -492,17 +494,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** OWL - COIN Patch
 
-## 3.23 Non-Player Characters
+## 3.25 Non-Player Characters
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/).
 
-I’ve updated instructions for the following mod:
-### [AI Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21654?tab=files)
-#### Download Instructions
-- **Main Files:** AI Overhaul 1.7 AE
-
-> The difference between the two versions is the inclusion of the same Creation Club content found in this list.
-
-## 3.24 Improved Vanilla Quests
+## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
 
 I’ve added the following mods to this section:
@@ -523,7 +518,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Missives Notes Retexture
 
-## 3.25 Combat & Encounters
+## 3.27 Combat & Encounters
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
@@ -546,7 +541,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Dynamic Weather and Time Based Detection
 
-## 3.26 Miscellaneous
+## 3.28 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
 **Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_  
@@ -588,7 +583,7 @@ I’ve added the following mod to this section:
 #### Download Instructions
 - **Main Files:** Sleeping Expanded
 
-## 3.27 Assorted Plugins
+## 3.29 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
 
 I’ve added the following mods to this section:
@@ -601,10 +596,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Don't Stay in The Water
 
-## 3.28 Sound FX
+## 3.30 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
 
-## 3.29 Controls & Camera
+## 3.31 Controls & Camera
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
 
 I’ve updated instructions for the following mod:
@@ -639,7 +634,7 @@ This is only necessary if you do not download the Configuration & Runtime Files 
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
 
-## 3.30 Skeleton & Animations
+## 3.32 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
 
 **XP32 Maximum Skeleton Special Extended - Fixed Scripts** - The scripts aren’t being used in _XPMSSE_ so this is unnecessary.
@@ -708,7 +703,7 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** EVE - Ice skating fixed for real - No more attack skating movement
 
-## 3.31 Utilities
+## 3.33 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
 I’ve added the following mods to this section:
