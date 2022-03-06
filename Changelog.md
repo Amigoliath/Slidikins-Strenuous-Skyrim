@@ -4,7 +4,7 @@ Compatible with: **The Phoenix Flavour 4.13.2**
 # Changelog
 
 ## 2022-03-06
-Updated for TPF [4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.0), TPF [4.13.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.1), and [TPF 4.13.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.2)
+Updated for [TPF 4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.0), [TPF 4.13.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.1), and [TPF 4.13.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.2)
 
 #### Mod Installation
 - **Creation Club Patches:** Added section
@@ -45,7 +45,7 @@ Updated for TPF [4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13
 - Regenerated DynDOLOD (and Performance)
 
 ## 2022-02-26
-Updated for TPF [4.12.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.1) and [TPF 4.12.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.2)
+Updated for [TPF 4.12.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.1) and [TPF 4.12.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.2)
 
 #### Mod Installation
 - **Fixes:** Removed WIDeadBodyCleanupScript Crash Fix as it's now in TPF
