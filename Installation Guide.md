@@ -546,7 +546,8 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - Double-click **Crafting Skill Leveling Overhaul** in your mod order.
 - Switch to the Text Files tab and select the **CraftingSkill.config.txt**.
-- In **Line 248**, change `DisenchantXPMult =` to `0.025`.
+- In **Line 248**, change `DisenchantXPMult =` to `0.0125`.
+- In **Line 316**, change `DisenchantXPMult =` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [Don't Stay in the Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164?tab=files)
