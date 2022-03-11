@@ -60,44 +60,6 @@ In order to turn TPF into SSS, you’ll need to **deactivate** the mods I do not
 
 The provided loadorder.txt and Conflict Resolution Patch in the Finalization section assumes that this method is followed for each modified section.
 
-## 2.1 TPF-X Addons
-
-With the release of TPF 4.5, Phoenix offered several “addon” modules. These were entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each one in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
-
-**Note:** Modules that are not included in the `loadorder.txt` will need to be placed manually after finishing the guide. 
-
-### [Interface](https://thephoenixflavour.com/tpf-x/installation/interface/)
-**Notes:** This section contains a number of mods I explicitly chose to exclude from SSS:SE and therefore doesn’t fit the intended UI of this fork.  
-**Compatibility:** Compatible, but not recommended for this guide.
-
-### [Gameplay Tweaks](https://thephoenixflavour.com/tpf-x/installation/gameplay-tweaks/)
-**Notes:** I like the combat as it is in base TPF so I skipped this one. These mods don’t go against the design of SSS:SE, but they don’t enhance it either.  
-**Compatibility:** Compatible, will lower the difficulty of the game.
-
-### [New Gear](https://thephoenixflavour.com/tpf-x/installation/new-gear/)
-**Notes:** In the past I was adamant against adding new gear but Phoenix is pretty selective on what she adds. I trust her judgement so I’ve added it for now.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt and Wabbajack.
-
-### [New Companions](https://thephoenixflavour.com/tpf-x/installation/new-companions/)
-**Notes:** I don’t like adding companions to my game. Inigo and Lucien won’t ruin the balance of SSS:SE, but they will spoil you when it comes to followers.  
-**Compatibility:** Compatible.
-
-### [Player Homes](https://thephoenixflavour.com/tpf-x/installation/player-homes/)
-**Notes:** Similar to the Companions above, Elianora’s homes tend to outshine the vanilla selection. For that reason I don’t add them, but you’re welcome to.  
-**Compatibility:** Compatible.
-
-### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
-**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.  
-**Compatibility:** This is now included in base TPF and isn't technically a TPF-X Addon.
-
-### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
-**Notes:** These mods are entirely up to you. I saw no reason to add any of them to my game but your preference may be different.  
-**Compatibility:** Possibly incompatible with Apothecary's additions.
-
-### [AllGud](https://thephoenixflavour.com/tpf-x/installation/allgud/)
-**Notes:** If you want favorited items to be visible, this is what you need. Otherwise, Simple Dual Sheath is fine for adding left-handed sheaths to characters. This also used to be in TPF.  
-**Compatibility:** Compatible.
-
 # 3. Mod Installation
 
 ## 3.1 Creation Club Patches
@@ -672,19 +634,7 @@ I’ve added the following mods to this section:
 
 #### FOMOD Instructions
 - Page 1: Install Type
-  - **Options:** Modular
-- Page 2: Modular
-  - **Torch:** Full
-  - **Repurposed Idles:** Full
-  - <s>**Personality:** Elder</s>
-  - <s>**Personality:** Elder - Sitting</s>
-  - **Personality:** Children
-  - **Personality:** Young Female
-  - **Personality:** Imperial Guards
-  - **Personality:** Egoistic
-  - **Miscellaneous:** Wounded
-  - **Miscellaneous:** Smooth Floating
-  - <s>**Miscellaneous:** Laying Down</s>
+  - **Options:** Recommended
 
 ### [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006?tab=files)
 #### Download Instructions
