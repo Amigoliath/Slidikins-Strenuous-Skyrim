@@ -1,4 +1,4 @@
-Latest update: **2022-04-01**  
+Latest update: **2022-04-02**  
 Compatible with: **The Phoenix Flavour 4.14.1**
 
 # 1. Initial Setup
@@ -191,21 +191,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-### [Toggle Compass Hotkey](https://www.nexusmods.com/skyrimspecialedition/mods/63247?tab=files)
-#### Download Instructions
-- **Old Files:** toggle compass hotkey (Version 1.0)
-
 **I’ve added the following mods to this section:**
-### [Nordic UI - Dot Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/58059?tab=files)
-#### Download Instructions
-- **Main Files:** Dot crosshair for NORDIC UI
-
 ### [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367?tab=files)
 #### Download Instructions
 - **Main Files:** A Clear Map of Skyrim and Other Worlds FOMOD - PART 1
 - **Main Files:** ACMOS Road Generator Tool - PART 2
 
-> Part 2 is required for drawing roads on the generated world map after using SSELODGen. You can skip this instead by downloading *Slidikins' Strenuous Skyrim - Terrain LOD* from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files).
+> Part 2 is required for adding roads on the world map after using SSELODGen. You can skip this step by downloading *Slidikins' Strenuous Skyrim - Terrain LOD* from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files).
 
 #### FOMOD Instructions
 - **DynDOLOD rules:** DynDOLOD 3
