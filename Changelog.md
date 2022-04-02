@@ -9,8 +9,6 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 #### Mod Installation
 - **Interface:** Removed A Quality World Map
 - **Interface:** Removed NORDIC UI - Shout Cooldown from TPF due to personal preference
-- **Interface:** Revised instructions for Toggle Compass Hotkey
-- **Interface:** Added NORDIC UI - Dot Crosshair
 - **Interface:** Added A Clear Map of Skyrim and Other Worlds
 - **Combat & Encounters:** Added Wait Your Turn - Enemy Circling Behaviour
 - **Assorted Plugins:** Adjusted values in Crafting Skill Leveling Overhaul
