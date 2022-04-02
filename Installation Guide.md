@@ -67,8 +67,8 @@ I use all of the mods listed in TPF’s corresponding section.
 
 ## 3.2 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
-
-I’ve added the following mods to this section:
+**
+I’ve added the following mods to this section:**
 ### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
 #### Download Instructions
 - **Main Files:** Grass Control v8
@@ -107,7 +107,7 @@ I use all of the mods listed in [TPF’s corresponding section.](https://thephoe
 ## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 ### [SSE Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41953?tab=files)
 #### Download Instructions
 - **Main Files:** GameplayTweaks v5
@@ -190,6 +190,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Remove QuickSave from System Menu:** Install
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
+
+### [Toggle Compass Hotkey](https://www.nexusmods.com/skyrimspecialedition/mods/63247?tab=files)
+#### Download Instructions
+- **Old Files:** toggle compass hotkey (Version 1.0)
 
 **I’ve added the following mods to this section:**
 ### [Nordic UI - Dot Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/58059?tab=files)
@@ -380,7 +384,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.20 Apparel & Weapons
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/apparel-weapons/).
 
-I’ve added the following mod to this section:
+**I’ve added the following mod to this section:**
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
@@ -398,7 +402,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset later, naturally.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 #### Download Instructions
@@ -496,7 +500,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253?tab=files)
 #### Download Instructions
