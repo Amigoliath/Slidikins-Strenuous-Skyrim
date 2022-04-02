@@ -9,6 +9,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 #### Mod Installation
 - **Interface:** Removed A Quality World Map
 - **Interface:** Removed NORDIC UI - Shout Cooldown from TPF due to personal preference
+- **Interface:** Revised instructions for Toggle Compass Hotkey
 - **Interface:** Added NORDIC UI - Dot Crosshair
 - **Interface:** Added A Clear Map of Skyrim and Other Worlds
 - **Combat & Encounters:** Added Wait Your Turn - Enemy Circling Behaviour
@@ -30,7 +31,6 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - Updated College of Winterhold Quest Start Fixes to 0.3
 - Updated Bug Fixes SSE to 6.0
 - Updated Actor Limit Fix to 5.0
-- Updated Toggle Compass Hotkey to 1.2b
 - Updated TrueHUD to 1.1
 - Updated DynDOLOD Resources to 3.00 Alpha-24
 - Updated Turn of the Seasons to 1.0.6
