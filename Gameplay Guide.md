@@ -19,6 +19,8 @@ In general, expect the game to tell you far less information, leaving you to inf
 - **Quick Stats:** `F1`
 - **Toggle Compass:** `X`
 
+> [Toggle Compass Key](https://www.nexusmods.com/skyrimspecialedition/mods/63247) updated to make Activate (`E`) the default key when not looking at an object. If you do not like this behavior it can be changed in the MCM.
+
 ## 2. Survival and Exploration
 This list expects you to enable [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) when prompted at the end of the tutorial sequence and to deal with its mechanics, specifically *eating*, *sleeping*, and *keeping warm*.
 
