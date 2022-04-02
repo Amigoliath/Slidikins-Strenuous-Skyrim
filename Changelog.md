@@ -52,6 +52,12 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - Updated EVG Animation Variance to 1.1
 - Updated True Directional Movement to 2.2.1
 
+#### Outputs
+- Regenerated Nemesis
+- Regenerated xLODGEN
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
+
 ## 2022-03-06 (4.13.2)
 Updated for [TPF 4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.0), [TPF 4.13.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.1), and [TPF 4.13.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.2)
 
