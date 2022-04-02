@@ -98,7 +98,7 @@ It sounds like the deck is stacked against you, and in many ways it is. But you 
 #### Additional Reading
 - [Blade & Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 - [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487)
-- [Serio's Enhanced Dragons Redone](https://www.nexusmods.com/skyrimspecialedition/mods/27061)
+- [Dragon War - A Dragon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51310)
 
 ## Tips & Tricks
 As you can probably infer from the name of this addon, your adventure in Skyrim will have its difficult moments. Here are some tips that I’ve found useful for making the journey in one piece.
@@ -114,7 +114,7 @@ The urge to explore is strong but try to fight it off in the early game. There i
 ### Mid Game (Level 10 - 30)
 
 #### Buy a Horse (or Two!)
-Forget what I just said about staying local. It’s time to explore and get into the thick of it! Time passes fast on the overworld, however, so unless you want to spend all of daylight traveling from Point A to Point B, invest in a horse to shorten your travel times. And if you’re really going far I recommend making use of the carriages from time to time. Since your carry weight (and that of your follower) is halved, horses are also the best way to move a lot of supplies from one place to another.
+Forget what I just said about staying local. It’s time to explore and get into the thick of it! Time passes fast on the overworld, however, so unless you want to spend all of daylight traveling from Point A to Point B, invest in a horse to shorten your travel times. And if you’re really going far I recommend making use of the carriages from time to time. Since your carry weight (and that of your follower) is halved, horses are also the best way to move a lot of supplies from one place to another. (Remember to crouch to access horse storage!)
 
 #### Join a Faction
 Go find yourself a faction (e.g. The Companions) that suits your character and sign up. Their quests will support the skills you’re looking to improve. As you progress through the tier, consider signing up for the Stormcloaks or the Imperial Legion if you have a stake in the civil war. Their quests are less focused, but they’ll provide plenty of targets to practice on to level up further.
@@ -122,4 +122,4 @@ Go find yourself a faction (e.g. The Companions) that suits your character and s
 ### Late Game (Level 30 - 50)
 
 #### Utilize Crafting
-Seriously, I can’t stress this enough. In the late game you may be dealing with areas that are scaled high above your Level 50 limit, some at that point long before you reach the cap. You’ll need every advantage you can get to bridge the gap, and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. It might be time to make different equipment sets for different types of enemies, even.
+Seriously, I can’t stress this enough. In the late game you may be dealing with areas that are scaled high above your Level 50 limit, some at that point long before you reach the cap. You’ll need every advantage you can get to bridge the gap, and most of those advantages are obtained through crafting. If you ignored this early on, now’s a good time to reconsider it. If on Master or Legendary difficulty, it might be time to make different equipment sets for different types of enemies, even.
