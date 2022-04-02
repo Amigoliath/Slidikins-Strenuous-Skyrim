@@ -1,4 +1,4 @@
-Latest update: **2022-04-01**  
+Latest update: **2022-04-02**  
 Compatible with: **The Phoenix Flavour 4.14.1**
 
 # Changelog
@@ -19,6 +19,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - **Conflict Resolution:** Moved TrueHUD patches to account for new folder organization
 - **Conflict Resolution:** Removed almost all Elemental Staff edits in lieu of upcoming Mysticism Patch
 - **Conflict Resolution:** Lowered Tier 4, 5, and 6 Dragons to Lv30, 40, and 50 respectively
+- **Conflict Resolution:** Modified Container Weight script so that you are only alerted when the container is full
 - **Configuration & Runtime:** Adjusted Smoothcam settings
 - **Configuration & Runtime:** Lowered Conjuration, Destruction, and Restoration experience rates due to the Mysticism update
 
