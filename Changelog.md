@@ -1,9 +1,58 @@
-Latest update: **2022-03-06**  
-Compatible with: **The Phoenix Flavour 4.13.2**
+Latest update: **2022-04-01**  
+Compatible with: **The Phoenix Flavour 4.14.1**
 
 # Changelog
 
-## 2022-03-06
+## 2022-04-01 (4.14.1)
+Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.0) and [TPF 4.14.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.1)
+
+#### Mod Installation
+- **Interface:** Removed A Quality World Map
+- **Interface:** Removed NORDIC UI - Shout Cooldown from TPF due to personal preference
+- **Interface:** Added NORDIC UI - Dot Crosshair
+- **Interface:** Added A Clear Map of Skyrim and Other Worlds
+- **Combat & Encounters:** Added Wait Your Turn - Enemy Circling Behaviour
+- **Assorted Plugins:** Adjusted values in Crafting Skill Leveling Overhaul
+- **Skeleton & Animations:** Updated FOMOD instructions for EVG Animation Variance
+- **Skeleton & Animations:** Added Gesture Animation Remix
+- **Skeleton & Animations:** Added NPC Animation Remix
+- **Utilities:** Added Base Object Swapper
+- **Conflict Resolution:** Moved TrueHUD patches to account for new folder organization
+- **Conflict Resolution:** Removed almost all Elemental Staff edits in lieu of upcoming Mysticism Patch
+- **Conflict Resolution:** Lowered Tier 4, 5, and 6 Dragons to Lv30, 40, and 50 respectively
+- **Configuration & Runtime:** Adjusted Smoothcam settings
+
+#### Wabbajack
+- Updated DynDOLOD to 3.00 Alpha-86
+- Updated powerofthree's Tweaks to 1.6
+- Updated Scrambled Bugs to 17.0
+- Updated Assorted Mesh Fixes to 0.47
+- Updated College of Winterhold Quest Start Fixes to 0.3
+- Updated Bug Fixes SSE to 6.0
+- Updated Actor Limit Fix to 5.0
+- Updated Toggle Compass Hotkey to 1.2b
+- Updated TrueHUD to 1.1
+- Updated DynDOLOD Resources to 3.00 Alpha-24
+- Updated Turn of the Seasons to 1.0.6
+- Updated Enhanced Volumetric Lighting and Sun Shadows to 1.3
+- Updated QW's Grass Patch to 2.0
+- Updated 3D Solitude Market Trellis to 2.0
+- Updated Soul Cairn HD to No Parallax 5.0
+- Updated Particle Lights for ENB - Light Orbs to 1.1
+- Updated Particle Lights for ENB - Wisps to 1.2
+- Updated Mysticism - A Magic Overhaul to 2.0.1
+- Updated Adamant - A Perk Overhaul to 5.4.1
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.6
+- Updated Pilgrim - A Religion Overhaul to 1.0.12.1 (Re-upload)
+- Updated Simple Smithing Overhaul to 1.3.3a
+- Updated Thaumaturgy - An Enchanting Overhal to 1.1.6
+- Updated C.O.I.N. - Coins of Interesting Natures to 1.1.11
+- Updated Quests Are In Skyrim to 1.3
+- Updated Dynamic Weather and Time Based Detection to 2.1.3
+- Updated EVG Animation Variance to 1.1
+- Updated True Directional Movement to 2.2.1
+
+## 2022-03-06 (4.13.2)
 Updated for [TPF 4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.0), [TPF 4.13.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.1), and [TPF 4.13.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.13.2)
 
 #### Mod Installation
@@ -44,7 +93,7 @@ Updated for [TPF 4.13](https://github.com/Codygits/TPF-Updates/releases/tag/4.13
 - Regenerated TexGen
 - Regenerated DynDOLOD (and Performance)
 
-## 2022-02-26
+## 2022-02-26 (4.12.2)
 Updated for [TPF 4.12.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.1) and [TPF 4.12.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.12.2)
 
 #### Mod Installation
