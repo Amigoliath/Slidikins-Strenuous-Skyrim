@@ -22,6 +22,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - **Conflict Resolution:** Removed almost all Elemental Staff edits in lieu of upcoming Mysticism Patch
 - **Conflict Resolution:** Lowered Tier 4, 5, and 6 Dragons to Lv30, 40, and 50 respectively
 - **Configuration & Runtime:** Adjusted Smoothcam settings
+- **Configuration & Runtime:** Lowered Conjuration, Destruction, and Restoration experience rates due to the Mysticism update
 
 #### Wabbajack
 - Updated DynDOLOD to 3.00 Alpha-86
