@@ -23,6 +23,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - **Configuration & Runtime:** Lowered Conjuration, Destruction, and Restoration experience rates due to the Mysticism update
 
 #### Wabbajack
+- Updated ENBSeries to 0.473 (no version change)
 - Updated DynDOLOD to 3.00 Alpha-86
 - Updated powerofthree's Tweaks to 1.6
 - Updated Scrambled Bugs to 17.0
