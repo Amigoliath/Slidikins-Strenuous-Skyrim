@@ -47,7 +47,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - Updated Forceful Tongue - Shouts Overhaul to 3.0.6
 - Updated Pilgrim - A Religion Overhaul to 1.0.12.1 (Re-upload)
 - Updated Simple Smithing Overhaul to 1.3.3a
-- Updated Thaumaturgy - An Enchanting Overhal to 1.1.6
+- Updated Thaumaturgy - An Enchanting Overhaul to 1.1.6
 - Updated C.O.I.N. - Coins of Interesting Natures to 1.1.11
 - Updated Quests Are In Skyrim to 1.3
 - Updated Dynamic Weather and Time Based Detection to 2.1.3
