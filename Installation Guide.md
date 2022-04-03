@@ -1,5 +1,5 @@
-Latest update: **2022-03-06**  
-Compatible with: **The Phoenix Flavour 4.13.2**
+Latest update: **2022-04-02**  
+Compatible with: **The Phoenix Flavour 4.14.1**
 
 # 1. Initial Setup
 
@@ -60,44 +60,6 @@ In order to turn TPF into SSS, you’ll need to **deactivate** the mods I do not
 
 The provided loadorder.txt and Conflict Resolution Patch in the Finalization section assumes that this method is followed for each modified section.
 
-## 2.1 TPF-X Addons
-
-With the release of TPF 4.5, Phoenix offered several “addon” modules. These were entirely optional modules that can enhance TPF in different ways. I’ve jotted some quick notes on how I feel about each one in case you were wondering, but ultimately they should all be compatible with the mods chosen in SSS:SE. Install any TPF-X mod that you like, just mind the instructions provided by Phoenix.
-
-**Note:** Modules that are not included in the `loadorder.txt` will need to be placed manually after finishing the guide. 
-
-### [Interface](https://thephoenixflavour.com/tpf-x/installation/interface/)
-**Notes:** This section contains a number of mods I explicitly chose to exclude from SSS:SE and therefore doesn’t fit the intended UI of this fork.  
-**Compatibility:** Compatible, but not recommended for this guide.
-
-### [Gameplay Tweaks](https://thephoenixflavour.com/tpf-x/installation/gameplay-tweaks/)
-**Notes:** I like the combat as it is in base TPF so I skipped this one. These mods don’t go against the design of SSS:SE, but they don’t enhance it either.  
-**Compatibility:** Compatible, will lower the difficulty of the game.
-
-### [New Gear](https://thephoenixflavour.com/tpf-x/installation/new-gear/)
-**Notes:** In the past I was adamant against adding new gear but Phoenix is pretty selective on what she adds. I trust her judgement so I’ve added it for now.  
-**Compatibility:** Compatible, recommended and included in loadorder.txt and Wabbajack.
-
-### [New Companions](https://thephoenixflavour.com/tpf-x/installation/new-companions/)
-**Notes:** I don’t like adding companions to my game. Inigo and Lucien won’t ruin the balance of SSS:SE, but they will spoil you when it comes to followers.  
-**Compatibility:** Compatible.
-
-### [Player Homes](https://thephoenixflavour.com/tpf-x/installation/player-homes/)
-**Notes:** Similar to the Companions above, Elianora’s homes tend to outshine the vanilla selection. For that reason I don’t add them, but you’re welcome to.  
-**Compatibility:** Compatible.
-
-### [New Music](https://thephoenixflavour.com/tpf-x/installation/new-music/)
-**Notes:** If you’re tired of the soundtrack, this is a good way to add more variety to the game. Most, if not all of it, fits in with the existing themes.  
-**Compatibility:** This is now included in base TPF and isn't technically a TPF-X Addon.
-
-### [Miscellaneous](https://thephoenixflavour.com/tpf-x/installation/miscellaneous/)
-**Notes:** These mods are entirely up to you. I saw no reason to add any of them to my game but your preference may be different.  
-**Compatibility:** Possibly incompatible with Apothecary's additions.
-
-### [AllGud](https://thephoenixflavour.com/tpf-x/installation/allgud/)
-**Notes:** If you want favorited items to be visible, this is what you need. Otherwise, Simple Dual Sheath is fine for adding left-handed sheaths to characters. This also used to be in TPF.  
-**Compatibility:** Compatible.
-
 # 3. Mod Installation
 
 ## 3.1 Creation Club Patches
@@ -105,8 +67,8 @@ I use all of the mods listed in TPF’s corresponding section.
 
 ## 3.2 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
-
-I’ve added the following mods to this section:
+**
+I’ve added the following mods to this section:**
 ### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
 #### Download Instructions
 - **Main Files:** Grass Control v8
@@ -124,7 +86,7 @@ I’ve added the following mods to this section:
 ## 3.3 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
 
-I’ve updated instructions for the following mod:
+**I’ve updated instructions for the following mod:**
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
 #### Additional Instructions
 - Double-click **powerofthree’s Tweaks** in your mod order.
@@ -133,7 +95,7 @@ I’ve updated instructions for the following mod:
 - In **Line 86**, change `Grabbing is Stealing =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 ### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
 #### Download Instructions
 - **Main Files:** MfgFix
@@ -145,7 +107,7 @@ I’ve added the following mods to this section:
 ## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 ### [SSE Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41953?tab=files)
 #### Download Instructions
 - **Main Files:** GameplayTweaks v5
@@ -180,14 +142,14 @@ I’ve added the following mods to this section:
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
 **RaceMenu** - You can leave this in if you want, but I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time.  
+**Nordic UI - Shout Cooldown** - I prefer the widget that comes with the TrueHUD version of Nordic UI.
 **moreHUD - TPF Preset** - I have my own preset baked into the Config & Runtime Files  
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
-**A Matter of Time - Phoenix Preset** - See above.  
-**Favorite Things - Extended Favorites Menu for SkyUI** - Not necessarily with Nordic UI.  
-**Alternate Conversation Camera Plus** - Not removed, but moved to Controls & Camera.  
+**A Matter of Time - Phoenix Preset** - See above. 
+**A Quality World Map** - Switched for A Clear Map of Skyrim and Other Worlds.
 **CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
 
-I’ve updated instructions for the following mods:
+**I’ve updated instructions for the following mods:**
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
 #### Download Instructions
 - **Main Files:** NORDIC UI (Final Design)
@@ -229,7 +191,21 @@ I’ve updated instructions for the following mods:
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
+### [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367?tab=files)
+#### Download Instructions
+- **Main Files:** A Clear Map of Skyrim and Other Worlds FOMOD - PART 1
+- **Main Files:** ACMOS Road Generator Tool - PART 2
+
+> Part 2 is required for adding roads on the world map after using SSELODGen. You can skip this step by downloading *Slidikins' Strenuous Skyrim - Terrain LOD* from the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files).
+
+#### FOMOD Instructions
+- **DynDOLOD rules:** DynDOLOD 3
+- **LOD Setup:** With DynDOLOD LOD32
+- <s>**Other Worlds:** None</s>
+- <s>**Optional Components:** None</s>
+- <s>**Patches:** None</s>
+
 ### [SkyUI - Ghost Item Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/49106?tab=files)
 #### Download Instructions
 - **Main Files:** SkyUI - Ghost Item Bug Fix
@@ -327,7 +303,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.10 Visual FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
 
-I've changed the instructions for the following mod:
+**I've changed the instructions for the following mod:**
 
 ### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
 #### Download Instructions
@@ -346,7 +322,7 @@ I've changed the instructions for the following mod:
 #### Additional Instructions
 - ESL-ify **dD-Reduced Wound Size.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501?tab=files)
 #### Download Instructions
@@ -400,7 +376,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.20 Apparel & Weapons
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/apparel-weapons/).
 
-I’ve added the following mod to this section:
+**I’ve added the following mod to this section:**
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
@@ -418,7 +394,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Adamant - Shrines and Amulets** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Skyrim Uncapper - Adamant Arena** - Replaced by my own Uncapper preset later, naturally.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099?tab=files)
 #### Download Instructions
@@ -433,7 +409,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **Improvement Names Customized** - This functionality will get covered by _Item Durability_.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -493,7 +469,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Wergild Depreciation - Crime Bounty Reduction Over Time](https://www.nexusmods.com/skyrimspecialedition/mods/11452?tab=files)
 #### Download Instructions
@@ -516,7 +492,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253?tab=files)
 #### Download Instructions
@@ -534,6 +510,10 @@ I’ve added the following mods to this section:
 #### Download Instructions
 - **Main Files:** Dynamic Weather and Time Based Detection
 
+### [Wait Your Turn - Enemy Circling Behaviour](https://www.nexusmods.com/skyrimspecialedition/mods/65091?tab=files)
+#### Download Instructions
+- **Main Files:** Wait Your Turn - Enemy Circling Behaviour
+
 ## 3.28 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
@@ -542,7 +522,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
 **Simple Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.
 
-I’ve added the following mod to this section:
+**I’ve added the following mod to this section:**
 
 ### [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files)
 #### Download Instructions
@@ -575,7 +555,7 @@ I’ve added the following mod to this section:
 ## 3.29 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Crafting Skill Leveling Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/21727?tab=files)
 #### Download Instructions
@@ -584,7 +564,8 @@ I’ve added the following mods to this section:
 #### Additional Instructions
 - Double-click **Crafting Skill Leveling Overhaul** in your mod order.
 - Switch to the Text Files tab and select the **CraftingSkill.config.txt**.
-- In **Line 248**, change `DisenchantXPMult =` to `0.025`.
+- In **Line 248**, change `DisenchantXPMult =` to `0.0125`.
+- In **Line 316**, change `AlchemyXPMult =` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [Don't Stay in the Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164?tab=files)
@@ -597,7 +578,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.31 Controls & Camera
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
 
-I’ve updated instructions for the following mod:
+**I’ve updated instructions for the following mod:**
 ### [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722?tab=files)
 #### Additional Instructions
 - Double-click **Alternate Conversation Camera Plus** in your mod order.
@@ -606,7 +587,7 @@ I’ve updated instructions for the following mod:
 - In **Line 73**, change `bEnableHUDMessagePositioning` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 ### [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614?tab=files)
 #### Download Instructions
 - **Main Files:** True Directional Movement
@@ -634,7 +615,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **XP32 Maximum Skeleton Special Extended - Fixed Scripts** - The scripts aren’t being used in _XPMSSE_ so this is unnecessary.
 
-I’ve updated instructions for the following mods:
+**I’ve updated instructions for the following mods:**
 
 ### [XP32 Maximum Skeleton Special Extended (XPMSSE)](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/#xp32-maximum-skeleton-special-extended-xpmssehttpswwwnexusmodscomskyrimspecialeditionmods1988tabfiles)
 #### FOMOD Instructions
@@ -660,7 +641,7 @@ I’ve updated instructions for the following mods:
 - In **Line 75**, change `EquipLeft=` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Draw 2 - Dual Weapon Equip-Unequip Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45579?tab=files)
 #### Download Instructions
@@ -672,23 +653,20 @@ I’ve added the following mods to this section:
 
 #### FOMOD Instructions
 - Page 1: Install Type
-  - **Options:** Modular
-- Page 2: Modular
-  - **Torch:** Full
-  - **Repurposed Idles:** Full
-  - <s>**Personality:** Elder</s>
-  - <s>**Personality:** Elder - Sitting</s>
-  - **Personality:** Children
-  - **Personality:** Young Female
-  - **Personality:** Imperial Guards
-  - **Personality:** Egoistic
-  - **Miscellaneous:** Wounded
-  - **Miscellaneous:** Smooth Floating
-  - <s>**Miscellaneous:** Laying Down</s>
+  - **Options:** Recommended
 
 ### [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006?tab=files)
 #### Download Instructions
 - **Main Files:** EVG Conditional Idles
+
+### [Gesture Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/64420?tab=files)
+#### Download Instructions
+- **Main Files:** Gesture Animation Remix (DAR) - main archive
+
+### [NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471?tab=files)
+#### Download Instructions
+- **Main Files:** NPC Animation Remix (DAR) - main download (no idles for your Dovahkiin since this version)
+- **Optional Files:** NPC AR weight shift idles replacer to install with Gesture Animation Remix
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
@@ -701,11 +679,15 @@ I’ve added the following mods to this section:
 ## 3.33 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
-I’ve added the following mods to this section:
+**I’ve added the following mods to this section:**
 
 ### [Keyword Item Distrubtor](https://www.nexusmods.com/skyrimspecialedition/mods/55728?tab=files)
 #### Download Instructions
 - **Main Files:** Keyword Item Distributor
+
+### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
+#### Download Instructions
+- **Main Files:** Base Object Swapper SE
 
 # 4. Finalization
 
