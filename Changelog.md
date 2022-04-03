@@ -20,6 +20,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - **Conflict Resolution:** Removed almost all Elemental Staff edits in lieu of upcoming Mysticism Patch
 - **Conflict Resolution:** Lowered Tier 4, 5, and 6 Dragons to Lv30, 40, and 50 respectively
 - **Conflict Resolution:** Modified Container Weight script so that you are only alerted when the container is full
+- **Conflict Resolution:** Modified one script in Dynamic Weather and Time Based Detection to prevent variable bloat
 - **Configuration & Runtime:** Adjusted Smoothcam settings
 - **Configuration & Runtime:** Lowered Conjuration, Destruction, and Restoration experience rates due to the Mysticism update
 
@@ -50,6 +51,7 @@ Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14
 - Updated C.O.I.N. - Coins of Interesting Natures to 1.1.11
 - Updated Quests Are In Skyrim to 1.3
 - Updated Dynamic Weather and Time Based Detection to 2.1.3
+- Updated Fish Anywhere With Water to 0.5
 - Updated EVG Animation Variance to 1.1
 - Updated True Directional Movement to 2.2.1
 
