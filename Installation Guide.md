@@ -389,6 +389,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
 - **Optional Files:** Elemental Staffs SE Basic » `merge with the first file`
+- **Optional Files:** Mysticism 2 Patch
+
+#### Additional Instructions
+- ESL-ify **Elemental_Staffs_Patch_Mysticism.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ## 3.21 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
