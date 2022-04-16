@@ -1,4 +1,4 @@
-Latest update: **2022-04-14**  
+Latest update: **2022-04-16**  
 Compatible with: **The Phoenix Flavour 4.14.3**
 
 # 1. Initial Setup
@@ -514,6 +514,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition)
 
+### [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484?tab=files)
+#### Download Instructions
+- **Main Files:** Adamant perks for NPCS 10
+
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
 - **Main Files:** STAYDOWN - LIGHT
@@ -680,7 +684,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471?tab=files)
 #### Download Instructions
 - **Main Files:** NPC Animation Remix (DAR) - main download (no idles for your Dovahkiin since this version)
-- **Optional Files:** NPC AR weight shift idles replacer to install with Gesture Animation Remix
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
