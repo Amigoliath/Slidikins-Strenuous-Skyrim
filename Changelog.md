@@ -1,7 +1,39 @@
-Latest update: **2022-04-03**  
-Compatible with: **The Phoenix Flavour 4.14.1**
+Latest update: **2022-04-16**  
+Compatible with: **The Phoenix Flavour 4.14.3**
 
 # Changelog
+
+## 2022-04-16 (4.14.3)
+Updated for [TPF 4.14.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.2) and [TPF 4.14.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.3)
+
+#### Mod Installation
+- **Visual FX:** Removed Frozen Electrocuted Combustion - Settings Loader
+- **Architecture:** Added Unique Markarth Doors
+- **Apparel & Weapons:** Adjusted instructions for Elemental Staffs
+- **Combat & Encounters:** Added Adamant Perks for NPCs
+- **Miscellaneous:** Removed mention of Simple Wearable Lanterns as it's been removed from TPF
+- **Miscellaneous:** Removed Wearable Lanterns and associated mods from TPF
+- **Skeletons & Animations:** Removed NPC Animation Remix - AR Weight Shift Idles Replacer
+- **Conflict Resolution:** Forwarded Pilgrim's changes to Stendarr's Aura `02008A5D`
+- **Configuration & Runtime Files:** Adjusted player status bars to be of uniform length
+
+#### Wabbajack
+- Updated DynDOLOD to 3.00 Alpha-88
+- Updated Skyrim Particle Patch for ENB to 1.0.6
+- Updated Assorted Mesh Fixes to 0.48.1
+- Updated Fixed Mesh Lighting to 1.7.3
+- Updated Frozen Electrocuted Combustion to 5.0.1
+- Updated Realistic Water Two to 5.3.0
+- Updated Skyland - Solitude to 1.7
+- Updated Mysticism - A Magic Overhaul to 2.0.5
+- Updated Adamant - A Perk Overhaul to 5.4.3
+- Updated Adamant - Hand to Hand Addon to 1.1.13
+- Updated Pilgrim - A Religion Overhaul to 1.0.13
+- Updated Gesture Animation Remix to 1.1.0
+- Updated NPC Animation Remix to 1.1
+- Updated powerofthree's Papyrus Extender to 5.0.3
+- Updated Base Object Swapper to 1.5
+- Updated Dynamic Weather and Time Based Detection to 2.1.4
 
 ## 2022-04-01 (4.14.1)
 Updated for [TPF 4.14](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.0) and [TPF 4.14.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.1)
