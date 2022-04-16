@@ -1,5 +1,5 @@
-Latest update: **2022-04-03**  
-Compatible with: **The Phoenix Flavour 4.14.1**
+Latest update: **2022-04-16**  
+Compatible with: **The Phoenix Flavour 4.14.3**
 
 # 1. Initial Setup
 
@@ -301,7 +301,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/lighting/).
 
 ## 3.10 Visual FX
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/) with the exception of:
+
+**Removed Frozen Electrocuted Combustion - Settings Loader** - Unnecessary with the newer version of Frozen Electrocuted Combustion
 
 **I've changed the instructions for the following mod:**
 
@@ -355,6 +357,12 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.13 Architecture
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/architecture/).
 
+**I’ve added the following mod to this section:**
+
+### [Unique Markarth Doors](https://www.nexusmods.com/skyrimspecialedition/mods/62969?tab=files)
+#### Download Instructions
+- **Main Files:** Unique Markarth Doors
+
 ## 3.14 Misc Structures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/misc-structures/).
 
@@ -381,6 +389,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Elemental Staffs SE
 - **Optional Files:** Elemental Staffs SE Basic » `merge with the first file`
+- **Optional Files:** Mysticism 2 Patch
+
+#### Additional Instructions
+- ESL-ify **Elemental_Staffs_Patch_Mysticism.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins)).
 
 ## 3.21 Creatures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
@@ -502,6 +514,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition)
 
+### [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484?tab=files)
+#### Download Instructions
+- **Main Files:** Adamant perks for NPCS 10
+
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
 - **Main Files:** STAYDOWN - LIGHT
@@ -520,7 +536,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_  
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
-**Simple Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.
+**Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.
+**Wearable Lanterns - Patch** - For Wearable Lanterns, which has been removed.
+**ENB Particle Light for Wearable Lanterns** - For Wearable Lanterns, which has been removed.
 
 **I’ve added the following mod to this section:**
 
@@ -666,7 +684,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471?tab=files)
 #### Download Instructions
 - **Main Files:** NPC Animation Remix (DAR) - main download (no idles for your Dovahkiin since this version)
-- **Optional Files:** NPC AR weight shift idles replacer to install with Gesture Animation Remix
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
