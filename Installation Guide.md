@@ -224,15 +224,16 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
 #### Download Instructions
-- **Main Files:** Simple Activate SKSE - SE
+- **Main Files:** Simple Activate SKSE
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
-- In **Line 64**, change `Show Indicator Using Name =` to `false`.
-- In **Line 76**, change `Custom Indicator Color =` to `#4d4d4d`.
-- In **Line 82**, change `Hide Locked Tag =` to `true`.
-- In **Line 108**, change `Custom Indicator Color` to `#4d4d4d`.
+- In **Line 43**, change `Show Indicator Using Name =` to `false`.
+- In **Line 52**, change `Show Indicator Using Name =` to `false`.
+- In **Line 65**, change `Custom Locked Tag =` to ``.
+- In **Line 68**, change `Show Indicator Using Name =` to `false`.
+- In **Line 87**, change `Custom Indicator Color =` to `#4d4d4d`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
