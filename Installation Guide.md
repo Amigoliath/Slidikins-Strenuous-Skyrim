@@ -477,7 +477,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** OWL - COIN Patch
 
 ## 3.25 Non-Player Characters
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/) with the exception of:
+
+**Immersive Patrols Simplified** - No longer necessary with _Immersive Patrols_ v3.0 
+
+**I’ve updated instructions for the following mod:**
+### [Immersive Patrols](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/#immersive-patrolshttpswwwnexusmodscomskyrimspecialeditionmods718tabfiles)
+#### Download Instructions
+- **Main Files:** Immersive Patrols Lite (Large Battles Removed)
 
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
