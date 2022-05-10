@@ -1,5 +1,5 @@
-Latest update: **2022-04-16**  
-Compatible with: **The Phoenix Flavour 4.14.3**
+Latest update: **2022-05-09**  
+Compatible with: **The Phoenix Flavour 4.14.4**
 
 # 1. Initial Setup
 
@@ -224,15 +224,16 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [Simple Activate SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/56767?tab=files)
 #### Download Instructions
-- **Main Files:** Simple Activate SKSE - SE
+- **Main Files:** Simple Activate SKSE
 
 #### Additional Instructions
 - Double-click **Simple Activate SKSE** in your mod order.
 - Switch to the INI Files tab and select the **po3_SimpleActivateSKSE.ini**.
-- In **Line 64**, change `Show Indicator Using Name =` to `false`.
-- In **Line 76**, change `Custom Indicator Color =` to `#4d4d4d`.
-- In **Line 82**, change `Hide Locked Tag =` to `true`.
-- In **Line 108**, change `Custom Indicator Color` to `#4d4d4d`.
+- In **Line 43**, change `Show Indicator Using Name =` to `false`.
+- In **Line 52**, change `Show Indicator Using Name =` to `false`.
+- In **Line 65**, change `Custom Locked Tag =` to ``.
+- In **Line 68**, change `Show Indicator Using Name =` to `false`.
+- In **Line 87**, change `Custom Indicator Color =` to `#4d4d4d`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
@@ -476,7 +477,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** OWL - COIN Patch
 
 ## 3.25 Non-Player Characters
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/) with the exception of:
+
+**Immersive Patrols Simplified** - No longer necessary with _Immersive Patrols_ v3.0 
+
+**I’ve updated instructions for the following mod:**
+### [Immersive Patrols](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/#immersive-patrolshttpswwwnexusmodscomskyrimspecialeditionmods718tabfiles)
+#### Download Instructions
+- **Main Files:** Immersive Patrols Lite (Large Battles Removed)
 
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
