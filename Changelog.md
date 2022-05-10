@@ -1,7 +1,34 @@
-Latest update: **2022-04-16**  
-Compatible with: **The Phoenix Flavour 4.14.3**
+Latest update: **2022-05-09**  
+Compatible with: **The Phoenix Flavour 4.14.4**
 
 # Changelog
+
+## 2022-05-09 (4.14.4)
+Updated for [TPF 4.14.4](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.4)
+
+#### Mod Installation
+- **Interface:** Updated download and addition instructions for Simple Activate SKSE
+- **Non-Player Characters:** Updated instructions for Immersive Patrols Lite
+- **Non-Player Characters:** Removed Immersive Patrols Simplified as it's no longer necessary
+
+#### Wabbajack
+- Updated BethINI to 3.6.1
+- Updated DynDOLOD to 3.00 Alpha-25
+- Updated Particle Patch for ENB to 1.0.9
+- Updated Assorted Mesh Fixes to 0.54
+- Updated College of Winterhold Quest Start Fixes to 0.3.1
+- Updated Contextual Crosshair to 1.2
+- Updated Simple Activate SKSE to 1.3.1
+- Updated DynDOLOD Resources to 3.00 Alpha-25
+- Updated Fixed Mesh Lighting to 1.7.6
+- Updated Turn of the Seasons to 1.0.7
+- Updated Seasonal Aspen Trees - Turn of the Seasons Patch to 1.02
+- Updated Mysticism - A Magic Overhaul to 2.0.6
+- Updated Adamant - A Perk Overhaul 5.4.4
+- Updated Pilgrim - A Religion Overhaul to 1.0.14.2
+- Updated Immersive Patrols Lite to 3.0
+- Updated Audio Overhaul - Immersive Sounds Integration to 1.1
+- Updated Conditional Expressions to 1.21
 
 ## 2022-04-16 (4.14.3)
 Updated for [TPF 4.14.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.2) and [TPF 4.14.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.3)
