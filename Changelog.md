@@ -1,7 +1,39 @@
-Latest update: **2022-05-09**  
-Compatible with: **The Phoenix Flavour 4.14.4**
+Latest update: **2022-06-25**  
+Compatible with: **The Phoenix Flavour 4.15.0**
 
 # Changelog
+
+## 2022-06-25 (4.15.0)
+Updated for [TPF 4.14.5](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.5) and [TPF 4.15.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.0) 
+
+#### Mod Installation
+- **Essential Mods:** Removed (including mentions of) No Grass in Objects
+- **Interface:** Renamed TrueHUD to TrueHUD - HUD Additions and shifted its place, additional instructions remain
+- **Interface:** Removed Nordic-ish - A Preset for TrueHUD based on Nordic UI from TPF's instructions
+- **Visual FX:** Removed removal of Frozen Electrocuted Combustion - Settings Loader which is no longer in TPF
+- **Non Player Characters:** Added NPCs Wear Amulets of Mara
+- **Combat & Encounters:** Adjusted Adamant Perks for NPCs to 30%
+- **Combat & Encounters:** Added Unarmed Weapon Speed Scaling (until it's added to TPF)
+- **Conflict Resolution:** Removed edit to DW_LCharDragonAny `0005EACF`
+- **Conflict Resolution:** Amended changes to Ingredients to match Apothecary updates
+- **Nemesis:** Added Unarmed Scaling Unlocked to the list of selected patches
+
+#### Wabbajack
+- Updated DynDOLOD to 3.00 Alpha-95
+- Updated A Clear Map of Skyrim and Other Worlds updated to 3.2
+- Updated DynDOLOD Resources to 3.00 Alpha-27
+- Updated Seasons of Skyrim to 1.7.0
+- Updated Skyland - Winterhold to 1.5
+- Updated JS Shrines of the Divines SE to 1.3
+- Updated Pilgrim - A Religion Overhaul to 1.1.0.1
+- Updated Survival Mode Improved to 1.3.0
+- Updated Immersive Patrols updated to 3.0a
+- Updated NPCs Wear Amulets of Mara to 2.0
+- Updated Adamant Perks for NPCs to 2.36
+- Updated EVG Conditional Idles to 1.42
+- Updated Conditional Expressions to 1.26
+- Updated Base Object Swapper to 1.6.0
+
 
 ## 2022-05-09 (4.14.4)
 Updated for [TPF 4.14.4](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.4)
