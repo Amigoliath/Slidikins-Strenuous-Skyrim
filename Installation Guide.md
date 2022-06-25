@@ -1,5 +1,5 @@
-Latest update: **2022-05-09**  
-Compatible with: **The Phoenix Flavour 4.14.4**
+Latest update: **2022-06-25**  
+Compatible with: **The Phoenix Flavour 4.15.0**
 
 # 1. Initial Setup
 
@@ -60,6 +60,8 @@ In order to turn TPF into SSS, you’ll need to **deactivate** the mods I do not
 
 The provided loadorder.txt and Conflict Resolution Patch in the Finalization section assumes that this method is followed for each modified section.
 
+Furthermore, as of The Phoenix Flavour 4.15 there is now a **Difficulty Modifiers** section near the bottom of the modlist. Users have the option of disabling the mods within it for extra difficulty. My recommendation for SSS is to do just that; disable them for the intended experience. 
+
 # 3. Mod Installation
 
 ## 3.1 Creation Club Patches
@@ -67,21 +69,6 @@ I use all of the mods listed in TPF’s corresponding section.
 
 ## 3.2 Essential Mods
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
-**
-I’ve added the following mods to this section:**
-### [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161?tab=files)
-#### Download Instructions
-- **Main Files:** Grass Control v8
-
-#### Additional Instructions
-- Double-click **No Grass In Objects** in your mod order.
-- Switch to the Text Files tab and select the **GrassControl.config.txt**.
-- In **Line 149**, change `OverwriteGrassDistance =` to `12000`.
-- In **Line 163**, change `OverwriteGrassFadeRange =` to `8000`.
-- In **Line 219**, change `OnlyPregenerateWorldSpaces =` to `"Blackreach;BlindCliffCaveWorld;BloatedMansGrottoWorld;BluePalaceWingWorld;DarkwaterWorld;DeepwoodRedoubtWorld;DLC01FalmerValley;DLC01SoulCairn;DLC1AncestorsGladeWorld;DLC1DarkfallPassageWorld;DLC1ForebearsHoldout;DLC1HunterHQWorld;DLC1VampireCastleCourtyard;DLC2SolstheimWorld;EastEmpireWarehouse;EldergleamSanctuaryWorld;FallowstoneCaveWorldEnd;FallowstoneCaveWorldStart;FrostmereCryptWorld;JaphetsFollyWorld;KarthspireRedoubtWorld;KatariahWorld;MarkarthWorld;MossMotherCavernWorld;RiftenWorld;ShadowgreenCavernWorld;SkuldafnWorld;SolitudeWorld;Sovngarde;Tamriel;WhiterunWorld;WindhelmWorld"`.
-- Hit **CTRL+S** to save your changes and close the window.
-
-> Due to the inclusion of *Seasons of Skyrim* we won't be using the Grass Cache just yet. The rest of the mod is still useful, however.
 
 ## 3.3 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
@@ -142,12 +129,12 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
 **RaceMenu** - You can leave this in if you want, but I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time.  
-**Nordic UI - Shout Cooldown** - I prefer the widget that comes with the TrueHUD version of Nordic UI.
-**moreHUD - TPF Preset** - I have my own preset baked into the Config & Runtime Files  
+**Nordic UI - Shout Cooldown** - I prefer the widget that comes with the TrueHUD version of Nordic UI.  
+**moreHUD - TPF Preset** - I have my own preset baked into the Config & Runtime Files.  
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
 **A Matter of Time - Phoenix Preset** - See above. 
-**A Quality World Map** - Switched for A Clear Map of Skyrim and Other Worlds.
-**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.
+**A Quality World Map** - Switched for A Clear Map of Skyrim and Other Worlds.  
+**CoMAP - Common Marker Addon Project** - Incompatible with Nordic UI's map markers, which I like.  
 
 **I’ve updated instructions for the following mods:**
 ### [NORDIC UI - Interface Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/49881?tab=files)
@@ -180,7 +167,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Nordic UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102?tab=files)
 #### Download Instructions
 - **Main Files:** NORDIC UI - Miscellaneous Patches
-- 
+
 #### FOMOD Instructions
 - **moreHUD Inventory:** None
 - **Stat Screen Colored Icons:** 2.4 style Icons
@@ -190,6 +177,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Remove QuickSave from System Menu:** Install
 - <s>**Loading Screen:** Install</s>
 - <s>**Tween Menu:** Install</s>
+
+### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
+#### Download Instructions
+- **Main Files:** TrueHUD (SE)
+
+#### Additional Instructions
+- ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 **I’ve added the following mods to this section:**
 ### [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367?tab=files)
@@ -235,13 +229,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - In **Line 68**, change `Show Indicator Using Name =` to `false`.
 - In **Line 87**, change `Custom Indicator Color =` to `#4d4d4d`.
 - Hit **CTRL+S** to save your changes and close the window.
-
-### [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775?tab=files)
-#### Download Instructions
-- **Main Files:** TrueHUD (SE)
-
-#### Additional Instructions
-- ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 ## 3.6 Graphics Baseline
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/graphics-baseline/).
@@ -302,9 +289,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/lighting/).
 
 ## 3.10 Visual FX
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/) with the exception of:
-
-**Removed Frozen Electrocuted Combustion - Settings Loader** - Unnecessary with the newer version of Frozen Electrocuted Combustion
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/visual-fx/).
 
 **I've changed the instructions for the following mod:**
 
@@ -340,8 +325,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Blood Brightness:** Default
 - **Plugin:** No
 
-### [Wash That Blood Off 2
-](https://www.nexusmods.com/skyrimspecialedition/mods/62358?tab=files)
+### [Wash That Blood Off 2](https://www.nexusmods.com/skyrimspecialedition/mods/62358?tab=files)
 #### Download Instructions
 - **Main Files:** Wash That Blood Off SE
 
@@ -484,7 +468,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **I’ve updated instructions for the following mod:**
 ### [Immersive Patrols](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/#immersive-patrolshttpswwwnexusmodscomskyrimspecialeditionmods718tabfiles)
 #### Download Instructions
-- **Main Files:** Immersive Patrols Lite (Large Battles Removed)
+- **Main Files:** Immersive Patrols (Lite)
+
+**I’ve added the following mods to this section:**
+
+### [NPCs Wear Amulets of Mara](https://www.nexusmods.com/skyrimspecialedition/mods/66125?tab=files)
+#### Download Instructions
+- **Main Files:** NPCs Wear Amulets of Mara 2.0
 
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
@@ -514,6 +504,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **I’ve added the following mods to this section:**
 
+### [Unarmed Weapon Speed Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/67518?tab=files)
+#### Download Instructions
+- **Main Files:** Unarmed Weapon Speed Scaling plus Unlocked Power Attacks
+
 ### [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253?tab=files)
 #### Download Instructions
 - **Main Files:** Resistances and Weaknesses - Main File
@@ -524,7 +518,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484?tab=files)
 #### Download Instructions
-- **Main Files:** Adamant perks for NPCS 10
+- **Main Files:** Adamant perks for NPCS 30
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
@@ -757,7 +751,8 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - Run **Nemesis** through Mod Organizer 2.
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
 - Click the **Update Engine** button and wait for the process to be completed.
-- When it’s done, check the **Ice Skating Fixed for Real** box.
+- When it’s done, check the **Unarmed Scaling Unlocked** box.
+- Also check the **Ice Skating Fixed for Real** box.
 - Also check the **Jump Behavior Overhaul** box.
 - Also check the **True Directional Movement - 360 Horse Archery** box.
 - Finally, check the **True Directional Movement - Headtracking** box.
