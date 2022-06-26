@@ -3,6 +3,19 @@ Compatible with: **The Phoenix Flavour 4.15.0**
 
 # Changelog
 
+## 2022-06-25 (4.15.0.1)
+#### Mod Installation
+- **Fixes:** Added Vanilla Scripting Enhancements
+- **Assorted Plugins:** Hid INI file from Remember Lockpick Angle
+- **Assorted Plugins:** Added Equipment Toggle 2
+
+#### Wabbajack
+- Updated Player Spell Lighting to 1.0.1
+- Updated Player Spell Lighting - Mysticism Patch to 1.1.0
+- Updated Dragon War - A Dragon Overhaul to 2.1.4
+- Replaced Immersive Sounds Compendium - Mysticism Patch with AelixSSB's v1.0
+- Updated Dragon War - Reduced Difficulty to 2.1.4
+
 ## 2022-06-25 (4.15.0)
 Updated for [TPF 4.14.5](https://github.com/Codygits/TPF-Updates/releases/tag/4.14.5) and [TPF 4.15.0](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.0) 
 
