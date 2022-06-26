@@ -83,6 +83,15 @@ I use all of the mods listed in [TPF’s corresponding section.](https://thephoe
 - Hit **CTRL+S** to save your changes and close the window.
 
 **I’ve added the following mods to this section:**
+### [Vanilla Scripting Enhancements
+](https://www.nexusmods.com/skyrimspecialedition/mods/68139?tab=files)
+#### Download Instructions
+- **Main Files:** Loose Version
+
+### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
+#### Download Instructions
+- **Main Files:** Spiders of Solstheim - Transparency Fix
+
 ### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
 #### Download Instructions
 - **Main Files:** MfgFix
@@ -584,13 +593,17 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Additional Instructions
 - Double-click **Crafting Skill Leveling Overhaul** in your mod order.
 - Switch to the Text Files tab and select the **CraftingSkill.config.txt**.
-- In **Line 248**, change `DisenchantXPMult =` to `0.0125`.
+- In **Line 248**, change `DisenchantXPMult =` to `0.005`.
 - In **Line 316**, change `AlchemyXPMult =` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
 ### [Don't Stay in the Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164?tab=files)
 #### Download Instructions
 - **Main Files:** Don't Stay in The Water
+
+### [Equipment Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/68540?tab=files)
+#### Download Instructions
+- **Main Files:** Equipment Toggle
 
 ## 3.30 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).

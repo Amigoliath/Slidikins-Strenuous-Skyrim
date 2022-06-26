@@ -18,6 +18,7 @@ In general, expect the game to tell you far less information, leaving you to inf
 - **Quick Magic:** `F3`
 - **Quick Stats:** `F1`
 - **Toggle Compass:** `X`
+- **Toggle Helmet:** `H `
 
 ## 2. Survival and Exploration
 This list expects you to enable [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) when prompted at the end of the tutorial sequence and to deal with its mechanics, specifically *eating*, *sleeping*, and *keeping warm*.
