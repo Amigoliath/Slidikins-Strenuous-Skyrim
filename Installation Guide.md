@@ -597,10 +597,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Don't Stay in The Water
 
-### [Equipment Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/68540?tab=files)
-#### Download Instructions
-- **Main Files:** Equipment Toggle
-
 ## 3.30 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
 
