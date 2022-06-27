@@ -1,5 +1,5 @@
-Latest update: **2022-06-25**  
-Compatible with: **The Phoenix Flavour 4.15.0**
+Latest update: **2022-06-27**  
+Compatible with: **The Phoenix Flavour 4.15.1**
 
 # 1. Initial Setup
 
@@ -512,10 +512,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
 
 **I’ve added the following mods to this section:**
-
-### [Unarmed Weapon Speed Scaling](https://www.nexusmods.com/skyrimspecialedition/mods/67518?tab=files)
-#### Download Instructions
-- **Main Files:** Unarmed Weapon Speed Scaling plus Unlocked Power Attacks
 
 ### [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253?tab=files)
 #### Download Instructions
