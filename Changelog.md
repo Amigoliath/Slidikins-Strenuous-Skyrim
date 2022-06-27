@@ -1,7 +1,17 @@
-Latest update: **2022-06-25**  
-Compatible with: **The Phoenix Flavour 4.15.0**
+Latest update: **2022-06-27**  
+Compatible with: **The Phoenix Flavour 4.15.1**
 
 # Changelog
+
+## 2022-06-27 (4.15.1)
+Updated for [TPF 4.15.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.1)
+
+#### Mod Installation
+- **Combat and Encounters:** Removed Unarmed Weapon Speed Scaling as it's now in TPF
+
+#### Wabbajack
+- Updated Assorted mesh fixes to 0.65
+- Updated Immersive Sounds Compendium - Mysticism & Adamant Patch to 1.1
 
 ## 2022-06-25 (4.15.0.1)
 #### Mod Installation
