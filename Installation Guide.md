@@ -348,6 +348,28 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
 
+**I’ve added the following mods to this section:**
+### [Cathedral - 3D Pine Grass - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
+#### Download Instructions
+- **Main Files:** Cathedral - 3D Pine Grass for ENB Complex Grass
+
+### [Folkvangr - Grass and Landscape Overhaul - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
+#### Download Instructions
+- **Main Files:** Folkvangr for ENB Complex Grass
+
+### [QW’s Grass Patch - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/48689?tab=files)
+#### Download Instructions
+- **Main Files:** QW Grass 1 For ENB Complex Grass
+
+### [Landscapes - Cathedral Concept - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
+#### Download Instructions
+- **Main Files:** Cathedral Landscapes for ENB Complex Grass
+
+#### FOMOD Instructions
+- **Green Tundra:** No
+
+> *Landscapes - Cathedral Concept* is only used in the Performance Profile of TPF/SSS so you can skip it if you use the regular profile. Similarly, if you use the performance profile you can skip the *Folkvangr* and *QW's Grass Patch* entries in this section. Regardless, **all ENB Complex Grass mods should be disabled when generating LODs.**
+
 ## 3.13 Architecture
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/architecture/).
 
@@ -465,9 +487,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - <s>**Other Patches:** Complete Alchemy and Cooking Overhaul</s>
 - **Other Patches:** Unofficial Skyrim Special Edition Patch
 
-### [Open World Loot - C.O.I.N. Patch](https://www.nexusmods.com/skyrimspecialedition/mods/51489?tab=files)
+### [C.O.I.N. - Merchant Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/70644?tab=files)
 #### Download Instructions
-- **Main Files:** OWL - COIN Patch
+- **Main Files:** C.O.I.N. - Merchant Exchange
+
+### [Open World Loot - C.O.I.N. Patch](https://www.nexusmods.com/skyrimspecialedition/mods/60889?tab=files)
+#### Download Instructions
+- **Main Files:** OWL - COIN
 
 ## 3.25 Non-Player Characters
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/non-player-characters/) with the exception of:
@@ -589,7 +615,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Additional Instructions
 - Double-click **Crafting Skill Leveling Overhaul** in your mod order.
 - Switch to the Text Files tab and select the **CraftingSkill.config.txt**.
-- In **Line 248**, change `DisenchantXPMult =` to `0.005`.
 - In **Line 316**, change `AlchemyXPMult =` to `1`.
 - Hit **CTRL+S** to save your changes and close the window.
 
@@ -634,6 +659,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 This is only necessary if you do not download the Configuration & Runtime Files later in the guide.
 #### Download Instructions
 - **Miscellaneous Files:** Slidikins’ SmoothCam Preset
+
+### [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339?tab=files)
+#### Download Instructions
+- **Main Files:** Better Third Person Selection (SE)
 
 ## 3.32 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
@@ -789,7 +818,7 @@ All controls changed from the Default:
 
 ### Honed Metal
 - **General** Section
-  - Crafting Cost Modifier: `0.60`
+  - Crafting Cost Modifier: `0.80`
   - Tempering Cost Modifier: `0.04`
   - Enchanting Cost Modifier: `0.28`
 
