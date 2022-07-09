@@ -343,7 +343,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** Splashes Of Skyrim - 1.3
 
 ## 3.11 Landscape
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/) with the exception of:
+
+**Assorted Mesh Fixes - SMIM - Really Blended Roads Patch** - Unnecessary with the updated *Skyland - Solitude*
 
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
