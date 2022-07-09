@@ -15,7 +15,7 @@ Compatible with: **The Phoenix Flavour 4.15.1**
 - **Loot & Crafting:** Added C.O.I.N. - Merchant Exchange
 - **Loot & Crafting:** Changed source of Open World Loot - C.O.I.N. Patch
 - **Assorted Plugins:** Reverted `DisenchantXPMult` to `0.0025` in Crafting Skill Leveling Overhaul
-- **Controls & Camera:** Added Better Thired Person Selection
+- **Controls & Camera:** Added Better Third Person Selection
 - **Conflict Resolution:** Removed incorrect edits to MAG_DarkElfSpellCost `000E40D4`
 - **Conflict Resolution:** Forwarded Survival changes to MAG_flameCloak `0003AE9F` and MAG_FlameCloakScroll `000A44AB`
 - **Conflict Resolution:** Fixed error on doomSteedAbility `000E5F5E` and doomSteedFortifyCarryWeight due to a previous Mundus update
