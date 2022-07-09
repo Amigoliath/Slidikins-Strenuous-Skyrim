@@ -83,8 +83,7 @@ I use all of the mods listed in [TPF’s corresponding section.](https://thephoe
 - Hit **CTRL+S** to save your changes and close the window.
 
 **I’ve added the following mods to this section:**
-### [Vanilla Scripting Enhancements
-](https://www.nexusmods.com/skyrimspecialedition/mods/68139?tab=files)
+### [Vanilla Scripting Enhancements](https://www.nexusmods.com/skyrimspecialedition/mods/68139?tab=files)
 #### Download Instructions
 - **Main Files:** Loose Version
 
