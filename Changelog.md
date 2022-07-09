@@ -1,7 +1,51 @@
-Latest update: **2022-06-27**  
+Latest update: **2022-07-09**  
 Compatible with: **The Phoenix Flavour 4.15.1**
 
 # Changelog
+
+## 2022-07-09 (4.15.1.1)
+
+#### Mod Installation
+- **Landscape:** Removed Assorted Mesh Fixes - SMIM - Really Blended Roads Patch as it's completely overwritten
+- **Trees & Plants:** Added Folkvangr - Grass and Landscape Overhaul - ENB Complex Grass
+- **Trees & Plants:** Added Cathedral - 3D Pine Grass - ENB Complex Grass
+- **Trees & Plants:** Added QW’s Grass Patch - ENB Complex Grass
+- **Trees & Plants:** Added Landscapes - Cathedral Concept - ENB Complex Grass
+- **Valuable Items:** Revised instructions for Rudy HQ - More Lights for ENB - Soul Gems to avoid freezes
+- **Loot & Crafting:** Added C.O.I.N. - Merchant Exchange
+- **Loot & Crafting:** Changed source of Open World Loot - C.O.I.N. Patch
+- **Assorted Plugins:** Reverted `DisenchantXPMult` to `0.0025` in Crafting Skill Leveling Overhaul
+- **Controls & Camera:** Added Better Third Person Selection
+- **Conflict Resolution:** Removed incorrect edits to MAG_DarkElfSpellCost `000E40D4`
+- **Conflict Resolution:** Forwarded Survival changes to MAG_flameCloak `0003AE9F` and MAG_FlameCloakScroll `000A44AB`
+- **Conflict Resolution:** Fixed error on doomSteedAbility `000E5F5E` and doomSteedFortifyCarryWeight due to a previous Mundus update
+
+#### Wabbajack
+- Updated eFPS - Exterior FPS Boost to 2.4
+- Updated Assorted Mesh Fixes to 0.67
+- Updated NPC AI Proccess Position Fix to 1.1
+- Updated Veydosebrom Regions to 1.2.1
+- Updated QW's Grass Patch to 2.1
+- Updated Awesome Potions Simplified - ENB Lights to 1.2
+- Updated Modular Armory to 1.3
+- Updated Mysticism - A Magic Overhaul to 2.0.10
+- Updated Adamant - A Perk Overhaul to 5.5.4
+- Updated Adamant - Hand to Hand Addon to 1.3.2
+- Updated Hand to Hand - Armor Addon to 1.3.2
+- Updated Forceful Tongue - Shouts Overhaul to 3.0.7
+- Updated Forceful Tongue - Shouts Overhaul - SimonRim Patch to 3.0.7
+- Updated Armor and Clothing Extension to 1.5
+- Updated Dragon War - A Dragon Overhaul to 2.1.5
+- Updated Security Overhaul SKSE - Lock Variations to 3.1
+- Updated Security Overhaul SKSE - Add-ons to 0.1.6
+- Updated Unequip Quiver to 2.1
+
+#### Bug Fixes
+This list does not include fixes from individual mods that were updated. For those, please check their respective changelogs.  
+- Dislodging soul gems from traps via force no longer freezes the game
+- Dunmers no longer receive incorrect racial abilities no granted through Adamant
+- Flame Cloak (and Scrolls of Flame Cloak) properly prevent health damage from swimming in freezing water
+- Disease resistance now properly works against Survival Mode's added diseases
 
 ## 2022-06-27 (4.15.1)
 Updated for [TPF 4.15.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.1)
