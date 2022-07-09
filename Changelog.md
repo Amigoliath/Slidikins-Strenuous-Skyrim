@@ -40,13 +40,6 @@ Compatible with: **The Phoenix Flavour 4.15.1**
 - Updated Security Overhaul SKSE - Add-ons to 0.1.6
 - Updated Unequip Quiver to 2.1
 
-#### Bug Fixes
-This list does not include fixes from individual mods that were updated. For those, please check their respective changelogs.  
-- Dislodging soul gems from traps via force no longer freezes the game
-- Dunmers no longer receive incorrect racial abilities no granted through Adamant
-- Flame Cloak (and Scrolls of Flame Cloak) properly prevent health damage from swimming in freezing water
-- Disease resistance now properly works against Survival Mode's added diseases
-
 ## 2022-06-27 (4.15.1)
 Updated for [TPF 4.15.1](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.1)
 
