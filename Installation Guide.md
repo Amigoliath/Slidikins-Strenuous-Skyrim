@@ -394,6 +394,16 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.18 Valuable Items
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/valuable-items/).
 
+**I've changed the instructions for the following mod:**
+
+### [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files)
+#### Additional Instructions
+
+In addition to the previous instructions, delete the following files:  
+- `meshes\clutter\soulgem\soulgemcommon_full.nif`  
+- `meshes\clutter\soulgem\soulgemlesser_full.nif`
+- `meshes\clutter\soulgem\soulgempetty_full.nif`
+
 ## 3.19 Food & Ingredients
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/food-ingredients/).
 
