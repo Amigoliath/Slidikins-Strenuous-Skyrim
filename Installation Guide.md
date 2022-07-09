@@ -1,4 +1,4 @@
-Latest update: **2022-06-27**  
+Latest update: **2022-07-09**  
 Compatible with: **The Phoenix Flavour 4.15.1**
 
 # 1. Initial Setup
