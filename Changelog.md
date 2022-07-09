@@ -19,7 +19,6 @@ Compatible with: **The Phoenix Flavour 4.15.1**
 - **Conflict Resolution:** Removed incorrect edits to MAG_DarkElfSpellCost `000E40D4`
 - **Conflict Resolution:** Forwarded Survival changes to MAG_flameCloak `0003AE9F` and MAG_FlameCloakScroll `000A44AB`
 - **Conflict Resolution:** Fixed error on doomSteedAbility `000E5F5E` and doomSteedFortifyCarryWeight due to a previous Mundus update
-- **Configuration:** Upped Smithing Cost to 0.80
 
 #### Wabbajack
 - Updated eFPS - Exterior FPS Boost to 2.4
