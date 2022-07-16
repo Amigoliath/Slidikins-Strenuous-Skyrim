@@ -3,6 +3,26 @@ Compatible with: **The Phoenix Flavour 4.15.1**
 
 # Changelog
 
+## 2022-07-16 (4.15.1.2)
+
+#### Mod Installation
+- **Trees & Plants:** Added Veydosebrom Regions - ENB Complex Grass
+- **Assorted Plugins:** Added Immersive Equipment Displays
+- **Conflict Resolution:** Removed USSEP's fix for diseases as Survival Mode Improved properly includes them now
+- **Conflict Resolution:** Resolved conflicts between WACCF and Survival Mode Improved
+
+#### Wabbajack
+- Updated Assorted Mesh Fixes to 0.68
+- Updated Cathedral - 3D Pine Grass - ENB Complex Grass to 1.02
+- Updated Folkvangr - Grass and Landscape Overhaul - ENB Complex Grass to 1.05
+- Updated QW's Grass Patch - ENB Complex Grass to 1.01
+- Updated Adamant - A Perk Overhaul to 5.5.5
+- Updated Survival Mode Improved to 1.3.2
+- Updated Open World Loot - Encounter Zone and Loot Overhaul to 1.3.5
+- Updated Apothecary - An Alchemy Overhaul to 1.3.3
+- Updated Apothecary - Food and Drink Addon to 1.1.1
+- Updated Dragon War - A Dragon Overhaul to 2.1.6
+
 ## 2022-07-09 (4.15.1.1)
 
 #### Mod Installation
