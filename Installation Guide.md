@@ -1,4 +1,4 @@
-Latest update: **2022-07-09**  
+Latest update: **2022-07-16**  
 Compatible with: **The Phoenix Flavour 4.15.1**
 
 # 1. Initial Setup
@@ -350,13 +350,17 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
 
 **I’ve added the following mods to this section:**
-### [Cathedral - 3D Pine Grass - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
-#### Download Instructions
-- **Main Files:** Cathedral - 3D Pine Grass for ENB Complex Grass
-
 ### [Folkvangr - Grass and Landscape Overhaul - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
 #### Download Instructions
 - **Main Files:** Folkvangr for ENB Complex Grass
+
+### [Veydosebrom Regions - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
+#### Download Instructions
+- **Main Files:** Veydosebrom Regions for ENB Complex Grass
+
+### [Cathedral - 3D Pine Grass - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
+#### Download Instructions
+- **Main Files:** Cathedral - 3D Pine Grass for ENB Complex Grass
 
 ### [QW’s Grass Patch - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/48689?tab=files)
 #### Download Instructions
@@ -632,6 +636,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Don't Stay in the Water](https://www.nexusmods.com/skyrimspecialedition/mods/52164?tab=files)
 #### Download Instructions
 - **Main Files:** Don't Stay in The Water
+
+### [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001?tab=files)
+#### Download Instructions
+- **Main Files:** Immersive Equipment Displays
 
 ## 3.30 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
