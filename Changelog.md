@@ -1,7 +1,40 @@
-Latest update: **2022-07-16**  
-Compatible with: **The Phoenix Flavour 4.15.1**
+Latest update: **2022-07-28**  
+Compatible with: **The Phoenix Flavour 4.15.2**
 
 # Changelog
+
+## 2022-07-28 (4.15.2)
+Updated for [TPF 4.15.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.2)
+
+#### Mod Installation
+- **Essential Mods:** Removed eFPS - Exterior FPS Boost
+- **Seasons of Skyrim:** Enabled the Invisible Mountain Slope Fix in Turn of the Seasons
+- **Trees & Plants:** Removed all edits as complex grass is now included in TPF
+- **Miscellaneous:** Removed Security Overhaul SKSE - Add-ons as it's included in TPF
+- **Conflict Resolution:** Forwarded 2 records `0000BC91` and `0000BC92` from Realistic Water Two to avoid errors
+- **Conflict Resolution:** Handled conflicts between `TOTS - MountainCliffSlopeBounds.esp` and the rest of the list
+- **Conflict Resolution:** Adjusted Honed Metal tempering cost multiplier to 0.05, also fixed the default values
+- **Configuration:** Added more stops to character exp/perks to the Uncapper.ini just in case
+- **Other:** NIF Preview included as an MO2 tool
+- **Other:** Changed MO2's theme just because
+
+#### Wabbajack
+- Updated More Informative Console to 1.1.0
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.9
+- Updated College of Winterhold Quest Start Fixes to 0.3.2
+- Updated Better Dynamic Snow to 3.5
+- Updated Realistic Water Two to 5.4.1
+- Updated Feminine Khajiit Textures to 3.1
+- Updated Masculine Khajiit Textures to 2.1
+- Updated C.O.I.N. - Coins of Interesting Nature to 2.0.1
+- Updated C.O.I.N. - Merchant Exchange to 2.0
+- Updated Hunters Not Bandits to 4.0
+- Updated Dragon War - A Dragon Overhaul to 2.1.7
+- Updated Missing Dragon Lair Encounter Zones to 1.1
+- Updated Adamant Perks for NPCs to 2.37
+- Updated Dragon War - Durnehviir Resurrected Patch to 2.1.7
+- Updated Sleeping Expanded - Animations and NPC Reactions to 1.21
+- Updated Better Jumping to 1.7.3
 
 ## 2022-07-16 (4.15.1.2)
 
