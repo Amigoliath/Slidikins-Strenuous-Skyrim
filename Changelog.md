@@ -13,6 +13,7 @@ Updated for [TPF 4.15.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - **Miscellaneous:** Removed Security Overhaul SKSE - Add-ons as it's included in TPF
 - **Conflict Resolution:** Forwarded 2 records `0000BC91` and `0000BC92` from Realistic Water Two to avoid errors
 - **Conflict Resolution:** Handled conflicts between `TOTS - MountainCliffSlopeBounds.esp` and the rest of the list
+- **Conflict Resolution:** Adjusted Honed Metal tempering cost multiplier to 0.05, also fixed the default values
 - **Configuration:** Added more stops to character exp/perks to the Uncapper.ini just in case
 - **Other:** NIF Preview included as an MO2 tool
 - **Other:** Changed MO2's theme just because
