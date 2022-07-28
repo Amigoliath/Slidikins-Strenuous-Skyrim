@@ -73,7 +73,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **eFPS - Exterior FPS Boost** - This mod promises better performance but it's been causing crashes around Whiterun. If those are fixed it may come back.
 
 ## 3.3 Fixes
-I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
 
 **I’ve updated instructions for the following mod:**
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
@@ -305,7 +305,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [Enhanced Blood Textures](https://www.nexusmods.com/skyrimspecialedition/mods/2357/?tab=files)
 #### Download Instructions
-- **Miscellaneous Files:** 4.0 beta 3
+- **Main Files:** Enhanced Blood Textures
 
 #### FOMOD Instructions
 - **SPID Compatibility and Script Distance:** SPID Compatible
@@ -374,16 +374,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.18 Valuable Items
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/valuable-items/).
-
-**I've changed the instructions for the following mod:**
-
-### [Rudy HQ - More Lights for ENB - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704?tab=files)
-#### Additional Instructions
-
-In addition to the previous instructions, delete the following files:  
-- `meshes\clutter\soulgem\soulgemcommon_full.nif`  
-- `meshes\clutter\soulgem\soulgemlesser_full.nif`
-- `meshes\clutter\soulgem\soulgempetty_full.nif`
 
 ## 3.19 Food & Ingredients
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/food-ingredients/).
