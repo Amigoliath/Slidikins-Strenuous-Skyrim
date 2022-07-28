@@ -1,5 +1,5 @@
-Latest update: **2022-07-16**  
-Compatible with: **The Phoenix Flavour 4.15.1**
+Latest update: **2022-07-28**  
+Compatible with: **The Phoenix Flavour 4.15.2**
 
 # 1. Initial Setup
 
@@ -68,7 +68,9 @@ Furthermore, as of The Phoenix Flavour 4.15 there is now a **Difficulty Modifier
 I use all of the mods listed in TPF’s corresponding section.
 
 ## 3.2 Essential Mods
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/) with the exception of:
+
+**eFPS - Exterior FPS Boost** - This mod promises better performance but it's been causing crashes around Whiterun. If those are fixed it may come back.
 
 ## 3.3 Fixes
 I use all of the mods listed in [TPF’s corresponding section.](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
@@ -266,7 +268,7 @@ I've added this section to TPF until it's officially adopted.
 
 #### FOMOD Instructions
 - **Optionals:** Icy Waterways
-- <s>**Optionals:** Invisible Mountain Slope Fix</s>
+- **Optionals:** Invisible Mountain Slope Fix
 - <s>**Patches:** Happy Little Trees</s>
 - **Patches:** Fixed Mesh Lighting
 
@@ -348,32 +350,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
-
-**I’ve added the following mods to this section:**
-### [Folkvangr - Grass and Landscape Overhaul - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
-#### Download Instructions
-- **Main Files:** Folkvangr for ENB Complex Grass
-
-### [Veydosebrom Regions - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
-#### Download Instructions
-- **Main Files:** Veydosebrom Regions for ENB Complex Grass
-
-### [Cathedral - 3D Pine Grass - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
-#### Download Instructions
-- **Main Files:** Cathedral - 3D Pine Grass for ENB Complex Grass
-
-### [QW’s Grass Patch - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/48689?tab=files)
-#### Download Instructions
-- **Main Files:** QW Grass 1 For ENB Complex Grass
-
-### [Landscapes - Cathedral Concept - ENB Complex Grass](https://www.nexusmods.com/skyrimspecialedition/mods/67304?tab=files)
-#### Download Instructions
-- **Main Files:** Cathedral Landscapes for ENB Complex Grass
-
-#### FOMOD Instructions
-- **Green Tundra:** No
-
-> *Landscapes - Cathedral Concept* is only used in the Performance Profile of TPF/SSS so you can skip it if you use the regular profile. Similarly, if you use the performance profile you can skip the *Folkvangr* and *QW's Grass Patch* entries in this section. Regardless, **all ENB Complex Grass mods should be disabled when generating LODs.**
 
 ## 3.13 Architecture
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/architecture/).
@@ -589,13 +565,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **ENB Particle Light for Wearable Lanterns** - For Wearable Lanterns, which has been removed.
 
 **I’ve added the following mod to this section:**
-
-### [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529?tab=files)
-#### Download Instructions
-- **Main Files:** Security Overhaul SKSE - Add-ons
-
-#### FOMOD Instructions
-- **Main:** 2K Textures
 
 ### [Coherent Inns Prices](https://www.nexusmods.com/skyrimspecialedition/mods/55207?tab=files)
 #### Download Instructions
@@ -838,7 +807,7 @@ All controls changed from the Default:
 ### Honed Metal
 - **General** Section
   - Crafting Cost Modifier: `0.80`
-  - Tempering Cost Modifier: `0.04`
+  - Tempering Cost Modifier: `0.05`
   - Enchanting Cost Modifier: `0.28`
 
 ### moreHUD
