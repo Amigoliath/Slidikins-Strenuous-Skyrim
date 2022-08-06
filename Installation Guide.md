@@ -97,10 +97,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** MfgFix
 
-### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
-#### Download Instructions
-- **Main Files:** Spiders of Solstheim - Transparency Fix
-
 ## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
 
