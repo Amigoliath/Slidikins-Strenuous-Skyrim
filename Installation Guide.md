@@ -1,5 +1,5 @@
-Latest update: **2022-07-28**  
-Compatible with: **The Phoenix Flavour 4.15.2**
+Latest update: **2022-08-07**  
+Compatible with: **The Phoenix Flavour 4.15.3**
 
 # 1. Initial Setup
 
@@ -343,6 +343,12 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/landscape/) with the exception of:
 
 **Assorted Mesh Fixes - SMIM - Really Blended Roads Patch** - Unnecessary with the updated *Skyland - Solitude*
+
+**I’ve added the following mod to this section:**
+
+### [IcyCollisions](https://www.nexusmods.com/skyrimspecialedition/mods/70656?tab=files)
+#### Download Instructions
+- **Main Files:** IcyCollisionsSkyrimRemastered
 
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).

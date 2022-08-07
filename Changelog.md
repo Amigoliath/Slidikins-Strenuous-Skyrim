@@ -1,7 +1,26 @@
-Latest update: **2022-07-28**  
-Compatible with: **The Phoenix Flavour 4.15.2**
+Latest update: **2022-08-07**  
+Compatible with: **The Phoenix Flavour 4.15.3**
 
 # Changelog
+
+## 2022-08-07 (4.15.3)
+Updated for [TPF 4.15.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.3)
+
+#### Mod Installation
+- **Landscape:** Added IcyCollisions
+
+#### Wabbajack
+- Updated College of Winterhold Quest Start Fixes to 0.4
+- Updated TrueHUD - HUD Additions to 1.1.6
+- Updated NORDIC UI - Miscellaneous Patches to 1.7
+- Updated Contextual Crosshair to 1.2.2
+- Updated DynDOLOD Resources to 3.00 Alpha-28
+- Updated Seasons of Skyrim to 1.7.2
+- Updated Wash That Blood Off 2 to 2.0
+- Updated Survival Mode Improved to 1.3.3
+- Updated The Choice is Yours to 2.5
+- Updated True Directional Movement to 2.2.2
+- Updated powerofthree's Papyrus Extender to 5.2
 
 ## 2022-07-28 (4.15.2)
 Updated for [TPF 4.15.2](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.2)
