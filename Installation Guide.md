@@ -1,5 +1,5 @@
-Latest update: **2022-08-07**  
-Compatible with: **The Phoenix Flavour 4.15.3**
+Latest update: **2022-09-17**  
+Compatible with: **The Phoenix Flavour 4.15.5**
 
 # 1. Initial Setup
 
@@ -68,12 +68,12 @@ Furthermore, as of The Phoenix Flavour 4.15 there is now a **Difficulty Modifier
 I use all of the mods listed in TPF’s corresponding section.
 
 ## 3.2 Essential Mods
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/) with the exception of:
-
-**eFPS - Exterior FPS Boost** - This mod promises better performance but it's been causing crashes around Whiterun. If those are fixed it may come back.
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/essential-mods/).
 
 ## 3.3 Fixes
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/fixes/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/fixes/) with the exception of:
+
+**Removed RaceMenu 0.4.16 Memory Leak Hotfix** - RaceMenu is no longer included in the modlist in its entirety so this is unnecessary.
 
 **I’ve updated instructions for the following mod:**
 ### [powerofthree’s Tweaks](https://thephoenixflavour.com/tpf/mod-installation/fixes/#powerofthrees-tweakshttpswwwnexusmodscomskyrimspecialeditionmods51073tabfiles)
@@ -89,13 +89,30 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Loose Version
 
+### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+#### Download Instructions
+- **Main Files:** MfgFix
+
 ### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
 #### Download Instructions
 - **Main Files:** Spiders of Solstheim - Transparency Fix
 
-### [MFG Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=files)
+### [Moons and Stars](https://www.nexusmods.com/skyrimspecialedition/mods/73336?tab=files)
 #### Download Instructions
-- **Main Files:** MfgFix
+- **Main Files:** Moons and Stars - Sky Overhaul SKSE
+
+### [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133?tab=files)
+#### Download Instructions
+- **Main Files:** Shadow Boost
+
+### [Shadow Diffusion](https://www.nexusmods.com/skyrimspecialedition/mods/74632?tab=files)
+#### Download Instructions
+- **Main Files:** Shadow Diffusion
+
+### [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498?tab=files)
+#### Download Instructions
+- **Main Files:** NVIDIA Reflex Support
+
 
 ## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
@@ -134,7 +151,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.5 Interface
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interface/) with the exception of:
 
-**RaceMenu** - You can leave this in if you want, but I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time.  
+**RaceMenu** - I removed it because (a) I don’t use it, really and (b) it causes harmless bloat that makes saving take longer over time. You can add it back in if you really want to, but you're on your own doing that. 
 **Nordic UI - Shout Cooldown** - I prefer the widget that comes with the TrueHUD version of Nordic UI.  
 **moreHUD - TPF Preset** - I have my own preset baked into the Config & Runtime Files.  
 **A Matter of Time - A Clock HUD Widget** - I’ve decided not to add UI elements needlessly.  
@@ -192,6 +209,15 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - ESL-ify **TrueHUD.esp** with SSEEdit ([instructions](https://thephoenixflavour.com/tpf/guide-resources/basic-instructions/#esl-ifying-plugins))
 
 **I’ve added the following mods to this section:**
+
+### [NORDIC UI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/72209?tab=files)
+#### Download Instructions
+- **Main Files:** NORDIC UI Markers (QUESTION UNDISCOVER MARK)
+
+### [Nordic-Ish TrueHUD Recent Item Widget](https://www.nexusmods.com/skyrimspecialedition/mods/63212?tab=files)
+#### Download Instructions
+- **Update Files:** Nordic-Ish TrueHUD Recent Item Widget (Made by SwitchbackModding)
+
 ### [A Clear Map of Skyrim and Other Worlds](https://www.nexusmods.com/skyrimspecialedition/mods/56367?tab=files)
 #### Download Instructions
 - **Main Files:** A Clear Map of Skyrim and Other Worlds FOMOD - PART 1
@@ -291,6 +317,12 @@ I've added this section to TPF until it's officially adopted.
 ## 3.8 Weather
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/weather/).
 
+**I’ve added the following mods to this section:**
+
+### [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115?tab=files)
+#### Download Instructions
+- **Main Files:** Splashes of Storms
+
 ## 3.9 Lighting
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/lighting/).
 
@@ -362,6 +394,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Unique Markarth Doors
 
+### [Whiterun Objects SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/69125?tab=files)
+#### Download Instructions
+- **Main Files:** Whiterun Objects SMIMed
+
 ## 3.14 Misc Structures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/misc-structures/).
 
@@ -381,7 +417,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/food-ingredients/).
 
 ## 3.20 Apparel & Weapons
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/apparel-weapons/).
+I use all of the mods from the corresponding section of the upcoming TPF 5.0 release.
 
 **I’ve added the following mod to this section:**
 ### [Elemental Staffs](https://www.nexusmods.com/skyrimspecialedition/mods/5319?tab=files)
@@ -397,7 +433,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/creatures/).
 
 ## 3.22 Appearance
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/appearance/).
+I use all of the mods from the corresponding section of the upcoming TPF 5.0 release.
 
 ## 3.23 Gameplay Overhauls
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/gameplay-overhauls/) with the exception of:
@@ -416,27 +452,13 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** Survival Mode Improved
 
 ## 3.24 Loot & Crafting
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/) with the exception of:
-
-**Improvement Names Customized** - This functionality will get covered by _Item Durability_.
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/).
 
 **I’ve added the following mods to this section:**
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
 - **Miscellaneous Files:** Apothecary - Food and Drink Addon - Survival Mode Patch
-
-### [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=files)
-#### Download Instructions
-- **Main Files:** Item Durability v3
-
-#### Additional Instructions
-- Double-click **Item Durability** in your mod order.
-- Switch to the Text Files tab and select the **ItemDurability.config.txt**.
-- In **Line 32**, change `WeaponHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
-- In **Line 42**, change `ArmorHealthNames =` to `"0;0.01;-10;0.01;0.11;-9;0.11;0.21;-8;0.21;0.31;-7;0.31;0.41;-6;0.41;0.51;-5;0.51;0.61;-4;0.61;0.71;-3;0.71;0.81;-2;0.81;0.91;-1;1.01;1.11;+1;1.11;1.21;+2;1.21;1.31;+3;1.31;1.41;+4;1.41;1.51;+5;1.51;1.61;+6;1.61;1.71;+7;1.71;1.81;+8;1.81;1.91;+9;1.91;2.01;+10"`
-- In **Line 250**, change `ApplyToNPC =` to `True`
-> The jumble of numbers on Lines 32 and 42 will change the regular tempering (and degradation) names to a -10 to +10 system, making it easier to tell exactly what level of quality a piece of equipment is at. This is what Improvement Names Customized accomplishes, but since that mod doesn’t account for degradation I chose to apply the feature here instead. These numbers won't be 100% accurate for negative values due to how Skyrim calculates the condition.
 
 ### [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015?tab=files)
 #### Download Instructions
@@ -445,6 +467,11 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Honed Metal Revoiced](https://www.nexusmods.com/skyrimspecialedition/mods/34393?tab=files)
 #### Download Instructions
 - **Main Files:** Honed Metal Revoiced (For Honed Metal SSE 1.2)
+
+### [Simple Degradation](https://www.nexusmods.com/skyrimspecialedition/mods/74790?tab=files)
+#### Download Instructions
+- **Main Files:** Simple Degradation
+- **Optional Files:** NPC Tempering
 
 ### [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439?tab=files)
 #### Download Instructions
@@ -494,6 +521,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** NPCs Wear Amulets of Mara 2.0
 
+### [NPCs React to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428?tab=files)
+#### Download Instructions
+- **Main Files:** NPCs React to Necromancy
+
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
 
@@ -519,8 +550,20 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
 **Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
+**Briraka's Draugr Overhaul** - Updated to Haugbui - A Draugr Overhaul
+**Briraka's Draugr Overhaul - WACCF Patch** - See above
+**Briraka's Draugr Overhaul - High Quality Shield Textures** - See above
+**Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch** - See above
 
 **I’ve added the following mods to this section:**
+
+### [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188?tab=files)
+#### Download Instructions
+- **Main Files:** Haugbui - A Draugr Overhaul
+- **Optional Files:** Haugbui - SimonRim Patch
+- **Optional Files:** Haugbui - CC Fishing Patch
+- **Optional Files:** Haugbui - WACCF Patch
+- **Miscellaneuous Files:** Better Shaped Weapons Patch
 
 ### [Resistances and Weaknesses](https://www.nexusmods.com/skyrimspecialedition/mods/45253?tab=files)
 #### Download Instructions
@@ -635,11 +678,6 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - Switch to the **Filetree** tab and rename the plugin:
   - SmoothCam.esl » SmoothCam.esp
 
-### [Slidikins’ SmoothCam Preset](https://www.nexusmods.com/skyrimspecialedition/mods/53939?tab=files)
-This is only necessary if you do not download the Configuration & Runtime Files later in the guide.
-#### Download Instructions
-- **Miscellaneous Files:** Slidikins’ SmoothCam Preset
-
 ### [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339?tab=files)
 #### Download Instructions
 - **Main Files:** Better Third Person Selection (SE)
@@ -699,11 +737,15 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [NPC Animation Remix](https://www.nexusmods.com/skyrimspecialedition/mods/63471?tab=files)
 #### Download Instructions
-- **Main Files:** NPC Animation Remix (DAR) - main download (no idles for your Dovahkiin since this version)
+- **Main Files:** NPC Animation Remix - Main archive (no looped idles) - DAR
 
 ### [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148?tab=files)
 #### Download Instructions
 - **Main Files:** Conditional Expressions
+
+### [Tools Not Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/70117?tab=files)
+#### Download Instructions
+- **Main Files:** Tools not weapons DAR animations
 
 ### [Ice Skating Fixed For Real](https://www.nexusmods.com/skyrimspecialedition/mods/55417?tab=files)
 #### Download Instructions
@@ -766,9 +808,11 @@ If you are unable to resolve all issues, please join us on Discord and post your
 - There will be two warnings about missing (not yet generated) cache, click **OK** to both.
 - Click the **Update Engine** button and wait for the process to be completed.
 - When it’s done, check the **Unarmed Scaling Unlocked** box.
+- Also check the **Precision** box.
 - Also check the **Ice Skating Fixed for Real** box.
 - Also check the **Jump Behavior Overhaul** box.
 - Also check the **True Directional Movement - 360 Horse Archery** box.
+- Also check the **True Directional Movement - Procedural Leaning** box.
 - Finally, check the **True Directional Movement - Headtracking** box.
 - Click the big Launch Nemesis Behavior Engine button.
 - Nemesis will eventually return `Behavior generation complete` and you can close the tool.
@@ -819,11 +863,6 @@ All controls changed from the Default:
     - Group 2: `0`
     - Group 3: `-`
     - Group 4: `=`
-
-### SmoothCam
-- **Presets** Panel
-  - **Load Preset** Section
-    - Slot 3: Slidikins’ Strenuous Skyrim: `Select`
 
 ### Timing is Everything
 - **Extra Options** Panel

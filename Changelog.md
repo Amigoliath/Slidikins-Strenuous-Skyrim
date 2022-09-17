@@ -1,7 +1,85 @@
-Latest update: **2022-08-07**  
-Compatible with: **The Phoenix Flavour 4.15.3**
+Latest update: **2022-09-17**  
+Compatible with: **The Phoenix Flavour 4.15.5**
 
 # Changelog
+
+## 2022-09-17 (4.15.5)
+Updated for [TPF 4.15.4](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.4) and [TPF 4.15.5](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.5)
+
+#### Mod Installation
+- **Essential Mods:** Re-added eFPS - Exterior FPS Boost
+- **Fixes:** Removed RaceMenu 0.4.16 Memory Leak Hotfix
+- **Fixes:** Added Moons and Stars
+- **Fixes:** Added Shadow Boost
+- **Fixes:** Added Shadow Diffusion
+- **Fixes:** Added NVIDIA Reflex Support
+- **Interface:** Added NORDIC UI Markers
+- **Interface:** Added Nordic-Ish TrueHUD Recent Item Widget
+- **Weather:** Added Splashes of Storms
+- **Architecture:** Added Whiterun Objects SMIMed
+- **Apparel & Weapons:** Updated entire section to be in line with TPF 5.0's
+- **Appearance:** Updated entire section to be in line with TPF 5.0's
+- **Gameplay Overhauls:** Added Precision - Accurate Melee Collisions
+- **Loot & Crafting:** Removed Item Durability
+- **Loot & Crafting:** Added Simple Degradation
+- **Loot & Crafting:** Added Simple Degradation - NPC Tempering
+- **Non Player Characters:** Added NPCs React To Necromancy
+- **Combat & Encounters:** Removed Dragon War - Variants due to incompatibility
+- **Combat & Encounters:** Removed Briraka's Draugr Overhaul
+- **Combat & Encounters:** Removed Briraka's Draugr Overhaul - WACCF Patch
+- **Combat & Encounters:** Removed Briraka's Draugr Overhaul - High Quality Shield Textures
+- **Combat & Encounters:** Removed Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch
+- **Combat & Encounters:** Added Haugbui - A Draugr Overhaul
+- **Combat & Encounters:** Added Haugbui - SimonRim Patch
+- **Combat & Encounters:** Added Haugbui - CC Fishing Patch
+- **Combat & Encounters:** Added Haugbui - WACCF Patch
+- **Combat & Encounters:** Added Haugbui - Better Shaped Weapons Patch
+- **Controls & Camera:** Removed Slidikins' SmoothCam Preset
+- **Skeletons & Animations:** Added Tools Not Weapons
+- **Skeletons & Animations:** Changed download for NPC Animation Remix
+- **Conflict Resolution:** Changed Realistic Water Two's Ripple Toggle default to on
+- **Conflict Resolution:** Removed edits to Halldir `000642C3` from TPF CRP
+- **Conflict Resolution:** Adjusted Halldir's Staff `000AB704` and Staff of Jyrik Gauldurson `000E5F43` to account for Haugbui
+- **Conflict Resolution:** Adjusted some records to account for C.O.I.N. updates
+- **Conflict Resolution:** Updated records for children and old people to match the updated Appearance section
+- **Conflict Resolution:** Merged TPF and SSS Conflict Resolution files
+
+#### Wabbajack
+- Updated Weapons Armor Clothing and Clutter Fixes to 2.9.1
+- Updated powerofthree's Tweaks to 1.7
+- Updated Assorted Mesh Fixes to 0.72
+- Updated Raven Rock - Fix Exit on Horseback to 1.1
+- Updated moreHUD - Settings Loader to 2.1.1
+- Updated A Clear Map of Skyrim and Other Worlds to 3.2.1
+- Updated Inferno - Fire Effects Redux to 5.1
+- Updated Arctic - Frost Effects Redux to 3.1
+- Updated Realistic Water Two to 5.5.0
+- Updated CC's Remasted Murals 4K to 1.1
+- Updated Mysticism - A Magic Overhaul to 2.1.2
+- Updated Adamant - A Perk Overhaul to 5.6.1
+- Updated Adamant - Hand to Hand Addon to 1.3.3
+- Updated Hand to Hand - Armor Addon to 1.3.3
+- Updated Adamant - Hand to Hand - Trainers and Skill Books Addon to 1.0.5
+- Updated Survival Mode Improved to 1.3.5
+- Updated Ancient Nord Stalhrim to 1.2.1
+- Updated C.O.I.N. - Coins of Interesting Natures to 2.1.0.1
+- Updated C.O.I.N. - Merchant Exchange to 2.0
+- Updated AI Overhaul to 1.8.2
+- Updated Dragon War - A Dragon Overhaul to 2.1.8
+- Updated Resistances and Weaknesses to 0.9.9
+- Updated Adamant Perks for NPCs to 2.4
+- Updated Dragon Wall Wisdom - Readable Dragon Walls to 1.1.1
+- Updated Audio Overhaul for Skyrim to 3.4.1
+- Updated Immersive Sounds Compendium - Mysticism & Adamant Patch to  1.2
+- Updated Audio Overhaul for Skyrim to 3.4.3
+- Updated XP32 Maximum Skeleton Special Extended to 4.81
+- Updated ENB Series to 0.477
+
+#### Outputs
+- Regenerated Nemesis
+- Regenerated xLODGEN
+- Regenerated TexGen
+- Regenerated DynDOLOD (and Performance)
 
 ## 2022-08-07 (4.15.3)
 Updated for [TPF 4.15.3](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.3)
