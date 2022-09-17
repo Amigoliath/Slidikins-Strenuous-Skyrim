@@ -54,7 +54,7 @@ Updated for [TPF 4.15.4](https://github.com/Codygits/TPF-Updates/releases/tag/4.
 - Updated Inferno - Fire Effects Redux to 5.1
 - Updated Arctic - Frost Effects Redux to 3.1
 - Updated Realistic Water Two to 5.5.0
-- Updated CC's Remasted Murals 4K to 1.1
+- Updated CC's Remastered Murals 4K to 1.1
 - Updated Mysticism - A Magic Overhaul to 2.1.2
 - Updated Adamant - A Perk Overhaul to 5.6.1
 - Updated Adamant - Hand to Hand Addon to 1.3.3
