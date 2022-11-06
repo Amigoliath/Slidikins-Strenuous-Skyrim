@@ -26,6 +26,7 @@ Compatible with: **The Phoenix Flavour 4.15.5**
 - **Assorted Plugins:** Removed Sales Overflow Solved
 - **Sound FX:** Added Regional Sounds Expansion
 - **Sound FX:** Added Reverb Interior Sounds Expansion
+- **Skeletons & Animations:** Added Immersive Equipping Animations
 - **Skeletons & Animations:** Added Read the Room
 - **Utilities:** Added NPCs Names Distributor
 - **Utilities:** Added Sound Record Distributor
