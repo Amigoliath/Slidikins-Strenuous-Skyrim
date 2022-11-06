@@ -1,7 +1,94 @@
-Latest update: **2022-09-17**  
+Latest update: **2022-11-06**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # Changelog
+
+## 2022-11-06 (4.15.6)
+
+#### Mod Installation
+- **Fixes:** Added ENB Light Inventory Fix
+- **Fixes:** Added Aurora Fix
+- **Fixes:** Added Barter Limit Fix
+- **Tweaks:** Added Dynamic Collision Adjustment
+- **Landscape:** Added Snowy Surfaces Sound Collision and Aesthetics
+- **Architecture:** Added 3D Trellis Improved - Gildergreen Plaza
+- **Loot & Crafting:** Added C.O.I.N. - Adamant and Hand to Hand Patches
+- **Non Player Characters:** Added Civil War Lines Expansion
+- **Non Player Characters:** Added Afterlife - Resurrected
+- **Non Player Characters:** Added Tamrielic Names
+- **Non Player Characters:** Added Ashlander Nomads Names
+- **Non Player Characters:** Added Dovah Names
+- **Non Player Characters:** Added Daedric Names
+- **Non Player Characters:** Added Reachmen Tribes Names
+- **Combat & Encounters:** Removed Adamant Perks for NPCs
+- **Combat & Encounters:** Added NPCs Learn Skills and Spells
+- **Combat & Encounters:** Added Quintessential Quivers
+- **Assorted Plugins:** Removed Sales Overflow Solved
+- **Sound FX:** Added Regional Sounds Expansion
+- **Sound FX:** Added Reverb Interior Sounds Expansion
+- **Skeletons & Animations:** Added Immersive Equipping Animations
+- **Skeletons & Animations:** Added Read the Room
+- **Utilities:** Added NPCs Names Distributor
+- **Utilities:** Added Sound Record Distributor
+
+#### Wabbajack
+- Updated SSE Engine Fixes to 5.9.0
+- Updated SSE Display Tweaks to 0.5.12
+- Updated Unofficial Skyrim Special Edition Patch to 4.2.8
+- Updated Particle Patch for ENB to 1.1.1
+- Updated powerofthree's Tweaks to 1.7.5
+- Updated Skyrim Landscape and Water Fixes to 7.1
+- Updated Landscape Fixes for Grass Mods to 5.1
+- Updated Assorted Mesh Fixes to 0.75
+- Updated No Animals Report Crimes (NARC) to 1.1
+- Updated NPC AI Process Position Fix to 1.1.1
+- Updated Moon And Stars to 2.0.2
+- Updated Calcelmo Has Standards to 1.1
+- Replaced No Crime Teleport with No Crime Teleport SE
+- Replaced Stay At The System Page - Updated with Stay At The System Page NG
+- Updated TrueHUD - HUD Additions to 1.1.8
+- Updated Simple Activate SKSE to 1.4
+- Updated DynDOLOD Resources to 3.00 Alpha-29
+- Updated Seasons of Skyrim to 1.7.5.2
+- Updated Enhanced Volumetric Lighting and Shadows to 1.3.1
+- Updated Storm Lightning to 1.4.17
+- Updated Splashes of Storms to 1.3
+- Updated Inferno - Fire Effects Redux (No version change)
+- Updated ENB Lights for Effect Shaders to 2.1
+- Updated Splashes of Skyrim to 1.4
+- Updated Majestic Mountains to 4.02
+- Updated Majestic Mountains - Dyn 3.0 LOD Pack to 4.01
+- Updated 3D Solitude Market Trellis to 3.1
+- Updated Mysticism - A Magic Overhaul to 2.1.3
+- Updated Adamant - A Perk Overhaul to 5.6.2
+- Updated Adamant - Hand to Hand Addon to 1.3.4
+- Updated Precision to 1.1.8
+- Updated Simple Offense Suppression to 2.2.1
+- Updated Misc Dialogue Edits to 1.8
+- Updated More Dialogue Options to 1.4
+- Updated Bandit Lines Expansion to 1.05
+- Updated NPCs Wear Amulets of Mara to 2.01
+- Updated Blade and Blunt - A Combat Overhaul to 2.0.2
+- Updated Haugbui - SimonRim Patch to 4.3
+- Updated Security Overhaul SKSE to 3.2
+- Updated Classic Paralysis to 3.3.1
+- Updated Enhanced Reanimation to 1.5.1
+- Updated Vampires Cast No Shadow to 1.2.1
+- Updated Essential Favorites to 2.3
+- Replaced Whose Quest is it Anyway with Whose Quest is it Anyway NG
+- Updated Remember Lockpick Angle to 4.2
+- Replaced I'm Walkin' Here with I'm Walking Here NG
+- Updated Immersive Equipment Displays to 1.6.3
+- Updated Gesture Animation Remix to 1.9.9
+- Updated True Directional Movement to 2.2.3
+- Updated SmoothCam to 1.7
+- Updated powerofthree's Papyrus Extender to 5.3
+- Updated Spell Perk Item Distributor to 6.0.3
+- Updated Keyword Item Distributor to 2.1.1
+- Updated Base Object Swapper to 2.0
+- Replaced Scaleform Translation Plus Plus with Scaleform Translation Plus Plus NG
+- Updated Dragon War - Reduced Difficulty to 2.1.8
+- Updated ENBSeries 0.477 (no version change)
 
 ## 2022-09-17 (4.15.5)
 Updated for [TPF 4.15.4](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.4) and [TPF 4.15.5](https://github.com/Codygits/TPF-Updates/releases/tag/4.15.5)
