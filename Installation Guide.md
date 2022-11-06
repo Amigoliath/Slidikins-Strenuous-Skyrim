@@ -825,9 +825,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** EVE - Ice skating fixed for real - No more attack skating movement
 
+### [Immersive Equipping Animations](https://www.nexusmods.com/skyrimspecialedition/mods/77187?tab=files)
+#### Download Instructions
+- **Main Files:** Immersive Equipping Animations
+
 ### [Read the Room](https://www.nexusmods.com/skyrimspecialedition/mods/77605?tab=files)
 #### Download Instructions
 - **Main Files:** Read the Room
+- **Optional Files:** Immersive Equipping Animations Patch » `merge with the first file`
 
 ## 3.33 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
