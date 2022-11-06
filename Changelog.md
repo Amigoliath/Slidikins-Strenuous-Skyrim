@@ -22,6 +22,7 @@ Compatible with: **The Phoenix Flavour 4.15.5**
 - **Non Player Characters:** Added Reachmen Tribes Names
 - **Combat & Encounters:** Removed Adamant Perks for NPCs
 - **Combat & Encounters:** Added NPCs Learn Skills and Spells
+- **Combat & Encounters:** Added Quintessential Quivers
 - **Assorted Plugins:** Removed Sales Overflow Solved
 - **Sound FX:** Added Regional Sounds Expansion
 - **Sound FX:** Added Reverb Interior Sounds Expansion
