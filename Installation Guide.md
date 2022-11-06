@@ -1,4 +1,4 @@
-Latest update: **2022-09-17**  
+Latest update: **2022-11-06**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # 1. Initial Setup
@@ -93,6 +93,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** MfgFix
 
+### [ENB Light Inventory Fix](https://www.nexusmods.com/skyrimspecialedition/mods/66411?tab=files)
+#### Download Instructions
+- **Main Files:** ELIF
+
 ### [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012?tab=files)
 #### Download Instructions
 - **Main Files:** Spiders of Solstheim - Transparency Fix
@@ -113,6 +117,14 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** NVIDIA Reflex Support
 
+### [Barter Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77173?tab=files)
+#### Download Instructions
+- **Main Files:** Barter Limit Fix
+
+### [Aurora Fix](https://www.nexusmods.com/skyrimspecialedition/mods/77834?tab=files)
+#### Download Instructions
+- **Main Files:** Aurora Fix-
+
 
 ## 3.4 Tweaks
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/tweaks/).
@@ -132,6 +144,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - In **Line 126**, change `DisableAutoFullHeal.Enabled =` to `true`.
 - In **Line 357**, change `TeammateDetection.Enabled =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
+
+### [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783?tab=files)
+#### Download Instructions
+- **Main Files:** Dynamic Collision Adjustment
 
 ### [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026?tab=files)
 #### Download Instructions
@@ -382,6 +398,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** IcyCollisionsSkyrimRemastered
 
+### [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257?tab=files)
+#### Download Instructions
+- **Main Files:** Snowy Surfaces Sound Collision and Aesthetics (Majestic Mountains version)
+
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
 
@@ -397,6 +417,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Whiterun Objects SMIMed](https://www.nexusmods.com/skyrimspecialedition/mods/69125?tab=files)
 #### Download Instructions
 - **Main Files:** Whiterun Objects SMIMed
+
+### [3D Trellis Improved - Gildergreen Plaza](https://www.nexusmods.com/skyrimspecialedition/mods/75882?tab=files)
+#### Download Instructions
+- **Main Files:** 3D Trellis Improved - Gildergreen Plaza
 
 ## 3.14 Misc Structures
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/misc-structures/).
@@ -497,6 +521,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - <s>**Other Patches:** Complete Alchemy and Cooking Overhaul</s>
 - **Other Patches:** Unofficial Skyrim Special Edition Patch
 
+### [C.O.I.N. - Adamant and Hand to Hand Patches](https://www.nexusmods.com/skyrimspecialedition/mods/76605?tab=files)
+#### Download Instructions
+- **Main Files:** C.O.I.N. Hand to Hand Patch
+
 ### [C.O.I.N. - Merchant Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/70644?tab=files)
 #### Download Instructions
 - **Main Files:** C.O.I.N. - Merchant Exchange
@@ -524,6 +552,35 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [NPCs React to Necromancy](https://www.nexusmods.com/skyrimspecialedition/mods/70428?tab=files)
 #### Download Instructions
 - **Main Files:** NPCs React to Necromancy
+
+### [Civil War Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77566?tab=files)
+#### Download Instructions
+- **Main Files:** Civil War Lines Expansion
+
+### [Afterlife - Resurrected](https://www.nexusmods.com/skyrimspecialedition/mods/55051?tab=files)
+#### Download Instructions
+- **Main Files:** Reverb Interior Sounds Expansion (1.3.0)
+
+### [Ashlander Nomads Names](https://www.nexusmods.com/skyrimspecialedition/mods/73315?tab=files)
+#### Download Instructions
+- **Main Files:** Afterlife
+
+### [Daedric Names](https://www.nexusmods.com/skyrimspecialedition/mods/74055?tab=files)
+#### Download Instructions
+- **Main Files:** Daedric Names
+
+### [Dovah Names](https://www.nexusmods.com/skyrimspecialedition/mods/74053?tab=files)
+#### Download Instructions
+- **Main Files:** Dovah Names
+
+### [Reachmen Tribes Names](https://www.nexusmods.com/skyrimspecialedition/mods/73312?tab=files)
+#### Download Instructions
+- **Main Files:** Reachmen Tribes Names
+- **Optional Files:** Forsworn Matriachs » `merge with the first file`
+
+### [Tamrielic Names](https://www.nexusmods.com/skyrimspecialedition/mods/73153?tab=files)
+#### Download Instructions
+- **Main Files:** Tamrielic Names
 
 ## 3.26 Improved Vanilla Quests
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/improved-vanilla-quests/).
@@ -573,9 +630,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Enchantments and Potions Work for NPCs - EPW4NPCs (MO2 Friendly Edition)
 
-### [Adamant Perks for NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/47484?tab=files)
+### [NPCs Learn Skills and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/77342?tab=files)
 #### Download Instructions
-- **Main Files:** Adamant perks for NPCS 30
+- **Main Files:** NPCs Learn Skills and Spells
 
 ### [STAYDOWN](https://www.nexusmods.com/skyrimspecialedition/mods/41228?tab=files)
 #### Download Instructions
@@ -623,7 +680,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** Sensible Bribes
 
 ## 3.29 Assorted Plugins
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
+
+**Sales Overflow Solved** - Covered by _Barter Limit Fix_  
 
 **I’ve added the following mods to this section:**
 
@@ -647,6 +706,17 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.30 Sound FX
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
+
+**I’ve added the following mods to this section:**
+
+### [Regional Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77829?tab=files)
+#### Download Instructions
+- **Main Files:** Regional Sounds Expansion (1.6.0)
+- **Optional Files:** Replacer Plugin for Audio Overhaul for Skyrim Users » `merge with the first file`
+
+### [Reverb Interior Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77947?tab=files)
+#### Download Instructions
+- **Main Files:** Reverb Interior Sounds Expansion (1.3.0)
 
 ## 3.31 Controls & Camera
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/controls-camera/).
@@ -751,6 +821,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** EVE - Ice skating fixed for real - No more attack skating movement
 
+### [Read the Room](https://www.nexusmods.com/skyrimspecialedition/mods/77605?tab=files)
+#### Download Instructions
+- **Main Files:** Read the Room
+
 ## 3.33 Utilities
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/utilities/).
 
@@ -763,6 +837,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
 #### Download Instructions
 - **Main Files:** Base Object Swapper SE
+
+### [NPCs Names Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73081?tab=files)
+#### Download Instructions
+- **Main Files:** NPCs Names Distributor
 
 # 4. Finalization
 
