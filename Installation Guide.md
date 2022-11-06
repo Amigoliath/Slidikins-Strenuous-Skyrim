@@ -646,6 +646,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Wait Your Turn - Enemy Circling Behaviour
 
+### [Quintessential Quivers](https://www.nexusmods.com/skyrimspecialedition/mods/77860?tab=files)
+#### Download Instructions
+- **Main Files:** Quintessential Quivers
+
 ## 3.28 Miscellaneous
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/miscellaneous/) with the exception of:
 
