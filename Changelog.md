@@ -1,7 +1,22 @@
-Latest update: **2022-11-06**  
+Latest update: **2022-11-07**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # Changelog
+
+## 2022-11-07 (4.15.6.1)
+
+#### Mod Installation
+- **Landscape:** Added FYX - Water Splash
+- **Interiors:** Added Skyrim Objects SMIMed - Noble Furniture
+- **Loot & Crafting:** Added Armor and Clothing Expansion - Spell Perk Item Distributor Patch
+- **Miscellaneous:** Added Random Barrel Roll
+- **Conflict Resolution:** Added default settings for Read the Room and NPCs Names Distributor
+
+#### Wabbajack
+- Updated Quintessential Quivers to 1.4
+- Replaced Yes Im Sure with Yes Im Sure NG
+- Updated Base Object Swapper to 2.5
+- Updated Sound Record Distributor to 1.1.1
 
 ## 2022-11-06 (4.15.6)
 
