@@ -1,4 +1,4 @@
-Latest update: **2022-11-06**  
+Latest update: **2022-11-07**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # 1. Initial Setup
@@ -402,6 +402,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 #### Download Instructions
 - **Main Files:** Snowy Surfaces Sound Collision and Aesthetics (Majestic Mountains version)
 
+### [FYX - Water Splash](https://www.nexusmods.com/skyrimspecialedition/mods/77971?tab=files)
+#### Download Instructions
+- **Main Files:** FYX - Water Splash - RWT2
+
 ## 3.12 Trees & Plants
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/trees-plants/).
 
@@ -427,6 +431,12 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ## 3.15 Interiors
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/interiors/).
+
+**I’ve added the following mods to this section:**
+
+### [Skyrim Objects SMIMed - Noble Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/77499?tab=files)
+#### Download Instructions
+- **Main Files:** Skyrim Objects SMIMed - Noble Furniture
 
 ## 3.16 Dungeons
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/dungeons/).
@@ -479,6 +489,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/loot-crafting/).
 
 **I’ve added the following mods to this section:**
+
+- **Optional Files:** [Armor and Clothing Extension - Spell Perk Item Distributor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
+#### Download Instructions
+- **Optional Files:** Armor and Clothing Extension - Spell Perk Item Distributor (SPID) Patch
 
 ### [Apothecary - Food and Drink Addon - Survival Mode Patch](https://www.nexusmods.com/skyrimspecialedition/mods/52130?tab=files)
 #### Download Instructions
@@ -682,6 +696,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ### [Sensible Bribes](https://www.nexusmods.com/skyrimspecialedition/mods/55450?tab=files)
 #### Download Instructions
 - **Main Files:** Sensible Bribes
+
+### [Random Barrel Roll](https://www.nexusmods.com/skyrimspecialedition/mods/78195?tab=files)
+#### Download Instructions
+- **Main Files:** Random Barrel Roll
 
 ## 3.29 Assorted Plugins
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/assorted-plugins/) with the exception of:
