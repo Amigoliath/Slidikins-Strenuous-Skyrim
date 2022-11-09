@@ -24,7 +24,6 @@ This list uses the following Creations, all of which are freely available with S
 - Open the **Profile** settings in MO2 (Tools » Profiles or CTRL+P).
 - The **The Phoenix Flavour** profile will be selected automatically (assuming you just finished installing it).
 - Click **Copy** to set up a new profile based on **The Phoenix Flavour**.
-- Enter **Slidikins' Strenuous Skyrim** as the name.
 - Select your new profile in the list.
 - Click **Close** to exit the settings.
 - In the profile list below the top left menu in MO2, select your new profile to switch to it.
@@ -490,7 +489,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **I’ve added the following mods to this section:**
 
-- **Optional Files:** [Armor and Clothing Extension - Spell Perk Item Distributor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
+[Armor and Clothing Extension - Spell Perk Item Distributor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
 #### Download Instructions
 - **Optional Files:** Armor and Clothing Extension - Spell Perk Item Distributor (SPID) Patch
 
