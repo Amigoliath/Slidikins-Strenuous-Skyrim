@@ -489,7 +489,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 **I’ve added the following mods to this section:**
 
-[Armor and Clothing Extension - Spell Perk Item Distributor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
+### [Armor and Clothing Extension - Spell Perk Item Distributor Patch](https://www.nexusmods.com/skyrimspecialedition/mods/19002?tab=files)
 #### Download Instructions
 - **Optional Files:** Armor and Clothing Extension - Spell Perk Item Distributor (SPID) Patch
 
@@ -619,11 +619,11 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 ## 3.27 Combat & Encounters
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/combat-encounters/) with the exception of:
 
-**Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?
-**Briraka's Draugr Overhaul** - Updated to Haugbui - A Draugr Overhaul
-**Briraka's Draugr Overhaul - WACCF Patch** - See above
-**Briraka's Draugr Overhaul - High Quality Shield Textures** - See above
-**Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch** - See above
+**Blade and Blunt - Vanilla Difficulty Modifiers** - C’mon now, did you really think we were turning this down?  
+**Briraka's Draugr Overhaul** - Updated to Haugbui - A Draugr Overhaul  
+**Briraka's Draugr Overhaul - WACCF Patch** - See above  
+**Briraka's Draugr Overhaul - High Quality Shield Textures** - See above  
+**Open World Loot - Ancient Nord Stalhrim and Briraka's Draugr Overhaul Patch** - See above  
 
 **I’ve added the following mods to this section:**
 
