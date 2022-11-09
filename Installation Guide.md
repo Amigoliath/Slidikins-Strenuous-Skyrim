@@ -669,9 +669,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 **Misc Tweaks - More Expensive Inns** - Covered by _Coherent Inns Prices_  
 **Misc Tweaks - Shrines Don’t Cure Diseases** - Superceded by _Pilgrim - A Religion Overhaul_  
 **Viewable Faction Ranks** - You shouldn’t have to go into the MCM for any information after the initial setup.  
-**Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.
-**Wearable Lanterns - Patch** - For Wearable Lanterns, which has been removed.
-**ENB Particle Light for Wearable Lanterns** - For Wearable Lanterns, which has been removed.
+**Wearable Lanterns** - The game has plenty of lighting options that a two-hander or dual wielder can utilize instead of a torch.  
+**Wearable Lanterns - Patch** - For Wearable Lanterns, which has been removed.  
+**ENB Particle Light for Wearable Lanterns** - For Wearable Lanterns, which has been removed.  
 
 **I’ve added the following mod to this section:**
 
