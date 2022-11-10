@@ -1,7 +1,26 @@
-Latest update: **2022-11-07**  
+Latest update: **2022-11-10**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # Changelog
+
+## 2022-11-10
+
+#### Mod Installation
+- **Tweaks:** Added Papyrus Tweaks
+- **Sound FX:** Removed Audio Overhaul for Skyrim - Cathedral Weathers Patch
+- **Conflict Resolution:** Removed edits related to Audio Overhaul for Skyrim
+- **Conflict Resolution:** Moved WhiterunWindDistrict02 `0001A27B` to the main CR patch as it was the only record left
+
+#### Wabbajack
+- Updated SSE Engine Fixes to 5.9.1
+- Updated Assorted Mesh Fixes to 0.76
+- Updated Skyrim Children Refine to 1.1.1
+- Updated Audio Overhaul for Skyrim to 3.9.0
+- Updated Regional Sounds Expansion to 1.8
+- Updated Immersive Equipping Animations to 2.01
+- Updated MCM Helper to 1.4
+- Updated Sound Record Distributor to 1.1.2
+
 
 ## 2022-11-07 (4.15.6.1)
 
