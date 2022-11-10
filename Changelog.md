@@ -15,6 +15,7 @@ Compatible with: **The Phoenix Flavour 4.15.5**
 - Updated SSE Engine Fixes to 5.9.1
 - Updated Assorted Mesh Fixes to 0.76
 - Updated Skyrim Children Refine to 1.1.1
+- Updated Survival Mode Improved to PreRelease3
 - Updated Audio Overhaul for Skyrim to 3.9.0
 - Updated Regional Sounds Expansion to 1.8
 - Updated Immersive Equipping Animations to 2.01
