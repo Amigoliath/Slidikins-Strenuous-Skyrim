@@ -1,4 +1,4 @@
-Latest update: **2022-11-07**  
+Latest update: **2022-11-10**  
 Compatible with: **The Phoenix Flavour 4.15.5**
 
 # 1. Initial Setup
@@ -143,6 +143,10 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - In **Line 126**, change `DisableAutoFullHeal.Enabled =` to `true`.
 - In **Line 357**, change `TeammateDetection.Enabled =` to `true`.
 - Hit **CTRL+S** to save your changes and close the window.
+
+### [Papyrus Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/77779?tab=files)
+#### Download Instructions
+- **Main Files:** Papyrus Tweaks NG
 
 ### [Dynamic Collision Adjustment](https://www.nexusmods.com/skyrimspecialedition/mods/76783?tab=files)
 #### Download Instructions
@@ -726,7 +730,9 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 - **Main Files:** Immersive Equipment Displays
 
 ## 3.30 Sound FX
-I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/).
+I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/sound-fx/) with the exception of:
+
+**Audio Overhaul for Skyrim - Cathedral Weathers Patch** - No longer necessary with new versions of _Audio Overhaul for Skyrim_  
 
 **I’ve added the following mods to this section:**
 
