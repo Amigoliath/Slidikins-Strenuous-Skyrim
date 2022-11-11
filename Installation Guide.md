@@ -771,7 +771,7 @@ I use all of the mods listed in [TPF’s corresponding section](https://thephoen
 
 ### [Better Third Person Selection](https://www.nexusmods.com/skyrimspecialedition/mods/64339?tab=files)
 #### Download Instructions
-- **Main Files:** Better Third Person Selection (SE)
+- **Main Files:** Better Third Person Selection (AE - SE)
 
 ## 3.32 Skeleton & Animations
 I use all of the mods listed in [TPF’s corresponding section](https://thephoenixflavour.com/tpf/mod-installation/skeleton-animations/) with the exception of:
