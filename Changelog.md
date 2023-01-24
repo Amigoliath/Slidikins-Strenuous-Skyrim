@@ -3,6 +3,8 @@ Compatible with: **The Phoenix Flavour 4.15.5**
 
 # Changelog
 
+#### Future changes starting at 4.16.0 and beyond can be found [here](https://thephoenixflavour.com/skyrim-se/sss/changelog/)
+
 ## 2022-11-07 (4.15.6.1)
 
 #### Mod Installation
