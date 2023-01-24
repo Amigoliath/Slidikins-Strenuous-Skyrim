@@ -3,7 +3,7 @@
 ![Slidikins' Strenuous Skyrim](https://i.imgur.com/S3Ef5We.png)
 
 # Introduction
-**Slidikins’ Strenuous Skyrim (SSS)** is an addon for **[The Phoenix Flavour (TPF)](https://thephoenixflavour.com/tpf/introduction/)**, a wonderfully curated modding guide for [The Elder Scrolls V Skyrim: Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/). In order to use the Installation Guide you’ll first need to [install TPF](https://github.com/Codygits/TPF-Updates/blob/main/List%20Installation.md). Even though TPF's manual guide is no longer supported, I wrote this assuming you’ve read TPF and understand the tools it has included.
+**Slidikins’ Strenuous Skyrim (SSS)** is an addon for **[The Phoenix Flavour (TPF)](https://thephoenixflavour.com/tpf/introduction/)**, a wonderfully curated modding guide for [The Elder Scrolls V Skyrim: Special Edition](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/). The Phoenix Flavour itself is not required as everything you need will be provided through Wabbajack installation.
 
 **What to expect from The Phoenix Flavour:**  
 *Copied from the guide*
@@ -20,5 +20,4 @@
 - **Preparedness Rewarded:** The diminished health regen will dwindle supplies if you’re hurt frequently. Long fights are not your friend. Bringing the right tools for the job--along with accounting for _Resistances and Weaknesses_--will go a long way towards preventing stalls in your adventures.
 
 
-### To get started, head to the >> [Installation Guide](Installation%20Guide.md) <<
-### Or >> [Wabbajack Installation](Wabbajack.md) << for the auto-installer
+### To get started, head to the >> [Installation Guide](https://thephoenixflavour.com/skyrim-se/sss/installation-guide/) <<
