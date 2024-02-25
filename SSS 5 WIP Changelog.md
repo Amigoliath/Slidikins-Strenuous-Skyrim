@@ -1,4 +1,4 @@
-#### Changes
+## Changes
 
 - **Mod Organizer 2:** Added Bethesda Plugin Manager
 
